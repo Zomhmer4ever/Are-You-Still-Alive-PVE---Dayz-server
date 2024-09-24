@@ -1,0 +1,53 @@
+{
+  "m_Version": 7,
+  "m_TraderID": 900,
+  "m_ClassName": "ExpansionP2PTraderAIJudy",
+  "m_Position": [
+    8160.37,
+    248.178,
+    11009.8
+  ],
+  "m_Orientation": [
+    240,
+    0,
+    0
+  ],
+  "m_LoadoutFile": "SurvivorLoadout",
+  "m_VehicleSpawnPosition": [
+    8156.49,
+    248.23,
+    11013.7
+  ],
+  "m_WatercraftSpawnPosition": [
+    0,
+    0,
+    0
+  ],
+  "m_AircraftSpawnPosition": [
+    8185.62,
+    243.949,
+    11048.5
+  ],
+  "m_DisplayName": "Player 2 Player Trader",
+  "m_DisplayIcon": "Deliver",
+  "m_Faction": "InvincibleObservers",
+  "m_Waypoints": [],
+  "m_EmoteID": 0,
+  "m_EmoteIsStatic": 0,
+  "m_IsGlobalTrader": 0,
+  "m_Currencies": [
+    "expansiongoldbar",
+    "expansiongoldnugget",
+    "expansionsilverbar",
+    "expansionsilvernugget",
+    "Coin",
+    "Money_Dollar1",
+    "Money_Dollar5",
+    "Money_Dollar10",
+    "Money_Dollar20",
+    "Money_Dollar50",
+    "Money_Dollar100"
+  ],
+  "m_DisplayCurrencyValue": 1,
+  "m_DisplayCurrencyName": ""
+}

@@ -1,0 +1,223 @@
+{
+  "m_Version": 5,
+  "EnableMap": 1,
+  "UseMapOnMapItem": 1,
+  "ShowPlayerPosition": 1,
+  "ShowMapStats": 1,
+  "NeedPenItemForCreateMarker": 0,
+  "NeedGPSItemForCreateMarker": 0,
+  "CanCreateMarker": 1,
+  "CanCreate3DMarker": 1,
+  "CanOpenMapWithKeyBinding": 1,
+  "ShowDistanceOnPersonalMarkers": 1,
+  "EnableHUDGPS": 1,
+  "NeedGPSItemForKeyBinding": 1,
+  "NeedMapItemForKeyBinding": 0,
+  "EnableServerMarkers": 1,
+  "ShowNameOnServerMarkers": 1,
+  "ShowDistanceOnServerMarkers": 1,
+  "ServerMarkers": [
+    {
+      "m_UID": "Quarantine Camp",
+      "m_Visibility": 0,
+      "m_Is3D": 0,
+      "m_Text": "Quarantine Camp",
+      "m_IconName": "Infected 1",
+      "m_Color": -59111,
+      "m_Position": [
+        2730,
+        12,
+        1334
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    },
+    {
+      "m_UID": "Evac Zone",
+      "m_Visibility": 0,
+      "m_Is3D": 0,
+      "m_Text": "Evac Zone",
+      "m_IconName": "Boat",
+      "m_Color": -59111,
+      "m_Position": [
+        13700,
+        38.85650634765625,
+        3050
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    },
+    {
+      "m_UID": "Army HQ",
+      "m_Visibility": 0,
+      "m_Is3D": 0,
+      "m_Text": "Army HQ",
+      "m_IconName": "Questionmark",
+      "m_Color": -59111,
+      "m_Position": [
+        1250,
+        454.21331787109375,
+        14521
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    },
+    {
+      "m_UID": "Old Survivor Camp",
+      "m_Visibility": 0,
+      "m_Is3D": 0,
+      "m_Text": "Old Survivor Camp",
+      "m_IconName": "Human Skull",
+      "m_Color": -59111,
+      "m_Position": [
+        425,
+        421.7039794921875,
+        11113
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    },
+    {
+      "m_UID": "Unknown Activity 2",
+      "m_Visibility": 0,
+      "m_Is3D": 0,
+      "m_Text": "Unknown troops this area ",
+      "m_IconName": "Star",
+      "m_Color": -2300043,
+      "m_Position": [
+        1636,
+        458.1600036621094,
+        14084
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    },
+    {
+      "m_UID": "Unknown Activity 3",
+      "m_Visibility": 0,
+      "m_Is3D": 0,
+      "m_Text": "Unknown troops this area ",
+      "m_IconName": "Star",
+      "m_Color": -2300043,
+      "m_Position": [
+        4575.669921875,
+        339.1300048828125,
+        10610.2001953125
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    },
+    {
+      "m_UID": "Unknown Activity 4",
+      "m_Visibility": 0,
+      "m_Is3D": 0,
+      "m_Text": "Unknown troops this area ",
+      "m_IconName": "Star",
+      "m_Color": -2300043,
+      "m_Position": [
+        11864,
+        140,
+        12455
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    },
+    {
+      "m_UID": "Unknown Activity 5",
+      "m_Visibility": 0,
+      "m_Is3D": 0,
+      "m_Text": "Unknown troops this area ",
+      "m_IconName": "Star",
+      "m_Color": -2300043,
+      "m_Position": [
+        3703,
+        402,
+        5992
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    },
+    {
+      "m_UID": "Unknown Activity 6",
+      "m_Visibility": 0,
+      "m_Is3D": 0,
+      "m_Text": "Unknown troops this area ",
+      "m_IconName": "Star",
+      "m_Color": -2300043,
+      "m_Position": [
+        6144,
+        362.28668212890625,
+        6898
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    },
+    {
+      "m_UID": "Event Arena",
+      "m_Visibility": 0,
+      "m_Is3D": 0,
+      "m_Text": "Event Arena",
+      "m_IconName": "Shotgun Bullets",
+      "m_Color": -354791,
+      "m_Position": [
+        8221,
+        421.7039794921875,
+        13501
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    },
+    {
+      "m_UID": "Smugglers Dock",
+      "m_Visibility": 0,
+      "m_Is3D": 0,
+      "m_Text": "Smugglers Dock",
+      "m_IconName": "Trader",
+      "m_Color": -15073511,
+      "m_Position": [
+        13532,
+        4,
+        6283
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    },
+    {
+      "m_UID": "Heli Trader",
+      "m_Visibility": 0,
+      "m_Is3D": 0,
+      "m_Text": "Heli Trader",
+      "m_IconName": "Trader",
+      "m_Color": -15073511,
+      "m_Position": [
+        12169,
+        146,
+        12686
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    },
+    {
+      "m_UID": "Survivor Camp",
+      "m_Visibility": 0,
+      "m_Is3D": 0,
+      "m_Text": "Survivor Camp",
+      "m_IconName": "Trader",
+      "m_Color": -15073511,
+      "m_Position": [
+        8118,
+        249.657,
+        10985
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    }
+  ],
+  "EnableHUDCompass": 1,
+  "NeedCompassItemForHUDCompass": 1,
+  "NeedGPSItemForHUDCompass": 1,
+  "CompassColor": -1,
+  "CreateDeathMarker": 1,
+  "PlayerLocationNotifier": 1,
+  "CompassBadgesColor": -1946157056
+}

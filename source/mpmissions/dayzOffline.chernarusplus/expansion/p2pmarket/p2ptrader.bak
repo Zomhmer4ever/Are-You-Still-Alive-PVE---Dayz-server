@@ -1,0 +1,35 @@
+{
+  "m_Version": 4,
+  "m_TraderID": 900,
+  "m_ClassName": "ExpansionP2PTraderAIJudy",
+  "m_Position": [
+    6153.23,
+    362.995,
+    6913.04
+  ],
+  "m_Orientation": [
+    150,
+    0,
+    0
+  ],
+  "m_LoadoutFile": "SurvivorLoadout",
+  "m_VehicleSpawnPosition": [
+    6145.19,
+    362.583,
+    6895.25
+  ],
+  "m_WatercraftSpawnPosition": [
+    0,
+    0,
+    0
+  ],
+  "m_AircraftSpawnPosition": [
+    6258.24,
+    362.09,
+    6853.05
+  ],
+  "m_DisplayName": "Player 2 Player Trader",
+  "m_DisplayIcon": "Deliver",
+  "m_Faction": "InvincibleObservers",
+  "m_IsGlobalTrader": 0
+}

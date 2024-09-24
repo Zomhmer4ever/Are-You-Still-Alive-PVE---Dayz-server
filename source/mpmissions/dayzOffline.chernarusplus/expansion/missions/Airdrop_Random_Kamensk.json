@@ -1,0 +1,25 @@
+{
+    "m_Version": 1,
+    "Enabled": 1,
+    "Weight": 54.0,
+    "MissionMaxTime": 1200,
+    "MissionName": "Random_Kamensk",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 450.0,
+    "Speed": 25.0,
+    "Container": "Random",
+    "FallSpeed": 0.0,
+    "DropLocation": {
+        "x": 6610.0,
+        "z": 14423.0,
+        "Name": "Kamensk",
+        "Radius": 100.0
+    },
+    "Infected": [],
+    "ItemCount": -1,
+    "InfectedCount": -1,
+    "Loot": []
+}

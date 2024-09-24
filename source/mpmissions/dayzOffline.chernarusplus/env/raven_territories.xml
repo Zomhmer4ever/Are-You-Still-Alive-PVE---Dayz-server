@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="2074875475">
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="14240.88" z="14862.29" r="100"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="14835.07" z="14565.80" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="12998.79" z="15011.02" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="12650.78" z="14620.24" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="11960.60" z="14375.27" r="50"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="10469.41" z="14180.85" r="50"/>
+    </territory>
+	<territory color="2077736275">
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="11996.57" z="13745.36" r="100"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="13972.83" z="13306.95" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="13366.24" z="12975.46" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="12336.80" z="12428.18" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="11781.74" z="12556.49" r="50"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="10947.44" z="12274.59" r="50"/>
+    </territory>
+	<territory color="2099610575">
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="10748.40" z="12421.37" r="100"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="13131.00" z="10421.78" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="12830.62" z="10136.96" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="12264.86" z="9695.63" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="10449.97" z="9857.48" r="50"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="9665.49" z="10436.36" r="50"/>
+    </territory>
+	<territory color="2088364575">
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="9707.29" z="8804.71" r="100"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="10625.43" z="7981.83" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="12806.32" z="8185.00" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="10609.15" z="8091.19" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="12086.49" z="7268.81" r="50"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="11092.52" z="6624.80" r="50"/>
+    </territory>
+	<territory color="2995260575">
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="13357.49" z="6256.37" r="100"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="11343.32" z="5494.74" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="10209.14" z="5464.36" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="12883.11" z="4447.31" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="12058.30" z="3619.58" r="50"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="10594.33" z="2533.27" r="50"/>
+    </territory>
+	<territory color="2077353575">
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="10263.33" z="2284.41" r="100"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="9174.59" z="3885.93" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="7722.29" z="3223.45" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="6461.00" z="2352.94" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="5638.12" z="2543.96" r="50"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="6044.46" z="3274.00" r="50"/>
+   </territory>
+   <territory color="2046553575">
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="5782.97" z="3071.32" r="100"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="5553.55" z="2316.49" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="5082.09" z="2290.24" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="4547.44" z="2451.61" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="4470.64" z="4605.76" r="50"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="6071.68" z="4889.61" r="50"/>
+   </territory>
+   <territory color="2045239475">
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="7424.83" z="5186.59" r="100"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="4961.55" z="5601.18" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="6535.36" z="6099.87" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="8326.44" z="5934.61" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="4555.70" z="6367.68" r="50"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="4663.12" z="6844.49" r="50"/>
+  </territory>
+  <territory color="2091672575">
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="6109.59" z="7636.74" r="100"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="5918.09" z="7869.07" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="4413.29" z="8218.05" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="5208.46" z="8584.53" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="3771.71" z="8761.45" r="50"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="4825.46" z="9721.88" r="50"/>
+  </territory>
+  <territory color="2073649175">
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="4354.96" z="10603.56" r="100"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="7999.82" z="12734.87" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="9495.38" z="13785.21" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="7840.88" z="14663.01" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="9369.98" z="14576.50" r="50"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="5045.15" z="15047.96" r="50"/>
+  </territory>
+  <territory color="2073687102">
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="3666.72" z="14915.75" r="100"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="3359.54" z="12802.43" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="2885.16" z="12452.48" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="1767.26" z="13869.79" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="1574.79" z="14439.43" r="50"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="217.75" z="11925.60" r="50"/>
+  </territory>
+  <territory color="2967287012">
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="1377.45" z="11995.60" r="100"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="610.47" z="11161.54" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="1196.64" z="11381.23" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="2200.81" z="11138.21" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="1163.59" z="10019.34" r="50"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="452.99" z="9463.30" r="50"/>
+  </territory>
+  <territory color="2886479175">
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="1232.61" z="8785.75" r="100"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="1409.53" z="9257.22" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="3028.06" z="7820.47" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="969.66" z="7667.85" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="2018.06" z="7324.70" r="50"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="2497.30" z="5182.21" r="50"/>
+  </territory>
+  <territory color="2774329175">
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="2705.33" z="5281.37" r="100"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="1765.32" z="3827.12" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="1825.59" z="2212.48" r="80"/>
+        <zone name="zone_raven" smin="0" smax="0" dmin="1" dmax="2" x="2804.48" z="1219.49" r="80"/>
+  </territory>
+</territory-type>

@@ -1,0 +1,123 @@
+{
+    "m_Version": 4,
+    "CanBuildAnywhere": 1,
+    "AllowBuildingWithoutATerritory": 1,
+    "DeployableOutsideATerritory": [
+        "ExpansionSatchel",
+        "Fireplace",
+        "TerritoryFlagKit",
+        "MediumTent",
+        "LargeTent",
+        "CarTent",
+        "PartyTent",
+        "ExpansionCamoTentKit",
+        "ExpansionCamoBoxKit",
+        "ShelterKit",
+        "LandMineTrap",
+        "BearTrap",
+        "FishNetTrap",
+        "RabbitSnareTrap",
+        "SmallFishTrap",
+        "TripwireTrap",
+        "ExpansionSafeLarge",
+        "ExpansionSafeMedium",
+        "ExpansionSafeSmall",
+        "SeaChest",
+        "WoodenCrate",
+        "GardenPlot"
+    ],
+    "DeployableInsideAEnemyTerritory": [
+        "ExpansionSatchel",
+        "LandMineTrap",
+        "BearTrap",
+        "FishNetTrap",
+        "RabbitSnareTrap",
+        "SmallFishTrap",
+        "TripwireTrap"
+    ],
+    "CanCraftVanillaBasebuilding": 1,
+    "CanCraftExpansionBasebuilding": 1,
+    "DestroyFlagOnDismantle": 1,
+    "DismantleOutsideTerritory": 0,
+    "DismantleInsideTerritory": 0,
+    "DismantleAnywhere": 0,
+    "CodelockActionsAnywhere": 0,
+    "CodeLockLength": 4,
+    "DoDamageWhenEnterWrongCodeLock": 1,
+    "DamageWhenEnterWrongCodeLock": 10.0,
+    "RememberCode": 1,
+    "CanCraftTerritoryFlagKit": 1,
+    "SimpleTerritory": 1,
+    "AutomaticFlagOnCreation": 1,
+    "GetTerritoryFlagKitAfterBuild": 0,
+    "BuildZoneRequiredCustomMessage": "",
+    "Zones": [
+        {
+            "Name": "Heli Trader",
+            "Center": [
+                12162.0,
+                140.0,
+                12682.0
+            ],
+            "Radius": 800.0,
+            "Items": [
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Green Mountain Trader Camp",
+            "Center": [
+                3728.27001953125,
+                403.0,
+                6003.60009765625
+            ],
+            "Radius": 800.0,
+            "Items": [
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "New Survivor Camp",
+            "Center": [
+                6147.0,
+                362.294677734375,
+                6895.0
+            ],
+            "Radius": 1000.0,
+            "Items": [
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        }
+    ],
+    "ZonesAreNoBuildZones": 1,
+    "CodelockAttachMode": 2,
+    "DismantleFlagMode": 1,
+    "FlagMenuMode": 1,
+    "OverrideVanillaEntityPlacement": 0,
+    "EnableVirtualStorage": 0,
+    "VirtualStorageExcludedContainers": []
+}

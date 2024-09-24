@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	
+	
+	<!-- Cult Camp -->
+	<territory color="4294923520">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="429" z="4800" r="50"/>
+    </territory>
+	<territory color="4294923520">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="500" z="4649" r="50"/>
+    </territory>
+	
+	<!-- South West -->
+    <territory color="4294923520">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1786" z="2221" r="100"/>  <!-- Kamenka -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="889" z="2016" r="100"/> <!-- Roadblock -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1170" z="2461" r="100"/> <!-- Gas Station -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1705" z="3887" r="100"/> <!-- Pavlovo -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3623" z="2490" r="100"/> <!-- Komarovo -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4503" z="2434" r="100"/> <!-- Balota -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3321" z="3937" r="100"/> <!-- Bor -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2085" z="4501" r="50"/> <!-- SW of Zeleno -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1296" z="4022" r="50"/> <!-- Farm W of Zeleno -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1893" z="3255" r="50"/> <!-- SW of Pavlovo MB just outside the gas -->
+    </territory>
+	
+		<!-- West -->
+    <territory color="4294923520">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2628" z="5190" r="100"/>  <!-- Zeleno 1 -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2654" z="5034" r="100"/> <!-- Zeleno 2 -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2647" z="5466" r="100"/> <!-- Zeleno 3 -->
+	</territory>
+	 <territory color="4294923520">
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="651" z="6578" r="100"/> <!-- Forest Fire -->
+	 </territory>
+	<territory color="4294923520">
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="604" z="5429" r="100"/> <!-- Zvir -->		
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1113" z="6246" r="100"/> <!-- Dam -->
+    </territory>
+	
+		<!-- North West Cities -->
+    <territory color="4294923520">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1605" z="12020" r="100"/>  <!-- Sinystok -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2210" z="11031" r="100"/> <!-- Vavilovo -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2284" z="11222" r="100"/> <!-- Vavilovo -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2999" z="12548" r="100"/> <!-- Topolinki -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2651" z="12353" r="100"/> <!-- Topolinki -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1294" z="12021" r="100"/> <!-- Sinystok -->		
+	</territory>
+	
+		<!-- NWAF South Area -->
+    <territory color="4294923520">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3749" z="8940" r="100"/>  <!-- Vybor -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4038" z="8904" r="100"/>  <!-- Vybor 2 -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2752" z="9976" r="100"/> <!-- Lopotino -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4556" z="8222" r="100"/> <!-- Vybor MB -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5384" z="8559" r="100"/> <!-- Kabanino -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2529" z="9647" r="100"/> <!-- Intersection S of Lopotino -->	
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3007" z="7835" r="100"/>  <!-- Pustoshka -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6133" z="7724" r="100"/>  <!-- Stary Sobor -->		
+	</territory>
+	
+		<!-- NWAF East Area -->
+    <territory color="4294923520">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5955" z="10302" r="100"/>  <!-- Grishino -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5397" z="12615" r="100"/> <!-- Intersection at Zaprudnoye -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4993" z="12988" r="100"/> <!-- Zaprudnoye MB -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6304" z="12697" r="100"/> <!-- Ratnoye -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5858" z="9979" r="100"/> <!-- House S of Grishino -->	
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5276" z="10590" r="100"/> <!-- Farm buildings east of NWAF -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7354" z="9214" r="50"/> <!-- Glaza Lake -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8188" z="9049" r="50"/> <!-- Radio Zenit -->		
+	</territory>
+	
+		<!-- Servograd Area -->
+    <territory color="4294923520">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7679" z="12641" r="100"/>  <!-- Westside -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8036" z="12723" r="100"/> <!-- Downtown -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8579" z="12763" r="50"/> <!-- Soccer Field -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8396" z="13022" r="100"/> <!-- Just S of Arena -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8226" z="12236" r="50"/> <!-- S of RR overpass -->
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7689" z="12395" r="20"/> <!-- Train yard -->		
+	</territory>
+	
+	
+	
+</territory-type>

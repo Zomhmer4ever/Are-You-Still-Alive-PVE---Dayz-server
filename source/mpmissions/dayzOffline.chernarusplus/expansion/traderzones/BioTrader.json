@@ -1,0 +1,13 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "Anomaly Artifact Trading Zone",
+    "Position": [
+        10440.7001953125,
+        223.2760009765625,
+        8884.849609375
+    ],
+    "Radius": 30.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {}
+}

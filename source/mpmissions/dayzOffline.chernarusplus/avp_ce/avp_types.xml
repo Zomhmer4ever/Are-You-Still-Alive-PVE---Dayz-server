@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<types>
+<type name="MRAP_Cougar">
+<nominal>0</nominal>
+<lifetime>3888000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+<type name="mrap_wheel">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="vehiclesparts" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="mrap_doors_driver">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="vehiclesparts" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="mrap_doors_codriver">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="vehiclesparts" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="mrap_doors_trunk0">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="vehiclesparts" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="mrap_doors_trunk">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="vehiclesparts" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="mrap_doors_hood">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="vehiclesparts" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Glowler_ITV">
+<nominal>0</nominal>
+<lifetime>3888000</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="wheel_Glowler_ITV">
+<nominal>0</nominal>
+<lifetime>10800</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+</type>
+<type name="LAPV">
+<nominal>0</nominal>
+<lifetime>3888000</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="lapv_doors_driver">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="lapv_doors_codriver">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="lapv_doors_cargo1">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="lapv_doors_cargo2">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="lapv_doors_trunk">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="wheel_lapv">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="Jeep_Wnagler">
+<nominal>0</nominal>
+<lifetime>3888000</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="wheel_Jeep_Wnagler">
+<nominal>0</nominal>
+<lifetime>10800</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+</types>
