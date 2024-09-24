@@ -1,0 +1,94 @@
+{
+  "LCTools": [
+    {
+      "name": "SledgeHammer",
+      "time": 1,
+      "dmg": 33,
+      "desc": ""
+    },
+    {
+      "name": "Crowbar",
+      "time": 12,
+      "dmg": 50,
+      "desc": ""
+    },
+    {
+      "name": "Lockpick",
+      "time": 60,
+      "dmg": 15,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key1",
+      "time": 3,
+      "dmg": 15,
+      "desc": "Black Key|This Key will be opening Crates inside Police Stations."
+    },
+    {
+      "name": "CJ_Key2",
+      "time": 3,
+      "dmg": 15,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key3",
+      "time": 3,
+      "dmg": 15,
+      "desc": "Brown Key|This Key will be opening Crates inside Military Garages."
+    },
+    {
+      "name": "CJ_Key4",
+      "time": 3,
+      "dmg": 15,
+      "desc": "Green Key|This Key will be opening Crates inside Military Barracks."
+    },
+    {
+      "name": "CJ_Key5",
+      "time": 3,
+      "dmg": 15,
+      "desc": "Olive Key|This Key will be opening Crates at the Military NorthWest Airfield."
+    },
+    {
+      "name": "CJ_Key6",
+      "time": 3,
+      "dmg": 15,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key7",
+      "time": 3,
+      "dmg": 15,
+      "desc": "Red Key|This Key will be opening the crates next to Dr. Spicoli."
+    },
+    {
+      "name": "CJ_Key8",
+      "time": 3,
+      "dmg": 15,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key9",
+      "time": 3,
+      "dmg": 15,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key10",
+      "time": 3,
+      "dmg": 15,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key11",
+      "time": 3,
+      "dmg": 15,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key12",
+      "time": 3,
+      "dmg": 15,
+      "desc": "Fancy Key|This Key has Dr. Lvovich's name engraved on it. What could it open?"
+    }
+  ]
+}

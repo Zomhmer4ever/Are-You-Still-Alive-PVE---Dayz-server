@@ -1,0 +1,37 @@
+{
+  "ActiveReward": 0,
+  "PorcentageDrop": 10,
+  "Reward": [
+    {
+      "Name": "Reward1",
+      "Container": "QueenAlien_Storage",
+      "Items": [
+        {
+          "Item": "vg7_Heart",
+          "Quantity": 1,
+          "ItemAttachments": []
+        },
+        {
+          "Item": "vg7_Skull",
+          "Quantity": 1,
+          "ItemAttachments": []
+        },
+        {
+          "Item": "vg7_Kidney",
+          "Quantity": 1,
+          "ItemAttachments": []
+        },
+        {
+          "Item": "vg7_Liver",
+          "Quantity": 1,
+          "ItemAttachments": []
+        },
+        {
+          "Item": "vg7_Eye",
+          "Quantity": 2,
+          "ItemAttachments": []
+        }
+      ]
+    }
+  ]
+}

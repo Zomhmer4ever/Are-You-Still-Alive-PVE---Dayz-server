@@ -1,0 +1,72 @@
+{
+  "Turrets": [
+    {
+      "m_sTurretClassName": "M60_Turret_Bottom_1000HP",
+      "m_vTurretPosition": [
+        378.68,
+        295.72,
+        9436.92
+      ],
+      "m_vTurretRotation": [
+        -114.479,
+        0,
+        0
+      ],
+      "m_fTurretGuardRadius": 150,
+      "m_sTurretAmmoClassName": "Bullet_556x45",
+      "m_nTurretShootingRPM": 450,
+      "m_nTurretHitChance": 2,
+      "m_bTurretExplosiveRounds": 0,
+      "m_bTurretCanIdle": 1,
+      "m_fTurretMaxIdleAngle": 45,
+      "m_bTurretCanBeDestroyed": 1,
+      "m_nTurretTimeToRespawn": 3600,
+      "m_aTurretTargetsPlayers": [
+        "ALL"
+      ],
+      "m_aTurretTargetsZombies": [
+        "NONE"
+      ],
+      "m_aTurretTargetsAnimals": [
+        "NONE"
+      ],
+      "m_aTurretTargetsVehicles": [
+        "ALL"
+      ]
+    },
+    {
+      "m_sTurretClassName": "M60_Turret_Bottom_1000HP",
+      "m_vTurretPosition": [
+        298.57,
+        296.371,
+        9311.9
+      ],
+      "m_vTurretRotation": [
+        13.77,
+        0,
+        0
+      ],
+      "m_fTurretGuardRadius": 150,
+      "m_sTurretAmmoClassName": "Bullet_556x45",
+      "m_nTurretShootingRPM": 450,
+      "m_nTurretHitChance": 2,
+      "m_bTurretExplosiveRounds": 0,
+      "m_bTurretCanIdle": 1,
+      "m_fTurretMaxIdleAngle": 45,
+      "m_bTurretCanBeDestroyed": 1,
+      "m_nTurretTimeToRespawn": 3600,
+      "m_aTurretTargetsPlayers": [
+        "ALL"
+      ],
+      "m_aTurretTargetsZombies": [
+        "NONE"
+      ],
+      "m_aTurretTargetsAnimals": [
+        "NONE"
+      ],
+      "m_aTurretTargetsVehicles": [
+        "ALL"
+      ]
+    }
+  ]
+}

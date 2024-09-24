@@ -1,0 +1,15 @@
+{
+  "maxRemoteControlTime": 40,
+  "showPlayerPosOnMap": 1,
+  "missilesTypes": [
+    {
+      "type": "MissileTest1",
+      "destroylableObjects": [
+        "Fence",
+        "Transport"
+      ],
+      "isRemote": 0,
+      "maxDistanceToLaunch": 5000
+    }
+  ]
+}
