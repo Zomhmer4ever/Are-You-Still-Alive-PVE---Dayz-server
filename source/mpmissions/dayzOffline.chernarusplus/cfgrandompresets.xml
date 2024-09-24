@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<randompresets>
+		<cargo chance="0.02" name="foodHermit"> <!-- 15 -->
+				<item name="TunaCan" chance="0.11" />
+				<item name="SardinesCan" chance="0.11" />
+				<item name="Apple" chance="0.07" />
+          		<item name="Apple_Green" chance="0.07" />
+          		<item name="Apple_Yellow" chance="0.07" />
+				<item name="MFP_MuddyBuddy" chance="0.05" />
+				<item name="MFP_ReesesPieces" chance="0.05" />
+				<item name="MFP_BagelBites" chance="0.05" />
+				<item name="MFP_Hersheys" chance="0.05" />
+				<item name="MFP_Butterfinger" chance="0.05" />
+				<item name="MFP_Twix" chance="0.05" />
+				<item name="MFP_Snickers" chance="0.05" />
+				<item name="MFP_ReesesCups" chance="0.05" />
+				<item name="MFP_MilkyWay" chance="0.05" />
+				<item name="MFP_Oreos" chance="0.05" />
+				<item name="MFP_NatureValley" chance="0.05" />
+				<item name="MFP_TrailMix" chance="0.05" />
+				<item name="MFP_Jerky_Jalapeno" chance="0.05" />
+				<item name="MFP_JollyRancher" chance="0.05" />
+				<item name="MFP_Swedish" chance="0.05" />
+		</cargo>
+		<cargo chance="0.02" name="foodVillage"> <!-- 16 -->
+		
+						<item name="SodaCan_Cola" chance="0.02" />
+				<item name="SodaCan_Pipsi" chance="0.02" />
+				<item name="SodaCan_Spite" chance="0.02" />
+				<item name="MFP_Water2" chance="0.02" />
+				<item name="MFP_MtnDew" chance="0.02" />
+				<item name="MFP_Faygo2" chance="0.02" />
+				<item name="MFP_OrangeSoda" chance="0.02" />
+				<item name="MFP_DrPepper" chance="0.02" />
+				<item name="MFP_Guinness" chance="0.02" />
+				<item name="MFP_DuffBeer" chance="0.02" />
+				 <item name="MFP_Pepsi" chance="0.02" />
+				<item name="MFP_ClassicCoke" chance="0.02" />
+				<item name="MFP_RootBeer" chance="0.02" />
+				<item name="MFP_MuddyBuddy" chance="0.05" />
+				<item name="MFP_ReesesPieces" chance="0.05" />
+				<item name="MFP_BagelBites" chance="0.05" />
+				<item name="MFP_Hersheys" chance="0.05" />
+				<item name="MFP_Butterfinger" chance="0.05" />
+				<item name="MFP_Twix" chance="0.05" />
+				<item name="MFP_Snickers" chance="0.05" />
+				<item name="MFP_ReesesCups" chance="0.05" />
+				<item name="MFP_MilkyWay" chance="0.05" />
+				<item name="MFP_Oreos" chance="0.05" />
+				<item name="MFP_NatureValley" chance="0.05" />
+				<item name="MFP_TrailMix" chance="0.05" />
+				<item name="MFP_Jerky_Jalapeno" chance="0.05" />
+				<item name="MFP_JollyRancher" chance="0.05" />
+				<item name="MFP_Swedish" chance="0.05" />
+				<item name="MFP_SkittlesB" chance="0.05" />
+				<item name="TunaCan" chance="0.08" />
+				<item name="SardinesCan" chance="0.12" />
+				<item name="PeachesCan" chance="0.10" />
+				<item name="SpaghettiCan" chance="0.10" />
+				<item name="BakedBeansCan" chance="0.10" />
+           <item name="BlackOlivesCan" chance="0.10" />
+				<item name="GreenbeansCan" chance="0.10" />
+				<item name="FruitcocktailCan" chance="0.10" />
+				<item name="MFP_TomatoSoup" chance="0.10" />
+				<item name="MFP_SpaghettiO" chance="0.10" />
+				<item name="MFP_ChefBoyardee" chance="0.10" />
+				<item name="MFP_EnchiladaSoup" chance="0.10" />
+				<item name="MFP_Manwich" chance="0.10" />
+				<item name="MFP_BlackBeans" chance="0.10" />
+				<item name="MFP_ChiliBeans" chance="0.10" />
+		</cargo>
+		<cargo chance="0.02" name="foodCity"> <!--same as the one above - just preparing WAS 16 -->
+		
+		
+		
+				<item name="SodaCan_Cola" chance="0.02" />
+				<item name="SodaCan_Pipsi" chance="0.02" />
+				<item name="SodaCan_Spite" chance="0.02" />
+				<item name="MFP_Water2" chance="0.02" />
+				<item name="MFP_MtnDew" chance="0.02" />
+				<item name="MFP_Faygo2" chance="0.02" />
+				<item name="MFP_OrangeSoda" chance="0.02" />
+				<item name="MFP_DrPepper" chance="0.02" />
+				<item name="MFP_Guinness" chance="0.02" />
+				<item name="MFP_DuffBeer" chance="0.02" />
+				 <item name="MFP_Pepsi" chance="0.02" />
+				<item name="MFP_ClassicCoke" chance="0.02" />
+				<item name="MFP_RootBeer" chance="0.02" />
+				<item name="MFP_MuddyBuddy" chance="0.05" />
+				<item name="MFP_ReesesPieces" chance="0.05" />
+				<item name="MFP_BagelBites" chance="0.05" />
+				<item name="MFP_Hersheys" chance="0.05" />
+				<item name="MFP_Butterfinger" chance="0.05" />
+				<item name="MFP_Twix" chance="0.05" />
+				<item name="MFP_Snickers" chance="0.05" />
+				<item name="MFP_ReesesCups" chance="0.05" />
+				<item name="MFP_MilkyWay" chance="0.05" />
+				<item name="MFP_Oreos" chance="0.05" />
+				<item name="MFP_NatureValley" chance="0.05" />
+				<item name="MFP_TrailMix" chance="0.05" />
+				<item name="MFP_Jerky_Jalapeno" chance="0.05" />
+				<item name="MFP_JollyRancher" chance="0.05" />
+				<item name="MFP_Swedish" chance="0.05" />
+				<item name="MFP_SkittlesB" chance="0.05" />
+				<item name="TunaCan" chance="0.08" />
+				<item name="SardinesCan" chance="0.12" />
+				<item name="PeachesCan" chance="0.10" />
+				<item name="SpaghettiCan" chance="0.10" />
+				<item name="BakedBeansCan" chance="0.10" />
+           <item name="BlackOlivesCan" chance="0.10" />
+				<item name="GreenbeansCan" chance="0.10" />
+				<item name="FruitcocktailCan" chance="0.10" />
+				<item name="MFP_TomatoSoup" chance="0.10" />
+				<item name="MFP_SpaghettiO" chance="0.10" />
+				<item name="MFP_ChefBoyardee" chance="0.10" />
+				<item name="MFP_EnchiladaSoup" chance="0.10" />
+				<item name="MFP_Manwich" chance="0.10" />
+				<item name="MFP_BlackBeans" chance="0.10" />
+				<item name="MFP_ChiliBeans" chance="0.10" />
+				
+				
+		</cargo>
+		<cargo chance="0.02" name="foodArmy">
+				<item name="SodaCan_Cola" chance="0.02" />
+				<item name="SodaCan_Pipsi" chance="0.02" />
+				<item name="SodaCan_Spite" chance="0.02" />
+				<item name="MFP_Faygo1" chance="0.02" />
+				<item name="MFP_CodeRed" chance="0.02" />
+				<item name="MFP_DrPepper" chance="0.02" />
+				<item name="MFP_V8Juice" chance="0.02" />
+				<item name="TunaCan" chance="0.1" />
+				<item name="SardinesCan" chance="0.05" />
+				<item name="PeachesCan" chance="0.05" />
+				<item name="SpaghettiCan" chance="0.05" />
+				<item name="BakedBeansCan" chance="0.05" />
+				<item name="MFP_SpaghettiO" chance="0.05" />
+				<item name="MFP_ChefBoyardee" chance="0.05" />
+				<item name="MFP_EnchiladaSoup" chance="0.05" />
+				<item name="MFP_Manwich" chance="0.05" />
+				<item name="MFP_BlackBeans" chance="0.05" />
+				<item name="TacticalBaconCan" chance="0.1" />
+				<item name="Canteen" chance="0.1" />
+				<item name="MFP_GummyBears" chance="0.05" />
+				<item name="MFP_Starburst" chance="0.05" />
+				<item name="MFP_TrailMix" chance="0.05" />
+				<item name="MFP_MRE1" chance="0.05" />
+				<item name="MFP_MRE2" chance="0.05" />
+				<item name="MFP_MRE3" chance="0.05" />
+				<item name="MFP_MRE4" chance="0.05" />
+				<item name="MFP_MRE5" chance="0.05" />
+				<item name="MFP_MRE6" chance="0.05" />
+		</cargo>
+		<cargo chance="0.15" name="toolsHermit">
+				<item name="Matchbox" chance="0.15" />
+				<item name="CanOpener" chance="0.05" />
+				<item name="Rope" chance="0.07" />
+				<item name="Rag" chance="0.07" />
+				<item name="Hatchet" chance="0.07" />
+				<item name="StoneKnife" chance="0.1" />
+				<item name="HuntingKnife" chance="0.08" />
+				<item name="PurificationTablets" chance="0.05" />
+				<item name="CharcoalTablets" chance="0.05" />
+				<item name="ExpansionCarKey" chance="0.1" />  
+<item name="PokemonCard_Box1" chance="0.005" />
+				<item name="PokemonCard_Box2" chance="0.005" />
+				<item name="PokemonCard_Box3" chance="0.005" />
+				<item name="PokemonCard_Box4" chance="0.005" />
+				<item name="PokemonCard_Box5" chance="0.005" />				
+		</cargo>
+		<cargo chance="0.2" name="toolsVillage">
+				<item name="DuctTape" chance="0.07" />
+				<item name="Battery9V" chance="0.07" />
+				<item name="Matchbox" chance="0.07" />
+				<item name="SewingKit" chance="0.07" />
+				<item name="CanOpener" chance="0.05" />
+				<item name="Rope" chance="0.07" />
+				<item name="Rag" chance="0.07" />
+				<item name="Flashlight" chance="0.07" />
+				<item name="ExpansionCarKey" chance="0.1" />
+           <item name="Money_Dollar20" chance="0.10" />
+          <item name="Money_Dollar10" chance="0.15" />
+          <item name="Money_Dollar5" chance="0.15" />
+          <item name="Money_Dollar1" chance="0.25" />
+		  <item name="PokemonCard_Box1" chance="0.005" />
+				<item name="PokemonCard_Box2" chance="0.005" />
+				<item name="PokemonCard_Box3" chance="0.005" />
+				<item name="PokemonCard_Box4" chance="0.005" />
+				<item name="PokemonCard_Box5" chance="0.005" />
+		</cargo>
+		<cargo chance="0.2" name="toolsCity"> <!--same as the one above - just preparing -->
+				<item name="DuctTape" chance="0.07" />
+				<item name="Battery9V" chance="0.07" />
+				<item name="Matchbox" chance="0.07" />
+				<item name="SewingKit" chance="0.07" />
+				<item name="CanOpener" chance="0.05" />
+				<item name="Rope" chance="0.07" />
+				<item name="Rag" chance="0.07" />
+				<item name="Flashlight" chance="0.07" />
+				<item name="ExpansionCarKey" chance="0.1" />
+           <item name="Money_Dollar100" chance="0.04" />
+          <item name="Money_Dollar50" chance="0.08" />         
+           <item name="Money_Dollar20" chance="0.10" />
+          <item name="Money_Dollar10" chance="0.15" />
+          <item name="Money_Dollar5" chance="0.20" />
+          <item name="Money_Dollar1" chance="0.30" />
+		  <item name="PokemonCard_Box1" chance="0.005" />
+				<item name="PokemonCard_Box2" chance="0.005" />
+				<item name="PokemonCard_Box3" chance="0.005" />
+				<item name="PokemonCard_Box4" chance="0.005" />
+				<item name="PokemonCard_Box5" chance="0.005" />
+		</cargo>
+		<cargo chance="0.35" name="toolsMedic">
+				<item name="SalineBag" chance="0.05" />
+				<item name="BandageDressing" chance="0.15" />
+				<item name="BloodBagEmpty" chance="0.1" />
+				<item name="BloodTestKit" chance="0.05" />
+				<item name="StartKitIV" chance="0.05" />
+				<item name="PurificationTablets" chance="0.1" />
+				<item name="CharcoalTablets" chance="0.1" />
+				<item name="PainkillerTablets" chance="0.1" />
+				<item name="VitaminBottle" chance="0.05" />
+				<item name="TetracyclineAntibiotics" chance="0.1" />
+				<item name="CJ_SamSplint" chance="0.1" />
+				<item name="CJ_FieldBandage_Small" chance="0.1" />
+				<item name="CJ_FieldBandage_Large" chance="0.08" />
+				<item name="CJ_Toiletpaper" chance="0.1" />
+				<item name="Thermometer" chance="0.05" />
+				<item name="ExpansionCarKey" chance="0.1" />
+           <item name="Money_Dollar20" chance="0.07" />
+          <item name="Money_Dollar10" chance="0.10" />
+          <item name="Money_Dollar5" chance="0.15" />
+          <item name="Money_Dollar1" chance="0.30" />
+		</cargo>
+		<cargo chance="0.25" name="toolsPolice">
+				<item name="Battery9V" chance="0.1" />
+				<item name="PersonalRadio" chance="0.1" />
+				<item name="CJ_TacSatRadio_Green" chance="0.05" />
+				<item name="TacSatBattery" chance="0.05" />
+				<item name="Flashlight" chance="0.15" />
+				<item name="Roadflare" chance="0.2" />
+				<item name="CombatKnife" chance="0.05" />
+				<item name="Morphine" chance="0.05" />
+				<item name="BandageDressing" chance="0.05" />
+				<item name="CJ_Key1" chance="0.4" />
+				<item name="CJ_Key2" chance="0.4" />
+				<item name="ExpansionCarKey" chance="0.1" />
+           <item name="Money_Dollar20" chance="0.07" />
+          <item name="Money_Dollar10" chance="0.10" />
+          <item name="Money_Dollar5" chance="0.15" />
+          <item name="Money_Dollar1" chance="0.30" />
+		</cargo>
+		<cargo chance="0.15" name="toolsHunter">
+				<item name="Paper" chance="0.1" />
+				<item name="Flashlight" chance="0.1" />
+				<item name="Battery9V" chance="0.1" />
+				<item name="Matchbox" chance="0.15" />
+				<item name="Roadflare" chance="0.1" />
+				<item name="HuntingKnife" chance="0.05" />
+				<item name="CanOpener" chance="0.05" />
+				<item name="BandageDressing" chance="0.05" />
+				<item name="CJ_FieldBandage_Small" chance="0.1" />
+				<item name="CJ_Toiletpaper" chance="0.1" />
+				<item name="PurificationTablets" chance="0.10" />
+				<item name="CharcoalTablets" chance="0.10" />
+				<item name="PainkillerTablets" chance="0.10" />
+				<item name="VitaminBottle" chance="0.10" />
+		</cargo>
+		<cargo chance="0.35" name="toolsIndustrial">
+				<item name="Pipe" chance="0.07" />
+				<item name="Hatchet" chance="0.07" />
+				<item name="Crowbar" chance="0.07" />
+				<item name="Rope" chance="0.1" />
+				<item name="DuctTape" chance="0.1" />
+				<item name="Battery9V" chance="0.2" />
+				<item name="Flashlight" chance="0.2" />
+				<item name="CJ_Motorola_T80_Yellow" chance="0.2" />
+				<item name="CJ_Pliers_Yellow" chance="0.2" />
+				<item name="CJ_Pliers_Red" chance="0.2" />
+				<item name="CJ_ToolsRepairKit" chance="0.05" />
+				<item name="Screwdriver_2" chance="0.2" />
+				<item name="LeatherSewingKit" chance="0.25" />
+				<item name="EpoxyPutty" chance="0.25" />
+				<item name="CJ_WD40_Small" chance="0.2" />
+				<item name="ExpansionCarKey" chance="0.1" />
+           <item name="Money_Dollar20" chance="0.07" />
+          <item name="Money_Dollar10" chance="0.10" />
+          <item name="Money_Dollar5" chance="0.15" />
+          <item name="Money_Dollar1" chance="0.30" />
+		</cargo>
+		<cargo chance="0.15" name="ammoCivil">
+				<item name="Ammo_380" chance="0.22" />
+				<item name="AmmoBox_380_35Rnd" chance="0.08" />
+				<item name="Ammo_9x19" chance="0.15" />
+				<item name="AmmoBox_9x19_25Rnd" chance="0.08" />
+				<item name="Ammo_762x39" chance="0.12" />
+				<item name="AmmoBox_762x39_20Rnd" chance="0.02" />
+				<item name="Ammo_762x54" chance="0.08" />
+				<item name="AmmoBox_762x54_20Rnd" chance="0.02" />
+		</cargo>
+		<cargo chance="0.3" name="ammoPolice">
+				<item name="Ammo_9x19" chance="0.3" />
+				<item name="AmmoBox_9x19_25Rnd" chance="0.1" />
+				<item name="Ammo_556x45" chance="0.3" />
+				<item name="AmmoBox_556x45_20Rnd" chance="0.1" />
+		</cargo>
+		<cargo chance="0.25" name="ammoArmy">
+				<item name="Ammo_45ACP" chance="0.2" />
+				<item name="AmmoBox_45ACP_25Rnd" chance="0.05" />
+				<item name="Ammo_762x39" chance="0.2" />
+				<item name="AmmoBox_762x39_20Rnd" chance="0.05" />
+				<item name="Ammo_762x54" chance="0.2" />
+				<item name="AmmoBox_762x54_20Rnd" chance="0.05" />
+		</cargo>
+		<cargo chance="0.1" name="mixVillage">
+				<item name="DuctTape" chance="0.07" />
+				<item name="Battery9V" chance="0.07" />
+				<item name="Paper" chance="0.1" />
+				<item name="Flashlight" chance="0.1" />
+				<item name="Matchbox" chance="0.07" />
+				<item name="Roadflare" chance="0.2" />
+				<item name="KitchenKnife" chance="0.05" />
+				<item name="CanOpener" chance="0.05" />
+				<item name="BandageDressing" chance="0.05" />
+				<item name="Ammo_380" chance="0.22" />
+				<item name="AmmoBox_380_35Rnd" chance="0.08" />
+				<item name="Ammo_9x19" chance="0.15" />
+				<item name="AmmoBox_9x19_25Rnd" chance="0.08" />
+				<item name="Ammo_762x39" chance="0.12" />
+				<item name="AmmoBox_762x39_20Rnd" chance="0.02" />
+				<item name="Ammo_762x54" chance="0.08" />
+				<item name="AmmoBox_762x54_20Rnd" chance="0.02" />
+				<item name="SodaCan_Cola" chance="0.09" />
+				<item name="SodaCan_Pipsi" chance="0.09" />
+				<item name="SodaCan_Spite" chance="0.09" />
+				<item name="TunaCan" chance="0.10" />
+				<item name="SardinesCan" chance="0.09" />
+				<item name="PeachesCan" chance="0.10" />
+				<item name="SpaghettiCan" chance="0.09" />
+				<item name="BakedBeansCan" chance="0.10" />
+				<item name="ExpansionCarKey" chance="0.2" />
+		</cargo>
+		<cargo chance="0.1" name="mixHunter">
+				<item name="Paper" chance="0.1" />
+				<item name="Flashlight" chance="0.1" />
+				<item name="Matchbox" chance="0.07" />
+				<item name="Roadflare" chance="0.2" />
+				<item name="HuntingKnife" chance="0.05" />
+				<item name="CanOpener" chance="0.05" />
+				<item name="BandageDressing" chance="0.05" />
+				<item name="Ammo_380" chance="0.22" />
+				<item name="AmmoBox_380_35Rnd" chance="0.08" />
+				<item name="Ammo_9x19" chance="0.15" />
+				<item name="AmmoBox_9x19_25Rnd" chance="0.08" />
+				<item name="Ammo_762x39" chance="0.12" />
+				<item name="AmmoBox_762x39_20Rnd" chance="0.02" />
+				<item name="Ammo_762x54" chance="0.08" />
+				<item name="AmmoBox_762x54_20Rnd" chance="0.02" />
+				<item name="SodaCan_Cola" chance="0.09" />
+				<item name="SodaCan_Pipsi" chance="0.09" />
+				<item name="SodaCan_Spite" chance="0.08" />
+				<item name="TunaCan" chance="0.10" />
+				<item name="SardinesCan" chance="0.10" />
+				<item name="PeachesCan" chance="0.10" />
+				<item name="SpaghettiCan" chance="0.09" />
+				<item name="BakedBeansCan" chance="0.09" />
+		</cargo>
+		<cargo chance="0.1" name="mixArmy">
+				<item name="CJ_Key4" chance="0.6" />
+				<item name="SodaCan_Cola" chance="0.05" />
+				<item name="SodaCan_Pipsi" chance="0.05" />
+				<item name="SodaCan_Spite" chance="0.05" />
+				<item name="TunaCan" chance="0.1" />
+				<item name="SardinesCan" chance="0.05" />
+				<item name="PeachesCan" chance="0.05" />
+				<item name="SpaghettiCan" chance="0.05" />
+				<item name="BakedBeansCan" chance="0.05" />
+				<item name="WeaponCleaningKit" chance="0.05" />
+				<item name="TacticalBaconCan" chance="0.1" />
+				<item name="Canteen" chance="0.1" />
+				<item name="Ammo_45ACP" chance="0.2" />
+				<item name="AmmoBox_45ACP_25Rnd" chance="0.05" />
+				<item name="Ammo_762x39" chance="0.2" />
+				<item name="AmmoBox_762x39_20Rnd" chance="0.05" />
+				<item name="Ammo_762x54" chance="0.2" />
+				<item name="AmmoBox_762x54_20Rnd" chance="0.05" />				
+		</cargo>
+		<cargo chance="0.04" name="grenades">
+				<item name="RDG2SmokeGrenade_White" chance="0.25" />
+				<item name="FlashGrenade" chance="0.25" />
+				<item name="RDG2SmokeGrenade_Black" chance="0.25" />
+				<item name="RGD5Grenade" chance="0.25" />
+		</cargo>
+		<attachments chance="0.10" name="optics">
+				<item name="M4_T3NRDSOptic" chance="0.20" />
+				<item name="ACOGOptic" chance="0.20" />
+				<item name="M68Optic" chance="0.20" />
+				<item name="BUISOptic" chance="0.20" />
+				<item name="ReflexOptic" chance="0.20" />
+		</attachments>
+		
+		<!--   NBC Cargo   -->
+		<cargo chance="0.2" name="ContaminatedCargo">
+				<item name="GasMask_Filter" chance="1.00" />
+		</cargo>
+		<!--   FARM ATTACHMENTS   -->
+		<attachments chance="0.20" name="hatsFarm">
+				<item name="Ushanka_Black" chance="0.10" />
+				<item name="Ushanka_Blue" chance="0.10" />
+				<item name="Ushanka_Green" chance="0.10" />
+				<item name="ZmijovkaCap_Black" chance="0.10" />
+				<item name="ZmijovkaCap_Blue" chance="0.10" />
+				<item name="ZmijovkaCap_Brown" chance="0.10" />
+				<item name="ZmijovkaCap_Green" chance="0.10" />
+				<item name="ZmijovkaCap_Red" chance="0.10" />
+		</attachments>
+		<attachments chance="0.10" name="bagsHunter">
+			<item name="CourierBag" chance="0.10" />
+			<item name="HuntingBag" chance="0.50" />
+		</attachments>
+		<attachments chance="0.20" name="vestsHunter">
+			<item name="HuntingVest" chance="0.50" />
+			<item name="ChestHolster" chance="0.50" />
+		</attachments>
+		<!--   VILLAGE ATTACHMENTS   -->
+		<attachments chance="0.20" name="hatsVillage">
+				<item name="FlatCap_Black" chance="0.10" />
+				<item name="FlatCap_Blue" chance="0.10" />
+				<item name="FlatCap_Red" chance="0.10" />
+				<item name="FlatCap_Brown" chance="0.10" />
+				<item name="FlatCap_Grey" chance="0.10" />
+				<item name="FlatCap_BrownCheck" chance="0.10" />
+				<item name="FlatCap_GreyCheck" chance="0.10" />
+				<item name="FlatCap_BlackCheck" chance="0.10" />
+				<item name="RadarCap_Black" chance="0.10" />
+				<item name="RadarCap_Blue" chance="0.10" />
+				<item name="RadarCap_Brown" chance="0.10" />
+				<item name="RadarCap_Green" chance="0.10" />
+				<item name="RadarCap_Red" chance="0.10" />
+		</attachments>
+		<attachments chance="0.20" name="handsVillage">
+				<item name="WoodAxe" chance="0.1" />
+				<item name="Pickaxe" chance="0.8" />
+				<item name="Shovel" chance="0.8" />
+		</attachments>
+		<attachments chance="0.15" name="bagsVillage">
+				<item name="MountainBag_Red" chance="0.10" />
+				<item name="MountainBag_Blue" chance="0.10" />
+				<item name="MountainBag_Orange" chance="0.10" />
+				<item name="MountainBag_Green" chance="0.10" />
+		</attachments>
+		<attachments chance="0.00" name="glassesVillage"> <!--was chance="0.30"; removed coz of attachment slot is missing -->
+			<item name="ThickFramesGlasses" chance="0.10" />
+			<item name="ThinFramesGlasses" chance="0.20" />
+			<item name="DesignerGlasses" chance="0.20" />
+		</attachments>
+
+	<!--  CITY ATTACHMENTS   -->
+		<attachments chance="0.20" name="hatsCity">
+				<item name="FlatCap_BrownCheck" chance="0.10" />
+				<item name="FlatCap_GreyCheck" chance="0.10" />
+				<item name="FlatCap_BlackCheck" chance="0.10" />
+				<item name="BaseballCap_CMMG_Black" chance="0.05" />
+				<item name="BaseballCap_CMMG_Pink" chance="0.05" />
+				<item name="BaseballCap_Blue" chance="0.05" />
+				<item name="BaseballCap_Beige" chance="0.05" />
+				<item name="BaseballCap_Black" chance="0.05" />
+				<item name="BaseballCap_Camo" chance="0.05" />
+				<item name="BaseballCap_Olive" chance="0.05" />
+				<item name="BaseballCap_Pink" chance="0.05" />
+				<item name="BaseballCap_Red" chance="0.05" />
+		</attachments>
+		<attachments chance="0.10" name="handsCity">
+				<item name="NailedBaseballBat" chance="1.0" />
+				<item name="BaseballBat" chance="1.0" />
+				<item name="Machete" chance="1.0" />
+		</attachments>
+		<attachments chance="0.00" name="glassesCity"> <!--was chance="0.20"; removed coz of attachment slot is missing -->
+			<item name="ThickFramesGlasses" chance="0.10" />
+			<item name="ThinFramesGlasses" chance="0.10" />
+			<item name="DesignerGlasses" chance="0.10" />
+			<item name="SportGlasses_Black" chance="0.10" />
+			<item name="SportGlasses_Blue" chance="0.10" />
+			<item name="SportGlasses_Green" chance="0.10" />
+			<item name="SportGlasses_Orange" chance="0.10" />
+		</attachments>
+		<attachments chance="0.15" name="bagsCity">
+			<item name="TaloonBag_Orange" chance="0.25" />
+			<item name="TaloonBag_Blue" chance="0.25" />
+			<item name="TaloonBag_Violet" chance="0.25" />
+			<item name="TaloonBag_Green" chance="0.25" />
+		</attachments>
+		<attachments chance="0.30" name="hatsCitySkate">
+				<item name="SkateHelmet_Blue" chance="0.20" />
+				<item name="SkateHelmet_Gray" chance="0.20" />
+				<item name="SkateHelmet_Green" chance="0.20" />
+				<item name="SkateHelmet_Red" chance="0.20" />
+				<item name="SkateHelmet_Black" chance="0.20" />
+		</attachments>
+		<!--   INDUSTRIAL ATTACHMENTS   -->
+		<attachments chance="0.30" name="hatsIndustrial">
+				<item name="ConstructionHelmet_Blue" chance="0.10" />
+				<item name="ConstructionHelmet_Lime" chance="0.10" />
+				<item name="ConstructionHelmet_Orange" chance="0.10" />
+				<item name="ConstructionHelmet_Red" chance="0.10" />
+				<item name="ConstructionHelmet_White" chance="0.10" />
+				<item name="ConstructionHelmet_Yellow" chance="0.10" />
+				<item name="WeldingMask" chance="0.05" />
+		</attachments>
+		<attachments chance="0.15" name="handsIndustrial">
+				<item name="Pipe" chance="0.15" />
+				<item name="Crowbar" chance="0.15" />
+				<item name="Sledgehammer" chance="0.15" />
+		</attachments>
+		<attachments chance="0.10" name="vestsIndustrial">
+			<item name="ReflexVest" chance="1.00" />
+		</attachments>
+		<attachments chance="0.05" name="bagsIndustrial">
+			<item name="DryBag_Orange" chance="0.20" />
+			<item name="DryBag_Yellow" chance="0.20" />
+			<item name="DryBag_Blue" chance="0.20" />
+			<item name="DryBag_Green" chance="0.1" />
+			<item name="DryBag_Black" chance="0.1" />
+			<item name="DryBag_Red" chance="0.20" />
+		</attachments>
+		
+		<!--   FIREFIGHTER ATTACHMENTS    -->
+		<attachments chance="1.00" name="hatsFirefighter">
+				<item name="FirefightersHelmet_White" chance="0.33" />
+				<item name="FirefightersHelmet_Red" chance="0.66" />
+				<item name="FirefightersHelmet_Yellow" chance="1.00" />
+		</attachments>
+
+		<!--    MEDIC ATTACHMENTS    -->
+		<attachments chance="0.80" name="hatsMedic">
+				<item name="MedicalScrubsHat_Blue" chance="0.35" />
+				<item name="MedicalScrubsHat_Green" chance="0.35" />
+				<item name="MedicalScrubsHat_White" chance="0.35" />
+		</attachments>
+
+		<!--    ARMY ATTACHMENTS    -->
+		<attachments chance="0.60" name="hatsArmy">
+			<item name="TankerHelmet" chance="0.10" />
+			<item name="PilotkaCap" chance="0.10" />
+			<!-- <item name="GorkaHelmet" chance="0.10" /> Problem with animation of chin cover -->
+			<item name="MilitaryBeret_Red" chance="0.10" />
+			<item name="MilitaryBeret_UN" chance="0.10" />
+			<item name="MilitaryBeret_NZ" chance="0.10" />
+			<item name="MilitaryBeret_ChDKZ" chance="0.05" />
+			<item name="MilitaryBeret_CDF" chance="0.05" />
+			<item name="ZSh3PilotHelmet" chance="0.05" />
+			<item name="NVGHeadstrap" chance="0.01" />
+		</attachments>
+		<attachments chance="0.00" name="glassesArmy"> <!--was chance="0.10"; removed coz of attachment slot is missing -->
+			<item name="TacticalGoggles" chance="0.10" />
+			<item name="AviatorGlasses" chance="0.25" />
+		</attachments>
+		<attachments chance="0.20" name="vestsArmy">
+			<item name="UKAssVest_Black" chance="0.20" />
+			<item name="UKAssVest_Camo" chance="0.20" />
+			<item name="UKAssVest_Khaki" chance="0.2" />
+			<item name="UKAssVest_Olive" chance="0.2" />
+			<item name="SmershVest" chance="0.05" />
+		</attachments>
+		<attachments chance="0.15" name="bagsArmy">			
+			<item name="AssaultBag_Green" chance="0.10" />
+			<item name="AssaultBag_Ttsko" chance="0.10" />
+			<item name="AssaultBag_Black" chance="0.10" />
+			<item name="TortillaBag" chance="0.05" />
+			<item name="SmershBag" chance="0.05" />
+			<item name="CoyoteBag_Brown" chance="0.05" />
+			<item name="CoyoteBag_Green" chance="0.05" />
+			<item name="AliceBag_Camo" chance="0.05" />
+			<item name="AliceBag_Green" chance="0.05" />
+			<item name="AliceBag_Black" chance="0.05" />
+			<item name="ADM_ParachuteBag_Target_Speed" chance="0.04" />
+			<item name="ADM_ParachuteBag_Skull_Speed" chance="0.04" />			
+		</attachments>
+		<attachments chance="1.00" name="HeavyArmorArmy">
+			<item name="PlateCarrierVest" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00" name="HeavyHelmetArmy">
+			<item name="Ssh68Helmet" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00" name="OfficerHatArmy">
+			<item name="OfficerHat" chance="1.00" />
+		</attachments>
+
+		<!--    POLICE ATTACHMENTS    -->
+		<attachments chance="0.20" name="hatsPolice">
+				<item name="PoliceCap" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00" name="vestsPolice">
+				<item name="PoliceVest" chance="1.00" />
+		</attachments>
+		
+		<!--    PRISONER ATTACHMENTS    -->
+		<attachments chance="0.20" name="hatsPrisoner">
+				<item name="PrisonerCap" chance="1.00" />
+		</attachments>
+
+		<!--    UNIVERSAL ATTACHMENTS    -->
+		<attachments chance="0.20" name="hatsMotorbike">
+				<item name="MotoHelmet_Black" chance="0.10" />
+				<item name="MotoHelmet_Blue" chance="0.10" />
+				<item name="MotoHelmet_Green" chance="0.10" />
+				<item name="MotoHelmet_Grey" chance="0.10" />
+				<item name="MotoHelmet_Lime" chance="0.10" />
+				<item name="MotoHelmet_Red" chance="0.10" />
+				<item name="MotoHelmet_White" chance="0.10" />
+				<item name="DarkMotoHelmet_Black" chance="0.05" />
+				<item name="DarkMotoHelmet_Blue" chance="0.05" />
+				<item name="DarkMotoHelmet_Green" chance="0.05" />
+				<item name="DarkMotoHelmet_Grey" chance="0.05" />
+				<item name="DarkMotoHelmet_Lime" chance="0.05" />
+				<item name="DarkMotoHelmet_Red" chance="0.05" />
+				<item name="DarkMotoHelmet_White" chance="0.05" />
+		</attachments>
+		<attachments chance="0.20" name="vestsPress">
+				<item name="PressVest_Blue" chance="0.25" />
+				<item name="PressVest_LightBlue" chance="0.25" />
+		</attachments>
+		
+		<!--    T1 GEAR    -->
+		<cargo chance="0.15" name="drinks_T1">
+				<item name="SodaCan_Cola" chance="0.10" />
+				<item name="SodaCan_Pipsi" chance="0.10" />
+				<item name="SodaCan_Spite" chance="0.10" />
+				<item name="SodaCan_Kvass" chance="0.10" />
+				<item name="SodaCan_Fronta" chance="0.10" />
+				<item name="WaterBottle" chance="0.1" />
+		</cargo>
+		<cargo chance="0.08" name="food_T1">		<!-- 20 -->
+				<item name="HumanSteakMeat" chance="0.03" />
+				<item name="Guts" chance="0.03" />
+				<item name="PotatoSeed" chance="0.1" />
+				<item name="Zucchini" chance="0.1" />
+				<item name="Tomato" chance="0.1" />
+				<item name="GreenBellPepper" chance="0.1" />
+				<item name="PowderedMilk" chance="0.1" />
+				<item name="Pajka" chance="0.1" />
+				<item name="Pate" chance="0.1" />
+				<item name="BrisketSpread" chance="0.1" />
+				<item name="SaltySticks" chance="0.2" />
+				<item name="Crackers" chance="0.2" />
+				<item name="Chips" chance="0.2" />
+		</cargo>
+		<cargo chance="0.20" name="toolsCommon_T1">
+				<item name="Matchbox" chance="0.1" />
+				<item name="SteakKnife" chance="0.2" />
+				<item name="Rag" chance="0.15" />
+		</cargo>
+		<cargo chance="0.15" name="toolsIndustrial_T1">
+				<item name="Rag" chance="0.1" />
+				<item name="Crowbar" chance="0.1" />
+				<item name="Hammer" chance="0.2" />
+				<item name="Screwdriver" chance="0.15" />
+				<item name="Hatchet" chance="0.05" />
+				<item name="Paper" chance="0.2" />
+				<item name="Pipe" chance="0.2" />
+		</cargo>
+		
+		<!--   T1 Attachments    -->
+		<attachments chance="0.2" name="helmetsCommon_T1">
+				<item name="SkateHelmet_Black" chance="0.1" />
+				<item name="SkateHelmet_Blue" chance="0.1" />
+				<item name="SkateHelmet_Gray" chance="0.1" />
+				<item name="SkateHelmet_Green" chance="0.1" />
+				<item name="SkateHelmet_Red" chance="0.1" />
+		</attachments>
+		<attachments chance="0.2" name="hatsCommon_T1">
+				<item name="BoonieHat_Blue" chance="0.05" />
+				<item name="BoonieHat_Orange" chance="0.1" />
+				<item name="BoonieHat_Red" chance="0.1" />
+				<item name="RadarCap_Black" chance="0.05" />
+				<item name="RadarCap_Blue" chance="0.1" />
+				<item name="RadarCap_Brown" chance="0.05" />
+				<item name="RadarCap_Green" chance="0.1" />
+				<item name="RadarCap_Red" chance="0.1" />
+		</attachments>
+		<attachments chance="0.17" name="backpacks_T1">
+				<item name="CourierBag" chance="0.2" />
+				<item name="TaloonBag_Blue" chance="0.2" />
+				<item name="TaloonBag_Green" chance="0.1" />
+				<item name="TaloonBag_Orange" chance="0.2" />
+				<item name="TaloonBag_Violet" chance="0.2" />
+				<item name="FurCourierBag" chance="0.1" />
+		</attachments>
+		
+		<!-- Halloween -->
+		<attachments chance="1.00" name="ZombieWitchHats"> 
+			<item name="WitchHat" chance="0.33" />
+			<item name="GreatHelm" chance="0.33" />
+			<item name="PumpkinHelmet" chance="0.33" />
+			<item name="CrookedNose" chance="0.20"/>
+		</attachments>
+		<attachments chance="1.00" name="ZombieWitchHatsRare"> 
+			<item name="WitchHat" chance="0.33" />
+			<item name="GreatHelm" chance="0.30" />
+			<item name="PumpkinHelmet" chance="0.20" />
+			<item name="CrookedNose" chance="0.20"/>
+		</attachments>
+		<!--   Xmas Clothing    -->
+		<attachments chance="1.00" name="SantaHat">
+			<item name="SantasHat" chance="1.00" />
+		</attachments>
+		<cargo chance="0.20" name="SantaBeard">
+			<item name="GiftBox_Small_1" chance="0.20" />
+			<item name="GiftBox_Small_2" chance="0.20" />
+			<item name="GiftBox_Small_3" chance="0.20" />
+			<item name="GiftBox_Small_4" chance="0.20" />
+			<item name="SantasBeard" chance="0.80" />
+		</cargo>
+		
+		<!--   Xmas GiftBoxes    -->
+		<cargo chance="1.0" name="Xmas_Clothes_Small">
+			<item name="TacticalGoggles" chance="0.05" />
+			<item name="WorkingGloves_Black" chance="0.05" />
+			<item name="ZmijovkaCap_Red" chance="0.05" />
+			<item name="NBCBootsYellow" chance="0.03" />
+			<item name="NBCBootsGray" chance="0.01" />
+			<item name="NBCHoodYellow" chance="0.03" />
+			<item name="NBCHoodGray" chance="0.01" />
+			<item name="NBCGlovesYellow" chance="0.03" />
+			<item name="NBCGlovesGray" chance="0.01" />
+		</cargo>
+		<cargo chance="1.0" name="Xmas_Weapons_Small">
+			<item name="Flaregun" chance="0.10" />
+			<item name="M67Grenade" chance="0.10" />
+			<item name="RGD5Grenade" chance="0.10" />
+			<item name="LandMineTrap" chance="0.10" />
+		</cargo>
+		<cargo chance="1.0" name="Xmas_Ammo_Small">
+			<item name="Ammo_Flare" chance="0.05" />
+			<item name="Ammo_FlareRed" chance="0.05" />
+			<item name="Ammo_FlareGreen" chance="0.05" />
+			<item name="Ammo_FlareBlue" chance="0.05" />
+		</cargo>
+		<cargo chance="1.0" name="Xmas_AmmoBoxes_Small">
+			<item name="AmmoBox_22_50Rnd" chance="0.05" />
+			<item name="AmmoBox_00buck_10rnd" chance="0.05" />
+			<item name="AmmoBox_12gaSlug_10Rnd" chance="0.05" />
+			<item name="AmmoBox_380_35rnd" chance="0.05" />
+			<item name="AmmoBox_9x19_25rnd" chance="0.05" />
+			<item name="AmmoBox_45ACP_25rnd" chance="0.05" />
+			<item name="AmmoBox_357_20Rnd" chance="0.05" />
+			<item name="AmmoBox_556x45_20Rnd" chance="0.05" />
+			<item name="AmmoBox_762x39_20Rnd" chance="0.05" />
+			<item name="AmmoBox_762x54_20Rnd" chance="0.05" />
+		</cargo>
+		<cargo chance="1.0" name="Xmas_Mags_Small">
+			<item name="Mag_Ruger1022_15Rnd" chance="0.05" />
+			<item name="Mag_FNX45_15Rnd" chance="0.05" />
+			<item name="Mag_Glock_15Rnd" chance="0.05" />
+			<item name="Mag_MKII_10Rnd" chance="0.05" />
+			<item name="Mag_1911_7Rnd" chance="0.05" />
+			<item name="Mag_CZ75_15Rnd" chance="0.05" />
+			<item name="Mag_IJ70_8Rnd" chance="0.05" />
+			<item name="Mag_SVD_10Rnd" chance="0.05" />
+			<item name="Mag_Deagle_9rnd" chance="0.05" />
+		</cargo>
+		<cargo chance="1.0" name="Xmas_Fillers_Small">
+			<item name="GasMask_filter" chance="0.10" />
+			<item name="Battery9V" chance="0.10" />
+			<item name="Hook" chance="0.10" />
+		</cargo>
+		<cargo chance="1.0" name="Xmas_Repairs_Small">
+			<item name="DuctTape" chance="0.05" />
+			<item name="SewingKit" chance="0.05" />
+			<item name="EpoxyPutty" chance="0.05" />
+			<item name="Whetstone" chance="0.05" />
+		</cargo>
+		<cargo chance="1.0" name="Xmas_Food_Small">
+			<item name="Zagorky" chance="0.10" />
+			<item name="ZagorkyChocolate" chance="0.10" />
+			<item name="ZagorkyPeanuts" chance="0.10" />
+			<item name="SodaCan_Cola" chance="0.10" />
+			<item name="SodaCan_Kvass" chance="0.10" />
+			<item name="SodaCan_Pipsi" chance="0.10" />
+			<item name="SodaCan_Spite" chance="0.10" />
+			<item name="SodaCan_Fronta" chance="0.10" />
+			<item name="Honey" chance="0.10" />
+			<item name="Marmalade" chance="0.10" />
+			<item name="SardinesCan" chance="0.10" />
+			<item name="TunaCan" chance="0.10" />
+			<item name="DogFoodCan" chance="0.10" />
+			<item name="CatFoodCan" chance="0.10" />
+			<item name="PorkCan" chance="0.10" />
+			<item name="Lunchmeat" chance="0.10" />
+			<item name="UnknownFoodCan" chance="0.10" />
+			<item name="Pajka" chance="0.10" />
+			<item name="Pate" chance="0.10" />
+			<item name="BrisketSpread" chance="0.10" />
+			<item name="Crackers" chance="0.10" />
+			<item name="Chips" chance="0.10" />
+			<item name="SaltySticks" chance="0.10" />
+			<item name="BakedBeansCan" chance="0.10" />
+			<item name="PeachesCan" chance="0.10" />
+			<item name="SpaghettiCan" chance="0.10" />
+			<item name="TacticalBaconCan" chance="0.10" />
+		</cargo>
+		<cargo chance="1.0" name="Xmas_Lights_Small">
+			<item name="Headtorch_Grey" chance="0.05" />
+			<item name="Headtorch_Black" chance="0.05" />
+			<item name="TLRLight" chance="0.05" />
+			<item name="UniversalLight" chance="0.05" />
+			<item name="NVGHeadstrap" chance="0.05" />
+			<item name="NVGoggles" chance="0.01" />
+		</cargo>
+		<cargo chance="1.0" name="Xmas_Chemlights_Small">
+			<item name="Chemlight_Blue" chance="0.50" />
+			<item name="Chemlight_Green" chance="0.50" />
+			<item name="Chemlight_Red" chance="0.50" />
+			<item name="Chemlight_Yellow" chance="0.50" />
+			<item name="Chemlight_White" chance="0.50" />
+		</cargo>
+		<cargo chance="1.0" name="Xmas_Clothes_Medium">
+			<item name="Sweater_Red" chance="0.05" />
+			<item name="WoolCoat_Red" chance="0.05" />
+			<item name="WoolCoat_RedCheck" chance="0.05" />
+			<item name="HuntingVest" chance="0.05" />
+			<item name="CombatBoots_Grey" chance="0.05" />
+			<item name="HunterPants_Winter" chance="0.05" />
+			<item name="HuntingJacket_Winter" chance="0.05" />
+			<item name="NBCPantsGray" chance="0.01" />
+			<item name="NBCPantsYellow" chance="0.03" />
+			<item name="NBCJacketGray" chance="0.01" />
+			<item name="NBCJacketYellow" chance="0.03" />
+			<item name="GasMask" chance="0.05" />
+			<item name="GP5GasMask" chance="0.05" />
+			<item name="AirborneMask" chance="0.05" />
+		</cargo>
+		<cargo chance="1.0" name="Xmas_Weapons_Medium">
+			<item name="CZ61" chance="0.10" />
+			<item name="Colt1911" chance="0.10" />
+			<item name="Magnum" chance="0.10" />
+			<item name="Deagle" chance="0.10" />
+			<item name="Sickle" chance="0.10" />
+			<item name="CrudeMachete" chance="0.10" />
+			<item name="OrientalMachete" chance="0.10" />
+			<item name="KukriKnife" chance="0.10" />
+			<item name="FangeKnife" chance="0.10" />
+		</cargo>
+		<cargo chance="0.5" name="Xmas_Optics_Medium">
+			<item name="PUScopeOptic" chance="0.05" />
+			<item name="PSO1Optic" chance="0.05" />
+			<item name="ACOGOptic" chance="0.05" />
+			<item name="HuntingOptic" chance="0.05" />
+			<item name="ACOGOptic_6x" chance="0.05" />
+			<item name="StarlightOptic" chance="0.05" />
+			<item name="KazuarOptic" chance="0.05" />
+		</cargo>
+		<cargo chance="1.0" name="Xmas_Mags_Medium">
+			<item name="Mag_Ruger1022_30Rnd" chance="0.05" />
+			<item name="Mag_MP5_30Rnd" chance="0.05" />
+			<item name="Mag_UMP_25Rnd" chance="0.05" />
+		</cargo>
+		<cargo chance="1.0" name="Xmas_Fillers_Medium">
+			<item name="FishNetTrap" chance="0.05" />
+			<item name="CombinationLock" chance="0.05" />
+			<item name="CombinationLock4" chance="0.05" />
+			<item name="Netting" chance="0.05" />
+		</cargo>
+		<cargo chance="1.0" name="Xmas_Repairs_Medium">
+			<item name="LeatherSewingKit" chance="0.05" />
+			<item name="TireRepairKit" chance="0.05" />
+			<item name="WeaponCleaningKit" chance="0.05" />
+			<item name="ElectronicRepairKit" chance="0.05" />
+		</cargo>	
+		<cargo chance="1.0" name="Xmas_Food_Medium">
+			<item name="CarpFilletMeat" chance="0.10" />
+		</cargo>
+		<cargo chance="0.25" name="Xmas_Weapons_Large">
+			<item name="MP5K" chance="0.10" />
+			<item name="UMP45" chance="0.10" />
+			<item name="FishingRod" chance="0.10" />
+		</cargo>
+		<cargo chance="0.25" name="Xmas_Mags_Large">
+			<item name="Mag_Saiga_Drum20Rnd" chance="0.05" />
+			<item name="Mag_STANAG_60Rnd" chance="0.05" />
+			<item name="Mag_AKM_Drum75Rnd" chance="0.05" />
+		</cargo>
+<cargo chance="1" name="bloodsuckerloot">
+       <cargo chance="1">
+			<item name="FS_Maskarad_KROS" chance="1.0" />
+		</cargo>  
+<cargo chance="1">
+			<item name="DS_Mutant_Steak" chance="0.6" />
+		</cargo>
+<cargo chance="1">
+			<item name="DS_Mutant_Steak" chance="0.6" />
+		</cargo>
+<cargo chance="1">
+			<item name="DS_Mutant_Steak" chance="0.6" />
+		</cargo>
+<cargo chance="1">
+			<item name="DS_Mutant_Steak" chance="0.6" />
+		</cargo>
+<cargo chance="1">
+			<item name="DS_Mutant_Steak" chance="0.6" />
+		</cargo>		
+      <cargo chance="1">
+			<item name="expansionsilvernugget" chance="0.8" />
+		</cargo>	
+     
+    </cargo>
+
+  
+<cargo chance="1.00" name="toolsMonster">
+		<item name="expansiongoldnugget" chance="0.10"/>
+		<item name="expansionsilvernugget" chance="0.80"/>
+  <item name="HumanSteakMeat" chance="1.00"/>
+  <item name="HumanSteakMeat" chance="0.75"/>
+  <item name="HumanSteakMeat" chance="0.50"/>
+  <item name="HumanSteakMeat" chance="0.25"/>
+	</cargo>  
+<cargo chance="0.15" name="PokemonCards">
+				<!-- 1 Card Booster -->
+				<item name="PokemonBooster001_1" chance="0.2" />
+				<item name="PokemonBooster002_1" chance="0.2" />
+				<item name="PokemonBooster003_1" chance="0.2" />
+				<item name="PokemonBooster001_3" chance="0.08" />
+				<item name="PokemonBooster002_3" chance="0.08" />
+				<item name="PokemonBooster003_3" chance="0.08" />
+				<item name="PokemonBooster001_5" chance="0.01" />
+				<item name="PokemonBooster002_5" chance="0.01" />
+				<item name="PokemonBooster003_5" chance="0.01" />				
+		</cargo>
+		<cargo chance="0.35" name="PokemonCardsClown">
+				<!-- 1 Card Booster -->
+				<item name="PokemonBooster001_1" chance="0.4" />
+				<item name="PokemonBooster002_1" chance="0.4" />
+				<item name="PokemonBooster003_1" chance="0.4" />
+				<item name="PokemonBooster001_3" chance="0.2" />
+				<item name="PokemonBooster002_3" chance="0.2" />
+				<item name="PokemonBooster003_3" chance="0.2" />
+				<item name="PokemonBooster001_5" chance="0.07" />
+				<item name="PokemonBooster002_5" chance="0.07" />
+				<item name="PokemonBooster003_5" chance="0.07" />				
+		</cargo>
+		<!-- RADIO 353 songs-->
+		<cargo chance="0.35" name="SongsSD">
+				<item name="LDzRadio_actafool_Tape" chance="0.0026" />
+				<item name="LDzRadio_gotlove_Tape" chance="0.0026" />
+				<item name="LDzRadio_walkure_Tape" chance="0.0026" />
+				<item name="LDzRadio_ringoffire_Tape" chance="0.0026" />
+				<item name="LDzRadio_changetheworld_Tape" chance="0.0026" />
+				<item name="LDzRadio_ingoodcompany_Tape" chance="0.0026" />
+				<item name="LDzRadio_housebuilding_Tape" chance="0.0026" />
+				<item name="LDzRadio_partymaker_Tape" chance="0.0026" />
+				<item name="LDzRadio_wizerryday_Tape" chance="0.0026" />
+				<item name="LDzRadio_wiznosleep_Tape" chance="0.0026" />
+				<item name="LDzRadio_winnertakes_Tape" chance="0.0026" />
+				<item name="LDzRadio_regulaters_Tape" chance="0.0026" />
+				<item name="LDzRadio_superfreak_Tape" chance="0.0026" />
+				<item name="LDzRadio_ambitions_Tape" chance="0.0026" />
+				<item name="LDzRadio_hatebeinsober_Tape" chance="0.0026" />
+				<item name="LDzRadio_safetosay_Tape" chance="0.0026" />
+				<item name="LDzRadio_lovesosa_Tape" chance="0.0026" />
+				<item name="LDzRadio_nobodydoes_Tape" chance="0.0026" />
+				<item name="LDzRadio_musicandme_Tape" chance="0.0026" />
+				<item name="LDzRadio_watchingmeog_Tape" chance="0.0026" />
+				<item name="LDzRadio_tillicollapse_Tape" chance="0.0026" />
+				<item name="LDzRadio_whenimgone_Tape" chance="0.0026" />
+				<item name="LDzRadio_brightsideoflife_Tape" chance="0.0026" />
+				<item name="LDzRadio_wannabegangster_Tape" chance="0.0026" />
+				<item name="LDzRadio_withoutme_Tape" chance="0.0026" />
+				<item name="LDzRadio_rockyou_Tape" chance="0.0026" />
+				<item name="LDzRadio_meanttobe_Tape" chance="0.0026" />
+				<item name="LDzRadio_sophisticated_Tape" chance="0.0026" />
+				<item name="LDzRadio_linkinpark_Tape" chance="0.0026" />
+				<item name="LDzRadio_chilloutcali_Tape" chance="0.0026" />
+				<item name="LDzRadio_racks_Tape" chance="0.0026" />
+				<item name="LDzRadio_carryonson_Tape" chance="0.0026" />
+				<item name="LDzRadio_remedy_Tape" chance="0.0026" />
+				<item name="LDzRadio_sobertool_Tape" chance="0.0026" />
+				<item name="LDzRadio_walkthisway_Tape" chance="0.0026" />
+				<item name="LDzRadio_killingmachine_Tape" chance="0.0026" />
+				<item name="LDzRadio_ganja_Tape" chance="0.0026" />
+				<item name="LDzRadio_chopsuey_Tape" chance="0.0026" />
+				<item name="LDzRadio_zombieoffical_Tape" chance="0.0026" />
+				<item name="LDzRadio_kickoff_Tape" chance="0.0026" />
+				<item name="LDzRadio_xanny_Tape" chance="0.0026" />
+				<item name="LDzRadio_meshugah_Tape" chance="0.0026" />
+				<item name="LDzRadio_brighterday_Tape" chance="0.0026" />
+				<item name="LDzRadio_bringrum_Tape" chance="0.0026" />
+				<item name="LDzRadio_jamaica_Tape" chance="0.0026" />
+				<item name="LDzRadio_fortunateson_Tape" chance="0.0026" />
+				<item name="LDzRadio_outoftouch_Tape" chance="0.0026" />
+				<item name="LDzRadio_smokeonwater_Tape" chance="0.0026" />
+				<item name="LDzRadio_levitating_Tape" chance="0.0026" />
+				<item name="LDzRadio_explodemix_Tape" chance="0.0026" />
+				<item name="LDzRadio_popularmonster_Tape" chance="0.0026" />
+				<item name="LDzRadio_eastwood_Tape" chance="0.0026" />
+				<item name="LDzRadio_hittheroad_Tape" chance="0.0026" />
+				<item name="LDzRadio_whatyouwaitingfor_Tape" chance="0.0026" />
+				<item name="LDzRadio_natural_Tape" chance="0.0026" />
+				<item name="LDzRadio_ifeelgood_Tape" chance="0.0026" />
+				<item name="LDzRadio_combustioninferno_Tape" chance="0.0026" />
+				<item name="LDzRadio_drankanddrugs_Tape" chance="0.0026" />
+				<item name="LDzRadio_steadymobbin_Tape" chance="0.0026" />
+				<item name="LDzRadio_loseyourhead_Tape" chance="0.0026" />
+				<item name="LDzRadio_thisisthenewshit_Tape" chance="0.0026" />
+				<item name="LDzRadio_astronautintheocean_Tape" chance="0.0026" />
+				<item name="LDzRadio_nuclear_Tape" chance="0.0026" />
+				<item name="LDzRadio_digupherbones_Tape" chance="0.0026" />
+				<item name="LDzRadio_sleepwalker_Tape" chance="0.0026" />
+				<item name="LDzRadio_tangodelfuego_Tape" chance="0.0026" />
+				<item name="LDzRadio_whereismymind_Tape" chance="0.0026" />
+				<item name="LDzRadio_hypnotizedremix_Tape" chance="0.0026" />
+				<item name="LDzRadio_touchableremble_Tape" chance="0.0026" />
+				<item name="LDzRadio_rosesremixed_Tape" chance="0.0026" />
+				<item name="LDzRadio_gimmeshelter_Tape" chance="0.0026" />
+				<item name="LDzRadio_heyyaoutkast_Tape" chance="0.0026" />
+				<item name="LDzRadio_stillfly_Tape" chance="0.0026" />
+				<item name="LDzRadio_wherethehoodat_Tape" chance="0.0026" />
+				<item name="LDzRadio_campfiresong_Tape" chance="0.0026" />
+				<item name="LDzRadio_watchingme_Tape" chance="0.0026" />
+				<item name="LDzRadio_byob_Tape" chance="0.0026" />
+				<item name="LDzRadio_bad_Tape" chance="0.0026" />
+				<item name="LDzRadio_BALLER_Tape" chance="0.0026" />
+				<item name="LDzRadio_bank_Tape" chance="0.0026" />
+				<item name="LDzRadio_believer_Tape" chance="0.0026" />
+				<item name="LDzRadio_blackbeatles_Tape" chance="0.0026" />
+				<item name="LDzRadio_tupachow_Tape" chance="0.0026" />
+				<item name="LDzRadio_lowrider_Tape" chance="0.0026" />
+				<item name="LDzRadio_callondark_Tape" chance="0.0026" />
+				<item name="LDzRadio_starman_Tape" chance="0.0026" />
+				<item name="LDzRadio_muthaphuckkinG_Tape" chance="0.0026" />
+				<item name="LDzRadio_rustycage_Tape" chance="0.0026" />
+				<item name="LDzRadio_aintnograve_Tape" chance="0.0026" />
+				<item name="LDzRadio_thegambler_Tape" chance="0.0026" />
+				<item name="LDzRadio_killerofgiants_Tape" chance="0.0026" />
+				<item name="LDzRadio_body_Tape" chance="0.0026" />
+				<item name="LDzRadio_bornforthis_Tape" chance="0.0026" />
+				<item name="LDzRadio_buffalo_Tape" chance="0.0026" />
+				<item name="LDzRadio_collapse_Tape" chance="0.0026" />
+				<item name="LDzRadio_danger__Tape" chance="0.0026" />
+				<item name="LDzRadio_forgot_Tape" chance="0.0026" />
+				<item name="LDzRadio_high_Tape" chance="0.0026" />
+				<item name="LDzRadio_homealabama_Tape" chance="0.0026" />
+				<item name="LDzRadio_horse_Tape" chance="0.0026" />
+				<item name="LDzRadio_hotel_Tape" chance="0.0026" />
+				<item name="LDzRadio_juice_Tape" chance="0.0026" />
+				<item name="LDzRadio_juicy_Tape" chance="0.0026" />
+				<item name="LDzRadio_kush_Tape" chance="0.0026" />
+				<item name="LDzRadio_manyman_Tape" chance="0.0026" />
+				<item name="LDzRadio_monster_Tape" chance="0.0026" />
+				<item name="LDzRadio_oldtown_Tape" chance="0.0026" />
+				<item name="LDzRadio_rampage_Tape" chance="0.0026" />
+				<item name="LDzRadio_recipe_Tape" chance="0.0026" />
+				<item name="LDzRadio_soul_Tape" chance="0.0026" />		
+				<item name="LDzRadio_sawsoundtrack_Tape" chance="0.0026" />
+				<item name="LDzRadio_shookonesmobbdeep_Tape" chance="0.0026" />
+				<item name="LDzRadio_yeaiknow_Tape" chance="0.0026" />
+				<item name="LDzRadio_cream_Tape" chance="0.0026" />
+				<item name="LDzRadio_lookatthesedudes_Tape" chance="0.0026" />
+				<item name="LDzRadio_godzillaem_Tape" chance="0.0026" />
+				<item name="LDzRadio_squarehammer_Tape" chance="0.0026" />
+				<item name="LDzRadio_bitchmix_Tape" chance="0.0026" />
+				<item name="LDzRadio_thinkyourspecial_Tape" chance="0.0026" />
+				<item name="LDzRadio_skynut_Tape" chance="0.0026" />
+				<item name="LDzRadio_whatsthedifference_Tape" chance="0.0026" />
+				<item name="LDzRadio_methodman_Tape" chance="0.0026" />
+				<item name="LDzRadio_gettinit_Tape" chance="0.0026" />
+				<item name="LDzRadio_blowthewhistle_Tape" chance="0.0026" />
+				<item name="LDzRadio_droppedabombonme_Tape" chance="0.0026" />
+				<item name="LDzRadio_mymothatoldme_Tape" chance="0.0026" />
+				<item name="LDzRadio_pushitstaticx_Tape" chance="0.0026" />
+				<item name="LDzRadio_itsmylifebonjovi_Tape" chance="0.0026" />
+				<item name="LDzRadio_theoffering_Tape" chance="0.0026" />
+				<item name="LDzRadio_nbarsacella_Tape" chance="0.0026" />
+				<item name="LDzRadio_rollingpaint_Tape" chance="0.0026" />
+				<item name="LDzRadio_piscesjinjer_Tape" chance="0.0026" />
+				<item name="LDzRadio_kyotocodeblack_Tape" chance="0.0026" />
+				<item name="LDzRadio_milliondreams_Tape" chance="0.0026" />
+				<item name="LDzRadio_saufenaufm_Tape" chance="0.0026" />
+				<item name="LDzRadio_saildevildriver_Tape" chance="0.0026" />
+				<item name="LDzRadio_xacknpebahw_Tape" chance="0.0026" />
+				<item name="LDzRadio_thereaperblue_Tape" chance="0.0026" />
+				<item name="LDzRadio_arrowsinthesky_Tape" chance="0.0026" />
+				<item name="LDzRadio_setgonzi_Tape" chance="0.0026" />
+				<item name="LDzRadio_expressexzess_Tape" chance="0.0026" />
+				<item name="LDzRadio_anguish_Tape" chance="0.0026" />
+				<item name="LDzRadio_everythingcounts_Tape" chance="0.0026" />
+				<item name="LDzRadio_partyandbs_Tape" chance="0.0026" />
+				<item name="LDzRadio_stricken_Tape" chance="0.0026" />
+				<item name="LDzRadio_tohellandback_Tape" chance="0.0026" />
+				<item name="LDzRadio_thewarriorsong_Tape" chance="0.0026" />
+				<item name="LDzRadio_sepulturaterritory_Tape" chance="0.0026" />
+				<item name="LDzRadio_catchkadir_Tape" chance="0.0026" />
+				<item name="LDzRadio_hornsbryce_Tape" chance="0.0026" />
+				<item name="LDzRadio_defenceofmoscow_Tape" chance="0.0026" />
+				<item name="LDzRadio_noglory_Tape" chance="0.0026" />
+				<item name="LDzRadio_primovictoria_Tape" chance="0.0026" />
+				<item name="LDzRadio_pantera_Tape" chance="0.0026" />
+				<item name="LDzRadio_ganjasmuggling_Tape" chance="0.0026" />
+				<item name="LDzRadio_meetyomaker_Tape" chance="0.0026" />
+				<item name="LDzRadio_funkyshit_Tape" chance="0.0026" />
+				<item name="LDzRadio_blurry_Tape" chance="0.0026" />
+				<item name="LDzRadio_blueberryyumyum_Tape" chance="0.0026" />
+				<item name="LDzRadio_lorntimesink_Tape" chance="0.0026" />
+				<item name="LDzRadio_hometownglory_Tape" chance="0.0026" />
+				<item name="LDzRadio_swingthemood_Tape" chance="0.0026" />
+				<item name="LDzRadio_tborcyka_Tape" chance="0.0026" />
+				<item name="LDzRadio_senorita_Tape" chance="0.0026" />
+				<item name="LDzRadio_shinedownmonsters_Tape" chance="0.0026" />
+				<item name="LDzRadio_obladaet_Tape" chance="0.0026" />
+				<item name="LDzRadio_asslikethatremix_Tape" chance="0.0026" />
+				<item name="LDzRadio_backinblack_Tape" chance="0.0026" />
+				<item name="LDzRadio_highwaytohell_Tape" chance="0.0026" />
+				<item name="LDzRadio_straightrhymez_Tape" chance="0.0026" />
+				<item name="LDzRadio_sabotagebeastie_Tape" chance="0.0026" />
+				<item name="LDzRadio_brushycorn_Tape" chance="0.0026" />
+				<item name="LDzRadio_screamaimfire_Tape" chance="0.0026" />
+				<item name="LDzRadio_werolldeep_Tape" chance="0.0026" />
+				<item name="LDzRadio_sleepingmydayaway_Tape" chance="0.0026" />
+				<item name="LDzRadio_dedodo_Tape" chance="0.0026" />
+				<item name="LDzRadio_apereallastdex_Tape" chance="0.0026" />
+				<item name="LDzRadio_diegebruder_Tape" chance="0.0026" />
+				<item name="LDzRadio_komplett_Tape" chance="0.0026" />
+				<item name="LDzRadio_chunkyformatb_Tape" chance="0.0026" />
+				<item name="LDzRadio_damouthofmadness_Tape" chance="0.0026" />
+				<item name="LDzRadio_getdown_Tape" chance="0.0026" />
+				<item name="LDzRadio_babelremix_Tape" chance="0.0026" />
+				<item name="LDzRadio_radioactive_Tape" chance="0.0026" />
+				<item name="LDzRadio_sweat_Tape" chance="0.0026" />
+				<item name="LDzRadio_johnnycashgods_Tape" chance="0.0026" />
+				<item name="LDzRadio_hurtjohnnycash_Tape" chance="0.0026" />
+				<item name="LDzRadio_crystalmeffin_Tape" chance="0.0026" />
+				<item name="LDzRadio_likememeekz_Tape" chance="0.0026" />
+				<item name="LDzRadio_powerofsound_Tape" chance="0.0026" />
+				<item name="LDzRadio_sunrisenorahjones_Tape" chance="0.0026" />
+				<item name="LDzRadio_lostboy_Tape" chance="0.0026" />
+				<item name="LDzRadio_shingeki_Tape" chance="0.0026" />
+				<item name="LDzRadio_questionsigetasked_Tape" chance="0.0026" />
+				<item name="LDzRadio_theweekendedit_Tape" chance="0.0026" />
+				<item name="LDzRadio_unraveltokyo_Tape" chance="0.0026" />
+				<item name="LDzRadio_thesoundofe_Tape" chance="0.0026" />
+				<item name="LDzRadio_dontstopthemusic_Tape" chance="0.0026" />
+				<item name="LDzRadio_elektroniksupersonik_Tape" chance="0.0026" />
+				<item name="LDzRadio_cross_Tape" chance="0.0026" />
+				<item name="LDzRadio_lonewolf_Tape" chance="0.0026" />
+				<item name="LDzRadio_lifeisgoodremix_Tape" chance="0.0026" />
+				<item name="LDzRadio_meinteil_Tape" chance="0.0026" />
+				<item name="LDzRadio_sigaretta_Tape" chance="0.0026" />
+				<item name="LDzRadio_whereareyou_Tape" chance="0.0026" />
+				<item name="LDzRadio_sociopath_Tape" chance="0.0026" />
+				<item name="LDzRadio_youngestincharge_Tape" chance="0.0026" />
+				<item name="LDzRadio_antagonist_Tape" chance="0.0026" />
+				<item name="LDzRadio_fashionweek_Tape" chance="0.0026" />
+				<item name="LDzRadio_inismona_Tape" chance="0.0026" />
+				<item name="LDzRadio_alittlebitoff_Tape" chance="0.0026" />
+				<item name="LDzRadio_thepride_Tape" chance="0.0026" />
+				<item name="LDzRadio_twistedtransistor_Tape" chance="0.0026" />
+				<item name="LDzRadio_armatastrigoi_Tape" chance="0.0026" />
+				<item name="LDzRadio_demonsareagirls_Tape" chance="0.0026" />
+				<item name="LDzRadio_stuart_Tape" chance="0.0026" />
+				<item name="LDzRadio_starboyremix_Tape" chance="0.0026" />
+				<item name="LDzRadio_tomjonesleave_Tape" chance="0.0026" />
+				<item name="LDzRadio_shemakeitclap_Tape" chance="0.0026" />
+				<item name="LDzRadio_everythingblack_Tape" chance="0.0026" />
+				<item name="LDzRadio_thunderstruckacdc_Tape" chance="0.0026" />
+				<item name="LDzRadio_twilightofthunder_Tape" chance="0.0026" />
+				<item name="LDzRadio_lamarche_Tape" chance="0.0026" />
+				<item name="LDzRadio_downwithsickness_Tape" chance="0.0026" />
+				<item name="LDzRadio_insidethefire_Tape" chance="0.0026" />
+				<item name="LDzRadio_drowningpoolbodies_Tape" chance="0.0026" />
+				<item name="LDzRadio_hotremix_Tape" chance="0.0026" />
+				<item name="LDzRadio_igotbyburden_Tape" chance="0.0026" />
+				<item name="LDzRadio_riskitall_Tape" chance="0.0026" />
+				<item name="LDzRadio_outlawshit_Tape" chance="0.0026" />
+				<item name="LDzRadio_tillitsgone_Tape" chance="0.0026" />
+				<item name="LDzRadio_jacqueesyou_Tape" chance="0.0026" />
+				<item name="LDzRadio_doabyprevail_Tape" chance="0.0026" />
+				<item name="LDzRadio_futurefn_Tape" chance="0.0026" />
+				<item name="LDzRadio_hardtochoose_Tape" chance="0.0026" />
+				<item name="LDzRadio_tonymontanafuture_Tape" chance="0.0026" />
+				<item name="LDzRadio_freedfromdesire_Tape" chance="0.0026" />
+				<item name="LDzRadio_nobodysperfect_Tape" chance="0.0026" />
+				<item name="LDzRadio_nothingelsematters_Tape" chance="0.0026" />
+				<item name="LDzRadio_badandboujee_Tape" chance="0.0026" />
+				<item name="LDzRadio_dangermigo_Tape" chance="0.0026" />
+				<item name="LDzRadio_godwasnever_Tape" chance="0.0026" />
+				<item name="LDzRadio_congratulations_Tape" chance="0.0026" />
+				<item name="LDzRadio_rockstar_Tape" chance="0.0026" />
+				<item name="LDzRadio_pushittothelimit_Tape" chance="0.0026" />
+				<item name="LDzRadio_whereowlsknowmyname_Tape" chance="0.0026" />
+				<item name="LDzRadio_rusmusic_Tape" chance="0.0026" />
+				<item name="LDzRadio_boshretkheir_Tape" chance="0.0026" />
+				<item name="LDzRadio_headlines_Tape" chance="0.0026" />
+				<item name="LDzRadio_venomem_Tape" chance="0.0026" />
+				<item name="LDzRadio_fallem_Tape" chance="0.0026" />
+				<item name="LDzRadio_ambitionzazaridah_Tape" chance="0.0026" />
+				<item name="LDzRadio_amerikazmostwanted_Tape" chance="0.0026" />
+				<item name="LDzRadio_weownitwiz_Tape" chance="0.0026" />
+				<item name="LDzRadio_soundofsilence_Tape" chance="0.0026" />
+				<item name="LDzRadio_calilove_Tape" chance="0.0026" />
+				<item name="LDzRadio_fastlane_Tape" chance="0.0026" />
+				<item name="LDzRadio_allaroundtheworld_Tape" chance="0.0026" />
+				<item name="LDzRadio_canciondelmariachi_Tape" chance="0.0026" />
+				<item name="LDzRadio_blackbetty_Tape" chance="0.0026" />
+				<item name="LDzRadio_weshallsailtogether_Tape" chance="0.0026" />
+				<item name="LDzRadio_folktronicavioarr_Tape" chance="0.0026" />
+				<item name="LDzRadio_voluspa_Tape" chance="0.0026" />
+				<item name="LDzRadio_mothertoldme_Tape" chance="0.0026" />
+				<item name="LDzRadio_clockwise_Tape" chance="0.0026" />
+				<item name="LDzRadio_americahorse_Tape" chance="0.0026" />
+				<item name="LDzRadio_demuseo_Tape" chance="0.0026" />
+				<item name="LDzRadio_bangbang_Tape" chance="0.0026" />
+				<item name="LDzRadio_danceofthedead_Tape" chance="0.0026" />
+				<item name="LDzRadio_bizpetrunko_Tape" chance="0.0026" />
+				<item name="LDzRadio_bonethugsitried_Tape" chance="0.0026" />
+				<item name="LDzRadio_yourbetrayal_Tape" chance="0.0026" />
+				<item name="LDzRadio_cairokeeya_Tape" chance="0.0026" />
+				<item name="LDzRadio_cheapthrills_Tape" chance="0.0026" />
+				<item name="LDzRadio_greenriver_Tape" chance="0.0026" />
+				<item name="LDzRadio_slimchers_Tape" chance="0.0026" />
+				<item name="LDzRadio_waitingfor_Tape" chance="0.0026" />
+				<item name="LDzRadio_triptovalhalla_Tape" chance="0.0026" />
+				<item name="LDzRadio_cantfeelmyface_Tape" chance="0.0026" />
+				<item name="LDzRadio_houseofthesun_Tape" chance="0.0026" />
+				<item name="LDzRadio_somewhereonlyweknow_Tape" chance="0.0026" />
+				<item name="LDzRadio_beethovenken_Tape" chance="0.0026" />
+				<item name="LDzRadio_pursuitofhappiness_Tape" chance="0.0026" />
+				<item name="LDzRadio_turnthepage_Tape" chance="0.0026" />
+				<item name="LDzRadio_whiskeyinthejar_Tape" chance="0.0026" />
+				<item name="LDzRadio_miyagi_Tape" chance="0.0026" />
+				<item name="LDzRadio_nfoutcast_Tape" chance="0.0026" />
+				<item name="LDzRadio_layemdown_Tape" chance="0.0026" />
+				<item name="LDzRadio_tetrismusik_Tape" chance="0.0026" />
+				<item name="LDzRadio_projectxremix_Tape" chance="0.0026" />
+				<item name="LDzRadio_ramil_Tape" chance="0.0026" />
+				<item name="LDzRadio_hettatanya_Tape" chance="0.0026" />
+				<item name="LDzRadio_sanduciorba_Tape" chance="0.0026" />
+				<item name="LDzRadio_liveforever_Tape" chance="0.0026" />
+				<item name="LDzRadio_lonelyshepherd_Tape" chance="0.0026" />
+				<item name="LDzRadio_summertimeisgreat_Tape" chance="0.0026" />
+				<item name="LDzRadio_withdrawals_Tape" chance="0.0026" />
+				<item name="LDzRadio_amluatcina_Tape" chance="0.0026" />
+				<item name="LDzRadio_uraganufaceti_Tape" chance="0.0026" />
+				<item name="LDzRadio_goodumsa_Tape" chance="0.0026" />
+				<item name="LDzRadio_wonderland_Tape" chance="0.0026" />
+				<item name="LDzRadio_upchurch_Tape" chance="0.0026" />
+				<item name="LDzRadio_wardrunahelvegen_Tape" chance="0.0026" />
+				<item name="LDzRadio_putthreestripes_Tape" chance="0.0026" />
+				<item name="LDzRadio_returnofthetres_Tape" chance="0.0026" />
+				<item name="LDzRadio_insaneinthebrain_Tape" chance="0.0026" />
+				<item name="LDzRadio_desperadorihanna_Tape" chance="0.0026" />
+				<item name="LDzRadio_amonvikings_Tape" chance="0.0026" />
+				<item name="LDzRadio_fatherofthewolf_Tape" chance="0.0026" />
+				<item name="LDzRadio_dontworryaboutme_Tape" chance="0.0026" />
+				<item name="LDzRadio_generalscorner_Tape" chance="0.0026" />
+				<item name="LDzRadio_blinksmallthings_Tape" chance="0.0026" />
+				<item name="LDzRadio_aufgute_Tape" chance="0.0026" />
+				<item name="LDzRadio_niewieder_Tape" chance="0.0026" />
+				<item name="LDzRadio_wirhamnoch_Tape" chance="0.0026" />
+				<item name="LDzRadio_ragnboneman_Tape" chance="0.0026" />
+				<item name="LDzRadio_charlesboum_Tape" chance="0.0026" />
+				<item name="LDzRadio_darkepicmusic_Tape" chance="0.0026" />
+				<item name="LDzRadio_turndownforwhat_Tape" chance="0.0026" />
+				<item name="LDzRadio_theonlything_Tape" chance="0.0026" />
+				<item name="LDzRadio_enaftenved_Tape" chance="0.0026" />
+				<item name="LDzRadio_easygoremix_Tape" chance="0.0026" />
+				<item name="LDzRadio_thisgonnahurt_Tape" chance="0.0026" />
+				<item name="LDzRadio_untraveledroad_Tape" chance="0.0026" />
+				<item name="LDzRadio_hookwith_Tape" chance="0.0026" />
+				<item name="LDzRadio_chemtrailsover_Tape" chance="0.0026" />
+				<item name="LDzRadio_unarosa_Tape" chance="0.0026" />
+				<item name="LDzRadio_bfgdivision_Tape" chance="0.0026" />
+				<item name="LDzRadio_clownmike_Tape" chance="0.0026" />
+				<item name="LDzRadio_mostbeautiful_Tape" chance="0.0026" />
+				<item name="LDzRadio_cowboysfromhell_Tape" chance="0.0026" />
+				<item name="LDzRadio_popsmokedior_Tape" chance="0.0026" />
+				<item name="LDzRadio_purplerain_Tape" chance="0.0026" />
+				<item name="LDzRadio_thewolfsong_Tape" chance="0.0026" />
+				<item name="LDzRadio_toolfortysix_Tape" chance="0.0026" />
+				<item name="LDzRadio_lostthatlovin_Tape" chance="0.0026" />
+				<item name="LDzRadio_eddierise_Tape" chance="0.0026" />
+				<item name="LDzRadio_moveyourfeet_Tape" chance="0.0026" />
+				<item name="LDzRadio_limprollin_Tape" chance="0.0026" />
+				<item name="LDzRadio_perfectday_Tape" chance="0.0026" />
+				<item name="LDzRadio_survivaloffit_Tape" chance="0.0026" />
+				<item name="LDzRadio_endoftheworld_Tape" chance="0.0026" />
+				<item name="LDzRadio_bullsonparade_Tape" chance="0.0026" />
+				<item name="LDzRadio_wanabesedated_Tape" chance="0.0026" />
+				<item name="LDzRadio_thesmithsask_Tape" chance="0.0026" />
+				<item name="LDzRadio_billiejean" chance="0.0026" />
+				<item name="LDzRadio_eyeinsky_Tape" chance="0.0026" />
+				<item name="LDzRadio_theraven_Tape" chance="0.0026" />
+				<item name="LDzRadio_roosters_Tape" chance="0.0026" />
+				<item name="LDzRadio_footsteps_Tape" chance="0.0026" />
+				<item name="LDzRadio_cityofangels_Tape" chance="0.0026" />
+				<item name="LDzRadio_jailhouserock_Tape" chance="0.0026" />
+				<item name="LDzRadio_highman_Tape" chance="0.0026" />
+				<item name="LDzRadio_goode_Tape" chance="0.0026" />	
+          <item name="LDzRadio_3teeth_Tape" chance="0.0026" />
+				<item name="LDzRadio_justsoyouknow_Tape" chance="0.0026" />
+				<item name="LDzRadio_loyalty_Tape" chance="0.0026" />
+				<item name="LDzRadio_songforthesuspect_Tape" chance="0.0026" />
+				<item name="LDzRadio_bioluminesence_Tape" chance="0.0026" />
+				<item name="LDzRadio_cirice_Tape" chance="0.0026" />
+				<item name="LDzRadio_rats_Tape" chance="0.0026" />
+				<item name="LDzRadio_twenties_Tape" chance="0.0026" />
+				<item name="LDzRadio_flyingwhales_Tape" chance="0.0026" />
+				<item name="LDzRadio_oroborus_Tape" chance="0.0026" />
+				<item name="LDzRadio_silvera_Tape" chance="0.0026" />
+				<item name="LDzRadio_blind_Tape" chance="0.0026" />
+				<item name="LDzRadio_disconnect_Tape" chance="0.0026" />
+				<item name="LDzRadio_loveandmeth_Tape" chance="0.0026" />
+				<item name="LDzRadio_machination_Tape" chance="0.0026" />
+				<item name="LDzRadio_mnemic_Tape" chance="0.0026" />
+				<item name="LDzRadio_12hundred_Tape" chance="0.0026" />
+				<item name="LDzRadio_becommingcold_Tape" chance="0.0026" />
+				<item name="LDzRadio_oneofmyturns_Tape" chance="0.0026" />
+				<item name="LDzRadio_deliverance_Tape" chance="0.0026" />
+				<item name="LDzRadio_ghostofperdition_Tape" chance="0.0026" />
+				<item name="LDzRadio_toridthedisease_Tape" chance="0.0026" />
+				<item name="LDzRadio_thedevilini_Tape" chance="0.0026" />
+				<item name="LDzRadio_solitareunraveling_Tape" chance="0.0026" />
+				<item name="LDzRadio_sonofagun_Tape" chance="0.0026" />
+				<item name="LDzRadio_love_Tape" chance="0.0026" />
+				<item name="LDzRadio_alien_Tape" chance="0.0026" />	
+		</cargo>
+	<cargo chance="0.1" name="toolsArmyZ">
+		
+		 <item name="Hatchet" chance="0.01" />
+		<item name="Matchbox" chance="0.01" />
+		<item name="LandMineTrap" chance="0.01"/>
+		<item name="PurificationTablets" chance="0.01"/>
+		<item name="Money_Dollar20" chance="0.01" />
+		
+		<item name="CombatKnife" chance="0.02"/>		
+		<item name="CJ_SamSplint" chance="0.02"/>
+		<item name="CJ_FieldBandage_Small" chance="0.02"/>
+		<item name="Money_Dollar10" chance="0.02" />
+		<item name="Flashlight" chance="0.02" />
+		<item name="Battery9V" chance="0.02" />
+		
+		<item name="Rope" chance="0.03"/>
+		<item name="Paper" chance="0.03" />
+		
+		<item name="Money_Dollar1" chance="0.04" />		
+		
+	</cargo> 
+	
+	
+	<cargo chance="0.1" name="GrannyBonus">		
+		 <item name="SewingKit" chance="0.3" />			
+	</cargo> 
+	
+	<!--   Cult Zombies Horde    -->
+		<attachments chance="1.00" name="CultHordeMask">
+			<item name="JVDS_WolfMask" chance="1.00" />
+		</attachments>
+</randompresets>

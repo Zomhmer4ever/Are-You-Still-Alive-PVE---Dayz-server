@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<!-- Cult Altar stuff -->
+	<type name="Animal_FacehuggerNK">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="Animal_Facehugger">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+   <type name="ALIENSOLDIER">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+   <type name="ALIENSOLDIER_Hairy">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  
+  <!-- RAVENS -->
+	<type name="Animal_Raven">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Animal_Raven2">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Animal_Raven_Airborne">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+	
+	<!-- ERA Zombies NORMAL -->
+    <type name="Era_Zombies_BabyZmb">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Clot">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_feeder">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Golovastik">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Kleshni">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Krovosos">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_MumiaSlowZmb">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_MurderZmb">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_snork">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_StlZomb1">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_StlZomb2">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_StlZomb3">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_StlZomb4">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_StlZomb5">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_StlZomb6">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_StlZomb7">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_StlZomb8">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Zombie">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Zubastik1">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Zubastik2">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Zubastik3">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <!-- END ERA Zombies NORMAL -->
+    <!-- ERA Zombies MEDIUM -->
+    <type name="Era_Zombies_BabyZmb_medium">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Clot_medium">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_feeder_medium">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Golovastik_medium">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Kleshni_medium">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Krovosos_medium">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_MumiaSlowZmb_medium">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_MurderZmb_medium">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_snork_medium">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Zombie_medium">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Zubastik1_medium">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Zubastik2_medium">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Zubastik3_medium">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <!-- END ERA Zombies MEDIUM -->
+    <!-- ERA Zombies HARD -->
+    <type name="Era_Zombies_BabyZmb_hard">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Clot_hard">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_feeder_hard">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Golovastik_hard">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Kleshni_hard">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Krovosos_hard">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_MumiaSlowZmb_hard">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_MurderZmb_hard">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_snork_hard">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Zombie_hard">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Zubastik1_hard">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Zubastik2_hard">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="Era_Zombies_Zubastik3_hard">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <!-- END ERA Zombies HARD -->
+	
+	<type name="MonstersOfChiemsee_boomer">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="MonstersOfChiemsee_burer">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="MonstersOfChiemsee_controller">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="MonstersOfChiemsee_krovosos">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="MonstersOfChiemsee_poltergeist">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="MonstersOfChiemsee_psevdogigant">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="MonstersOfChiemsee_snork">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	
+  <!-- START FS FIDO V STALKER -->
+  
+ 
+  
+ 
+  <type name="FS_ZMB_Stalker_Top">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_ZMB_Stalker__Ruined">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_ZMB_Stalker_Brain">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_Snork">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_Snork_Head">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_anomaly_AI">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_HIMERA_v1">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_HIMERA_v2">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_HIMERA_v3">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_Kaban_black">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_SlepDog_Bronza">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_PseDOG">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_SlepDog_Zmb">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_DogZMB">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_Izlome">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_Zombie_13">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_ZombieType2_noTkan">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_SnorkW">
+      <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+   <type name="FS_Snork_Boss">
+      <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+   <type name="FS_Snork_Head_boss">
+      <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_Zombie_3">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_Polter_Standart">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_DogZ_LAPA">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_KrovoSOS_invisible">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_GermanDog_tan">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_Zombie_9">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_ZombieType2">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_Zombie_6">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_WolfZmb_black">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_Kontroler">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_Plot_Mob_v2">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_SlepDog_Pepel">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_Cat_Baun_Light">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_Kaban">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_Polter_Invz">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_Tark">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="FS_KrovoRedux_original">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  
+   <type name="FS_Zombie_14">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  
+  <type name="PseudoGiant">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="SFP_Gigant_Pered_GIGANT">
+    <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  
+  	<!-- Mutants -->
+	<type name="DS_Mutant_Soldier1">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="DS_Mutant_Soldier2">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="DS_Mutant_Soldier3">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="DS_Mutant_Soldier4">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="DS_Mutant_Soldier5">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="DS_Mutant_Soldier6">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="DS_Mutant_Scientist">
+     <nominal>0</nominal>
+    <lifetime>28800</lifetime>
+     <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  
+  <!-- Mutant Heads -->
+  
+  <type name="DS_Soldier1_Head">
+    <lifetime>28800</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/> 
+  </type>
+  <type name="DS_Soldier2_Head">
+    <lifetime>1800</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/> 
+  </type>
+  <type name="DS_Soldier3_Head">
+    <lifetime>1800</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/> 
+  </type>
+  <type name="DS_Soldier4_Head">
+    <lifetime>1800</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/> 
+  </type>
+  <type name="DS_Soldier5_Head">
+    <lifetime>1800</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/> 
+  </type>
+  <type name="DS_Soldier6_Head">
+    <lifetime>1800</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/> 
+  </type>
+  <type name="DS_Scientist_Head">
+    <lifetime>1800</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/> 
+  </type>
+  
+  <type name="ZmbM_BloodSucker_normal">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="ZmbM_BloodSucker_medium">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+  <type name="ZmbM_BloodSucker_hard">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+    <type name="ZmbM_BloodSucker_superhard">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+    <type name="ZmbM_BloodSucker_superweird">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+ <type name="ZmbM_BloodSucker_superhardR">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+	</types>

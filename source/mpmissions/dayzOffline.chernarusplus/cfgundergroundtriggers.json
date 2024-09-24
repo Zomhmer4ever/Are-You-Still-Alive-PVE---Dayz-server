@@ -1,0 +1,188 @@
+{
+  "Triggers": [
+    {
+      "Position": [
+        3189.5,
+        287.04,
+        8745.71
+      ],
+      "Orientation": [
+        45,
+        0,
+        0
+      ],
+      "Size": [
+        150,
+        15,
+        150
+      ],
+      "EyeAccommodation": 0.1,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+    { 	
+		    "_Comments":  "--------------------UndergroundTriggers by AlphaBravo--------------------",
+			
+			"Position": [ 8812.75, 201.50, 2927.50],
+			"Orientation": [ -12, 0, 0 ],
+			"Size": [ 20.0, 20.0, 20.0 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs":
+			[
+
+				{			
+					"Position": [ 8811.98, 207.90, 2938.25 ],
+					"EyeAccommodation": 0.8,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{			
+					"Position": [ 8813.62, 207.80, 2935.34 ],
+					"EyeAccommodation": 0.6,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{			
+					"Position": [ 8807.80, 207.90, 2934.80 ],
+					"EyeAccommodation": 0.4,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{			
+					"Position": [ 8809.07, 207.90, 2928.17 ],
+					"EyeAccommodation": 0.2,
+					"UseRaycast": 1,
+					"Radius": -1
+				}
+			]
+		},
+		{ 	
+			"Position": [ 8816.65, 201.50, 2909.10],
+			"Orientation": [ -12, 0, 0 ],
+			"Size": [ 20.0, 20.0, 20.0 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{ 	
+			"Position": [ 8794.06, 201.50, 2923.52 ],
+			"Orientation": [ -12, 0, 0 ],
+			"Size": [ 22.0, 20.0, 22.0 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{ 	
+			"Position": [ 8785.96, 199.00, 2898.24 ],
+			"Orientation": [ -12, 0, 0 ],
+			"Size": [ 10.0, 10.0, 10.0 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{ 	
+			"Position": [ 8784.46, 199.00, 2906.74 ],
+			"Orientation": [ -12, 0, 0 ],
+			"Size": [ 10.0, 10.0, 10.0 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{ 	
+			"Position": [ 8782.50, 198.00, 2915.74 ],
+			"Orientation": [ -12, 0, 0 ],
+			"Size": [ 10.0, 10.0, 10.0 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{ 	
+			"Position": [ 8780.86, 198.00, 2924.30 ],
+			"Orientation": [ -12, 0, 0 ],
+			"Size": [ 10.0, 10.0, 10.0 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{ 	
+			"Position": [ 8812.75, 182.50, 2927.50 ],
+			"Orientation": [ -12, 0, 0 ],
+			"Size": [ 20.0, 20.0, 20.0 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{ 	
+			"Position": [8816.65, 182.50, 2909.10],
+			"Orientation": [ -12, 0, 0 ],
+			"Size": [ 20.0, 20.0, 20.0 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{ 	
+			"Position": [8798.00, 182.50, 2905.15 ],
+			"Orientation": [ -12, 0, 0 ],
+			"Size": [ 20.0, 60.0, 20.0 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{ 	
+			"Position": [ 8794.06, 182.50, 2923.52 ],
+			"Orientation": [ -12, 0, 0 ],
+			"Size": [ 22.0, 20.0, 22.0 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{ 	
+			"Position": [ 8779.12, 163.50, 2901.02 ],
+			"Orientation": [ -12, 0, 0 ],
+			"Size": [ 20.0, 60.0, 20.0 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{ 	
+			"Position": [ 8775.20, 163.50, 2919.52 ],
+			"Orientation": [ -12, 0, 0 ],
+			"Size": [ 22.0, 60.0, 22.0 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{ 	
+			"Position": [ 8761.35, 163.50, 2893 ],
+			"Orientation": [ -12, 0, 0 ],
+			"Size": [ 20.0, 20.0, 20.0 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{ 	
+			"Position": [ 8757.40, 163.50, 2911.55 ],
+			"Orientation": [ -12, 0, 0 ],
+			"Size": [ 22.0, 20.0, 22.0 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{ 	
+			"Position": [ 8757.40, 144.50, 2911.55 ],
+			"Orientation": [ -12, 0, 0 ],
+			"Size": [ 24.0, 20.0, 24.0 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{ 	
+			"Position": [ 8798.00, 144.50, 2905.15 ],
+			"Orientation": [ -12, 0, 0 ],
+			"Size": [ 24.0, 20.0, 24.0 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		}
+  ]
+}
