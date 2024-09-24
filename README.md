@@ -1,1 +1,1 @@
-# Are-You-Still-Alive-PVE---Dayz
+# Are-You-Still-Alive-PVE---Dayz server
