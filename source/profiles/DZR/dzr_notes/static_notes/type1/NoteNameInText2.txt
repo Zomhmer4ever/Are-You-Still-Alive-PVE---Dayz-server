@@ -1,0 +1,3 @@
+Same here. If any static note type 1 has NoteNameInText2 it will show the this text. You can spawn plain static note, red, green, and blue.
+
+Это второй текст-заготовка. Если указать в записках NoteNameInText2 вместо текста, то будет показан этот текст из файла.

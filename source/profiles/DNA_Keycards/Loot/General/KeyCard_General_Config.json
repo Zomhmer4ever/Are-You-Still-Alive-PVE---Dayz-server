@@ -1,0 +1,284 @@
+{
+  "m_DNAConfig_Loot": [
+    {
+      "dna_Tier": "yellow",
+      "dna_Category": "proprietary",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "yellow",
+      "dna_Category": "medical",
+      "dna_Type": "BloodTestKit"
+    },
+    {
+      "dna_Tier": "yellow",
+      "dna_Category": "food",
+      "dna_Type": "BoxCerealCrunchin"
+    },
+    {
+      "dna_Tier": "yellow",
+      "dna_Category": "drink",
+      "dna_Type": "SodaCan_Spite"
+    },
+    {
+      "dna_Tier": "yellow",
+      "dna_Category": "tools",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "yellow",
+      "dna_Category": "material",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "yellow",
+      "dna_Category": "valuable",
+      "dna_Type": "Zen_ArtillerySmokeGrenadeChem"
+    },
+    {
+      "dna_Tier": "yellow",
+      "dna_Category": "valuable",
+      "dna_Type": "Zen_ArtillerySmokeGrenade"
+    },
+    {
+      "dna_Tier": "yellow",
+      "dna_Category": "misc",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "green",
+      "dna_Category": "proprietary",
+      "dna_Type": "ADM_JetPack_Green"
+    },
+    {
+      "dna_Tier": "green",
+      "dna_Category": "medical",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "green",
+      "dna_Category": "food",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "green",
+      "dna_Category": "drink",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "green",
+      "dna_Category": "tools",
+      "dna_Type": "CanisterGasoline"
+    },
+    {
+      "dna_Tier": "green",
+      "dna_Category": "material",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "green",
+      "dna_Category": "valuable",
+      "dna_Type": "ER7_Gauss_Battery"
+    },
+    {
+      "dna_Tier": "green",
+      "dna_Category": "misc",
+      "dna_Type": "dzn_detector"
+    },
+    {
+      "dna_Tier": "green",
+      "dna_Category": "misc",
+      "dna_Type": "CanisterGasoline"
+    },
+    {
+      "dna_Tier": "green",
+      "dna_Category": "misc",
+      "dna_Type": "dzn_vega7_enzyme"
+    },
+    {
+      "dna_Tier": "green",
+      "dna_Category": "misc",
+      "dna_Type": "dzn_oxygenated_blood"
+    },
+    {
+      "dna_Tier": "green",
+      "dna_Category": "misc",
+      "dna_Type": "ADM_ParachuteBag_Skull_Speed"
+    },
+    {
+      "dna_Tier": "blue",
+      "dna_Category": "proprietary",
+      "dna_Type": "Coin"
+    },
+    {
+      "dna_Tier": "blue",
+      "dna_Category": "medical",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "blue",
+      "dna_Category": "food",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "blue",
+      "dna_Category": "drink",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "blue",
+      "dna_Category": "tools",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "blue",
+      "dna_Category": "material",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "blue",
+      "dna_Category": "valuable",
+      "dna_Type": "Coin"
+    },
+    {
+      "dna_Tier": "blue",
+      "dna_Category": "misc",
+      "dna_Type": "Coin"
+    },
+    {
+      "dna_Tier": "blue",
+      "dna_Category": "misc",
+      "dna_Type": "Money_Dollar100"
+    },
+    {
+      "dna_Tier": "blue",
+      "dna_Category": "misc",
+      "dna_Type": "Money_Dollar100"
+    },
+    {
+      "dna_Tier": "blue",
+      "dna_Category": "misc",
+      "dna_Type": "Money_Dollar100"
+    },
+    {
+      "dna_Tier": "blue",
+      "dna_Category": "misc",
+      "dna_Type": "Money_Dollar100"
+    },
+    {
+      "dna_Tier": "blue",
+      "dna_Category": "misc",
+      "dna_Type": "ExpansionGoldBar"
+    },
+    {
+      "dna_Tier": "blue",
+      "dna_Category": "misc",
+      "dna_Type": "ExpansionGoldBar"
+    },
+    {
+      "dna_Tier": "blue",
+      "dna_Category": "misc",
+      "dna_Type": "ExpansionGoldBar"
+    },
+    {
+      "dna_Tier": "blue",
+      "dna_Category": "misc",
+      "dna_Type": "ExpansionSilverBar"
+    },
+    {
+      "dna_Tier": "blue",
+      "dna_Category": "misc",
+      "dna_Type": "ExpansionSilverBar"
+    },
+    {
+      "dna_Tier": "blue",
+      "dna_Category": "misc",
+      "dna_Type": "ExpansionSilverBar"
+    },
+    {
+      "dna_Tier": "blue",
+      "dna_Category": "misc",
+      "dna_Type": "ExpansionSilverBar"
+    },
+    {
+      "dna_Tier": "purple",
+      "dna_Category": "proprietary",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "purple",
+      "dna_Category": "medical",
+      "dna_Type": "BandageDressing"
+    },
+    {
+      "dna_Tier": "purple",
+      "dna_Category": "food",
+      "dna_Type": "BakedBeansCan"
+    },
+    {
+      "dna_Tier": "purple",
+      "dna_Category": "drink",
+      "dna_Type": "WaterBottle"
+    },
+    {
+      "dna_Tier": "purple",
+      "dna_Category": "tools",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "purple",
+      "dna_Category": "material",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "purple",
+      "dna_Category": "valuable",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "purple",
+      "dna_Category": "misc",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "red",
+      "dna_Category": "proprietary",
+      "dna_Type": "Lockpick"
+    },
+    {
+      "dna_Tier": "red",
+      "dna_Category": "medical",
+      "dna_Type": "Morphine"
+    },
+    {
+      "dna_Tier": "red",
+      "dna_Category": "food",
+      "dna_Type": "BakedBeansCan"
+    },
+    {
+      "dna_Tier": "red",
+      "dna_Category": "drink",
+      "dna_Type": "SodaCan_Pipsi"
+    },
+    {
+      "dna_Tier": "red",
+      "dna_Category": "tools",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "red",
+      "dna_Category": "material",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "red",
+      "dna_Category": "valuable",
+      "dna_Type": ""
+    },
+    {
+      "dna_Tier": "red",
+      "dna_Category": "misc",
+      "dna_Type": ""
+    }
+  ]
+}

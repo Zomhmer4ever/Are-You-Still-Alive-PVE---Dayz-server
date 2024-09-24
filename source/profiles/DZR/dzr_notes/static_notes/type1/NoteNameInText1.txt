@@ -1,0 +1,5 @@
+Spawn a static note type 1 (DZR_PaperWrittenAdmin_Static, DZR_PaperWrittenAdmin_Red_Static, DZR_PaperWrittenAdmin_Green_Static, DZR_PaperWrittenAdmin_Blue_Static) and write this text file name in it without .txt part. When someone tries to read that note, the note will show the text from the file.
+So can place 10 notes in ten location and set one text source for all of them. Anytime you change this text in the file, it will be updated in all note in game.
+
+Спавним, например статичную записку первого типа (DZR_PaperWrittenAdmin_Static, DZR_PaperWrittenAdmin_Red_Static, DZR_PaperWrittenAdmin_Green_Static, DZR_PaperWrittenAdmin_Blue_Static), но в текст пишем имя файла без .txt и при прочтении в записке будет текст из файла вместо его имени.
+Так можно разместить 10 записок в разных локациях и задать всем одинаковый текст. Так же текст можно сразу у всех отредактировать в файле и он сразу заменится в игре.
