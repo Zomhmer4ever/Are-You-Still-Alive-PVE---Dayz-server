@@ -1,0 +1,37 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARACHUTES",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "ADM_ParachuteBag_Target_Speed",
+      "MaxPriceThreshold": 1045,
+      "MinPriceThreshold": 1045,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ADM_ParachuteBag_Skull_Speed",
+        "ADM_ParachuteBag_Fabric_Speed",
+        "ADM_ParachuteBag_RWB_Speed",
+        "ADM_ParachuteBag_ADM_Speed"
+      ]
+    },
+    {
+      "ClassName": "ADM_TactiParaBag_Camo_Speed",
+      "MaxPriceThreshold": 5045,
+      "MinPriceThreshold": 5045,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

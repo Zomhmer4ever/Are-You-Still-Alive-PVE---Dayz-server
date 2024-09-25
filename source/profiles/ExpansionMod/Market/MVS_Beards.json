@@ -1,0 +1,36 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MVS - BEARDS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MVS_Beard_01_Brown",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Beard_01_LightBrown",
+                "MVS_Beard_01_Black",
+                "MVS_Beard_01_Blonde",
+                "MVS_Beard_01_White",
+                "MVS_Beard_02_Brown",
+                "MVS_Beard_02_LightBrown",
+                "MVS_Beard_02_Black",
+                "MVS_Beard_02_Blonde",
+                "MVS_Beard_02_White",
+                "MVS_Beard_03_Brown",
+                "MVS_Beard_03_LightBrown",
+                "MVS_Beard_03_Black",
+                "MVS_Beard_03_Blonde",
+                "MVS_Beard_03_White"
+            ]
+        }
+    ]
+}

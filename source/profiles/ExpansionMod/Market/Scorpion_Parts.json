@@ -1,0 +1,87 @@
+{
+    "m_Version": 12,
+    "DisplayName": "SCORPION BIKE PARTS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "vg7_scorpion_saddlebag",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "vg7_scorpion_wheel_front",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "vg7_scorpion_wheel_rear",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "vg7_scorpion_radiator",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "vg7_scorpion_drybag",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "vg7_scorpion_plate_blackouts",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"vg7_scorpion_plate_mexico",
+				"vg7_scorpion_plate_india",
+				"vg7_scorpion_plate_usa",
+				"vg7_scorpion_plate_canada",
+				"vg7_scorpion_plate_british",
+				"vg7_scorpion_plate_china",
+				"vg7_scorpion_plate_russia",
+				"vg7_scorpion_plate_skull",
+				"vg7_scorpion_plate_australia",
+				"vg7_scorpion_plate_czechoslovakia"
+			]
+        }
+    ]
+}

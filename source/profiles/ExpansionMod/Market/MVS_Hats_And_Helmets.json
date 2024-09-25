@@ -1,0 +1,128 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MVS - CLOTHES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MVS_GorkaPants",
+            "MaxPriceThreshold": 850,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_GorkaPants_Snow",
+                "MVS_GorkaPants_Multicam",
+                "MVS_GorkaPants_Multicam_Tropic",
+                "MVS_GorkaPants_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_GorkaJacket",
+            "MaxPriceThreshold": 850,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_GorkaJacket_Snow",
+                "MVS_GorkaJacket_Multicam",
+                "MVS_GorkaJacket_Multicam_Tropic",
+                "MVS_GorkaJacket_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Pants_BDU",
+            "MaxPriceThreshold": 850,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Pants_BDU_Snow"
+            ]
+        },
+        {
+            "ClassName": "MVS_CombatPants_OD",
+            "MaxPriceThreshold": 850,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_CombatPants_Tan",
+                "MVS_CombatPants_Black",
+                "MVS_CombatPants_Snow",
+                "MVS_CombatPants_ERDL",
+                "MVS_CombatPants_Multicam",
+                "MVS_CombatPants_Multicam_Tropic",
+                "MVS_CombatPants_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Shirt_BDU",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Shirt_BDU_Snow",
+                "MVS_Shirt_BDU_Multicam",
+                "MVS_Shirt_BDU_Multicam_Tropic",
+                "MVS_Shirt_BDU_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_CombatShirt_OD",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_CombatShirt_Tan",
+                "MVS_CombatShirt_Black",
+                "MVS_CombatShirt_Snow",
+                "MVS_CombatShirt_ERDL",
+                "MVS_CombatShirt_Multicam",
+                "MVS_CombatShirt_Multicam_Tropic",
+                "MVS_CombatShirt_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_CombatShirt_OD",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_CombatShirt_Tan",
+                "MVS_CombatShirt_Black",
+                "MVS_CombatShirt_Snow",
+                "MVS_CombatShirt_ERDL",
+                "MVS_CombatShirt_Multicam",
+                "MVS_CombatShirt_Multicam_Tropic",
+                "MVS_CombatShirt_Multicam_Black"
+            ]
+        }
+    ]
+}

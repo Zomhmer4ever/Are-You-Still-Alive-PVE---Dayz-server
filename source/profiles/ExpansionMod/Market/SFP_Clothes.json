@@ -1,0 +1,274 @@
+{
+  "m_Version": 12,
+  "DisplayName": "SFP - CLOTHING",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "SFP_CombezBullat_green",
+      "MaxPriceThreshold": 12100,
+      "MinPriceThreshold": 12000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 35,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SFP_CombezBullat_Dolg"
+      ]
+    },
+    {
+      "ClassName": "SFP_CombezBullatPants_green",
+      "MaxPriceThreshold": 11800,
+      "MinPriceThreshold": 11700,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 35,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SFP_CombezBullatPants_Dolg"
+      ]
+    },
+    {
+      "ClassName": "SFP_CombezST_Neitral",
+      "MaxPriceThreshold": 11500,
+      "MinPriceThreshold": 11400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 35,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SFP_CombezST_Dolg",
+        "SFP_CombezST_Free",
+        "SFP_CombezST_Monolit",
+        "SFP_CombezST_Naem",
+        "SFP_CombezST_Zara"
+      ]
+    },
+    {
+      "ClassName": "SFP_CombezPantsST_Neitral",
+      "MaxPriceThreshold": 11400,
+      "MinPriceThreshold": 11300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 35,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SFP_CombezPantsST_Dolg",
+        "SFP_CombezPantsST_Free",
+        "SFP_CombezPantsST_Monolit",
+        "SFP_CombezPantsST_Naem",
+        "SFP_CombezPantsST_Zara"
+      ]
+    },
+    {
+      "ClassName": "SFP_BadHeavyArmor_tors",
+      "MaxPriceThreshold": 13500,
+      "MinPriceThreshold": 13000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SFP_BadHeavyArmor_pants",
+      "MaxPriceThreshold": 13500,
+      "MinPriceThreshold": 13000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SFP_ExoArmor_Tors",
+      "MaxPriceThreshold": 13500,
+      "MinPriceThreshold": 13000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 35,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SFP_ExoArmor_Pants",
+      "MaxPriceThreshold": 13500,
+      "MinPriceThreshold": 13000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 35,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SFP_ExoClassic_Tors_Dolg",
+      "MaxPriceThreshold": 13700,
+      "MinPriceThreshold": 13500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 35,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SFP_ExoClassic_Tors_Svoboda",
+        "SFP_ExoClassic_Tors_Naem",
+        "SFP_ExoClassic_Tors_monolit",
+        "SFP_ExoClassic_Tors_Neitral"
+      ]
+    },
+    {
+      "ClassName": "SFP_ExoClassic_Pants_Dolg",
+      "MaxPriceThreshold": 13700,
+      "MinPriceThreshold": 13500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 35,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SFP_ExoClassic_Pants_Svoboda",
+        "SFP_ExoClassic_Pants_Naem",
+        "SFP_ExoClassic_Pants_monolit",
+        "SFP_ExoClassic_Pants_Neitral"
+      ]
+    },
+    {
+      "ClassName": "SFP_Heavy_Military_armor",
+      "MaxPriceThreshold": 12800,
+      "MinPriceThreshold": 12600,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SFP_Heavy_Military_armor_DOLG",
+        "SFP_Heavy_Military_armor_CS",
+        "SFP_Heavy_Military_armor_Monolit",
+        "SFP_Heavy_Military_armor_Naem",
+        "SFP_Heavy_Military_armor_voin"
+      ]
+    },
+    {
+      "ClassName": "SFP_Heavy_Military_pants",
+      "MaxPriceThreshold": 2800,
+      "MinPriceThreshold": 2600,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SFP_Heavy_Military_pants_DOLG",
+        "SFP_Heavy_Military_pants_CS",
+        "SFP_Heavy_Military_pants_Monolit",
+        "SFP_Heavy_Military_pants_Naem",
+        "SFP_Heavy_Military_pants_voin"
+      ]
+    },
+    {
+      "ClassName": "SFP_MilitaryBodyVest",
+      "MaxPriceThreshold": 14200,
+      "MinPriceThreshold": 14100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SFP_Gorka4Vest_Top",
+      "MaxPriceThreshold": 1100,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 35,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FS_BulatPants_Camo",
+        "FS_BulatPants_Dolg"
+      ]
+    },
+    {
+      "ClassName": "SFP_Gorka4_PantsBelt",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 35,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SFP_Gorka4_Jacket_TanBlack",
+      "MaxPriceThreshold": 1400,
+      "MinPriceThreshold": 1300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SFP_Gorka4_Vest",
+      "MaxPriceThreshold": 1300,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SFP_SpecOpsTactical_Tors",
+      "MaxPriceThreshold": 13500,
+      "MinPriceThreshold": 13400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SFP_SpecOpsTactical_Pants",
+      "MaxPriceThreshold": 13500,
+      "MinPriceThreshold": 13400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SFP_Vest6b5_green",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SFP_Vest6b5_Tan",
+        "SFP_Vest6b5_Black"
+      ]
+    }
+  ]
+}

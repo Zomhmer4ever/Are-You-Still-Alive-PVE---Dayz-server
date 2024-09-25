@@ -1,0 +1,304 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MVS - HEADGEAR",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MVS_Pakol_brown",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Cap_OD",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Cap_Tan",
+                "MVS_Cap_Black",
+                "MVS_Cap_Snow",
+                "MVS_Cap_ERDL",
+                "MVS_Cap_Multicam",
+                "MVS_Cap_Multicam_Tropic",
+                "MVS_Cap_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_FlatCap",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_FlatCap_Snow",
+                "MVS_FlatCap_Multicam",
+                "MVS_FlatCap_Multicam_Tropic",
+                "MVS_FlatCap_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_BoonieHat",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_BoonieHat_Snow",
+                "MVS_BoonieHat_Multicam",
+                "MVS_BoonieHat_Multicam_Tropic",
+                "MVS_BoonieHat_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Helmet_01_Tan",
+            "MaxPriceThreshold": 2550,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Helmet_01_Tan_Worn",
+                "MVS_Helmet_01_OD",
+                "MVS_Helmet_01_Black",
+                "MVS_Helmet_01_Snow",
+                "MVS_Helmet_01_ERDL",
+                "MVS_Helmet_01_Multicam",
+                "MVS_Helmet_01_Multicam_Tropic",
+                "MVS_Helmet_01_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Helmet_02_Tan",
+            "MaxPriceThreshold": 2550,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Helmet_02_Tan_Worn",
+                "MVS_Helmet_02_OD",
+                "MVS_Helmet_02_Black",
+                "MVS_Helmet_02_Snow",
+                "MVS_Helmet_02_ERDL",
+                "MVS_Helmet_02_Multicam",
+                "MVS_Helmet_02_Multicam_Tropic",
+                "MVS_Helmet_02_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_OpsCore_Tan",
+            "MaxPriceThreshold": 2550,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_OpsCore_OD",
+                "MVS_OpsCore_Black",
+                "MVS_OpsCore_Snow",
+                "MVS_OpsCore_ERDL",
+                "MVS_OpsCore_Multicam",
+                "MVS_OpsCore_Multicam_Tropic",
+                "MVS_OpsCore_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_ArmoredHelmet_Tan",
+            "MaxPriceThreshold": 4550,
+            "MinPriceThreshold": 2250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_ArmoredHelmet_OD",
+                "MVS_ArmoredHelmet_Black",
+                "MVS_ArmoredHelmet_Snow",
+                "MVS_ArmoredHelmet_ERDL",
+                "MVS_ArmoredHelmet_Multicam",
+                "MVS_ArmoredHelmet_Multicam_Tropic",
+                "MVS_ArmoredHelmet_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Altyn_OD",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 1850,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Altyn_Tan",
+                "MVS_Altyn_Black",
+                "MVS_Altyn_Visor_OD",
+                "MVS_Altyn_Visor_Tan",
+                "MVS_Altyn_Visor_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_6B47_Helmet_OD",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 1850,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_6B47_Helmet_Tan",
+                "MVS_6B47_Helmet_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_WarriorHelmet_Tan",
+            "MaxPriceThreshold": 9500,
+            "MinPriceThreshold": 5850,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_WarriorHelmet_OD",
+                "MVS_WarriorHelmet_Black",
+                "MVS_WarriorHelmet_Snow",
+                "MVS_WarriorHelmet_ERDL",
+                "MVS_WarriorHelmet_Multicam",
+                "MVS_WarriorHelmet_Multicam_Tropic",
+                "MVS_WarriorHelmet_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_S10Respirator_OD",
+            "MaxPriceThreshold": 6500,
+            "MinPriceThreshold": 4850,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_S10Respirator_Tan",
+                "MVS_S10Respirator_Black",
+                "MVS_S10Respirator_FS",
+                "MVS_S10Respirator_Snow"
+            ]
+        },
+        {
+            "ClassName": "MVS_M50Respirator_OD",
+            "MaxPriceThreshold": 6500,
+            "MinPriceThreshold": 4850,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_M50Respirator_Tan",
+                "MVS_M50Respirator_Black",
+                "MVS_M50Respirator_Snow"
+            ]
+        },
+        {
+            "ClassName": "MVS_PMK2Respirator_Black",
+            "MaxPriceThreshold": 6500,
+            "MinPriceThreshold": 4850,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_PMK2Respirator_Tan",
+                "MVS_PMK2Respirator_OD",
+                "MVS_PMK2Respirator_Snow"
+            ]
+        },
+        {
+            "ClassName": "MVS_Shroud_OD",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 850,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Shroud_Tan",
+                "MVS_Shroud_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Balaclava_Wraith",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 550,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Balaclava_OD",
+                "MVS_Balaclava_Tan",
+                "MVS_Balaclava_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Facemask_OD",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 550,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Facemask_Tan",
+                "MVS_Facemask_Black",
+                "MVS_Facemask_Snow"
+            ]
+        },
+        {
+            "ClassName": "MVS_Comtacs_OD",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 550,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Comtacs_Tan",
+                "MVS_Comtacs_Black"
+            ]
+        }
+    ]
+}

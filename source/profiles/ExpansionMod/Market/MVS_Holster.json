@@ -1,0 +1,67 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MVS - HOLSTERS & SHEATHS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MVS_Holster_OD",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Holster_Tan",
+                "MVS_Holster_Black",
+                "MVS_Holster_Snow",
+                "MVS_Holster_ERDL",
+                "MVS_Holster_Multicam",
+                "MVS_Holster_Multicam_Tropic",
+                "MVS_Holster_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Molle_Panel_OD",
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Molle_Panel_Tan",
+                "MVS_Molle_Panel_Black",
+                "MVS_Molle_Panel_Snow",
+                "MVS_Molle_Panel_ERDL",
+                "MVS_Molle_Panel_Multicam",
+                "MVS_Molle_Panel_Multicam_Tropic",
+                "MVS_Molle_Panel_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Sheath_OD",
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Sheath_Tan",
+                "MVS_Sheath_Black",
+                "MVS_Sheath_Snow",
+                "MVS_Sheath_ERDL",
+                "MVS_Sheath_Multicam",
+                "MVS_Sheath_Multicam_Tropic",
+                "MVS_Sheath_Multicam_Black"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "m_Version": 12,
+    "DisplayName": "SCORPION BIKE",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "vg7_scorpion",
+            "MaxPriceThreshold": 150000,
+            "MinPriceThreshold": 125000,
+            "SellPricePercent": 80,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "vg7_scorpion_wheel_front",
+                "vg7_scorpion_wheel_front",
+                "vg7_scorpion_wheel_rear",
+                "vg7_scorpion_wheel_rear",
+                "carbattery",
+                "vg7_scorpion_radiator",
+                "sparkplug",
+                "vg7_scorpion_plate_blackouts",
+                "headlighth7"
+            ],
+            "Variants": []
+        },
+		 {
+            "ClassName": "vg7_scorpion_easyrider",
+            "MaxPriceThreshold": 160000,
+            "MinPriceThreshold": 140000,
+            "SellPricePercent": 80,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "vg7_scorpion_wheel_front",
+                "vg7_scorpion_wheel_front",
+                "vg7_scorpion_wheel_rear",
+                "vg7_scorpion_wheel_rear",
+                "carbattery",
+                "vg7_scorpion_radiator",
+                "sparkplug",
+                "vg7_scorpion_plate_blackouts",
+                "headlighth7"
+            ],
+            "Variants": []
+        },
+		 {
+            "ClassName": "vg7_scorpion_scorcher",
+            "MaxPriceThreshold": 170000,
+            "MinPriceThreshold": 140000,
+            "SellPricePercent": 80,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "vg7_scorpion_wheel_front",
+                "vg7_scorpion_wheel_front",
+                "vg7_scorpion_wheel_rear",
+                "vg7_scorpion_wheel_rear",
+                "carbattery",
+                "vg7_scorpion_radiator",
+                "sparkplug",
+                "vg7_scorpion_plate_blackouts",
+                "headlighth7"
+            ],
+            "Variants": []
+        }
+    ]
+}

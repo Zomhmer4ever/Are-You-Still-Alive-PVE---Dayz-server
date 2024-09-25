@@ -1,0 +1,79 @@
+{
+  "m_Version": 12,
+  "DisplayName": "SFP - HATS AND HELMETS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "SFP_CombezBullatHelmet_green",
+      "MaxPriceThreshold": 11600,
+      "MinPriceThreshold": 11500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 35,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SFP_CombezBullatHelmet_Dolg"
+      ]
+    },
+    {
+      "ClassName": "SFP_TacticalHelmet_Black3",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 35,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SFP_TacticalHelmet_Black2",
+        "SFP_TacticalHelmet_Black",
+        "SFP_TacticalHelmet_Green",
+        "SFP_TacticalHelmet_Blue"
+      ]
+    },
+    {
+      "ClassName": "SFP_ExoArmor_HelmLite",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 35,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SFP_ExoArmor_Helm"
+      ]
+    },
+    {
+      "ClassName": "SFP_ExoClassic_Helmet_Dolg",
+      "MaxPriceThreshold": 11500,
+      "MinPriceThreshold": 11400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 35,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SFP_ExoClassic_Helmet_Svoboda",
+        "SFP_ExoClassic_Helmet_Naem",
+        "SFP_ExoClassic_Helmet_monolit",
+        "SFP_ExoClassic_Helmet_Neitral"
+      ]
+    },
+    {
+      "ClassName": "SFP_Hat_Black",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 35,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

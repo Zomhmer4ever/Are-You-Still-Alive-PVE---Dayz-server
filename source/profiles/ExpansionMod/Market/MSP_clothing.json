@@ -1,0 +1,97 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MSP - CLOTHING",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Msp_BoxingShorts_Red",
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Msp_BoxingShorts_Blue"
+            ]
+        },
+        {
+            "ClassName": "Msp_BoxingGloves_Red",
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Msp_BoxingGloves_Blue",
+                "Msp_BoxingGloves_Black",
+                "Msp_BoxingGloves_Gold"
+            ]
+        },
+        {
+            "ClassName": "Msp_BoxingHelmet_Red",
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Msp_BoxingHelmet_Blue"
+            ]
+        },
+        {
+            "ClassName": "Msp_BunnyEarsHeadband",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Msp_Slouchie_Beige",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Msp_Slouchie_Black",
+                "Msp_Slouchie_Blue",
+                "Msp_Slouchie_Red"
+            ]
+        },
+        {
+            "ClassName": "Msp_BaseballCap_Olive",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Msp_BaseballCap_Beige",
+                "Msp_BaseballCap_Black",
+                "Msp_BaseballCap_Blue",
+                "Msp_BaseballCap_Camo",
+                "Msp_BaseballCap_Pink",
+                "Msp_BaseballCap_Red",
+                "Msp_BaseballCap_CMMG_Pink",
+                "Msp_BaseballCap_CMMG_Black"
+            ]
+        }
+    ]
+}

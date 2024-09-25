@@ -1,0 +1,71 @@
+{
+  "m_Version": 12,
+  "DisplayName": "SFP - BOOTS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "SFP_Gorka4_Boots",
+      "MaxPriceThreshold": 1400,
+      "MinPriceThreshold": 1300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 65,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SFP_Reptor_Boots",
+      "MaxPriceThreshold": 1400,
+      "MinPriceThreshold": 1300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 65,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SFP_Heavy_Military_boots",
+      "MaxPriceThreshold": 11500,
+      "MinPriceThreshold": 11400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 65,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SFP_Heavy_Military_boots_DOLG",
+        "SFP_Heavy_Military_boots_CS",
+        "SFP_Heavy_Military_boots_Monolit",
+        "SFP_Heavy_Military_boots_Naem",
+        "SFP_Heavy_Military_boots_voin"
+      ]
+    },
+    {
+      "ClassName": "SFP_Stranik_Boots",
+      "MaxPriceThreshold": 1400,
+      "MinPriceThreshold": 1300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 65,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SFP_ExoArmor_Boots",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 65,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

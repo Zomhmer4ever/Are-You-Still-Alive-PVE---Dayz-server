@@ -1,0 +1,66 @@
+{
+  "m_Version": 12,
+  "DisplayName": "SEASONAL",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "GiftWrapPaper",
+      "MaxPriceThreshold": 50,
+      "MinPriceThreshold": 50,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 150,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GiftBox_Small_1",
+      "MaxPriceThreshold": 75,
+      "MinPriceThreshold": 75,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 150,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GiftBox_Small_2",
+        "GiftBox_Small_3",
+        "GiftBox_Small_4"
+      ]
+    },
+    {
+      "ClassName": "GiftBox_Medium_1",
+      "MaxPriceThreshold": 100,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 150,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GiftBox_Medium_2",
+        "GiftBox_Medium_3",
+        "GiftBox_Medium_4"
+      ]
+    },
+    {
+      "ClassName": "GiftBox_Large_1",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 150,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 150,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GiftBox_Large_2",
+        "GiftBox_Large_3",
+        "GiftBox_Large_4"
+      ]
+    }
+  ]
+}

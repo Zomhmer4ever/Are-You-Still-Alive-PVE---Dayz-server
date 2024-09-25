@@ -1,0 +1,26 @@
+{
+    "m_Version": 12,
+    "DisplayName": "POKEMON",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "PokemonCard_Box1s",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "PokemonCard_Box2s",
+                "PokemonCard_Box3s",
+                "PokemonCard_Box4s",
+                "PokemonCard_Box5s"
+            ]
+        }
+    ]
+}

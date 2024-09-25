@@ -1,0 +1,91 @@
+{
+    "m_Version": 12,
+    "DisplayName": "WALLETS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Wallet_Clip",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 45,
+            "MinStockThreshold": 45,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Wallet_Large_DayZ",
+            "MaxPriceThreshold": 1250,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 45,
+            "MinStockThreshold": 45,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Wallet_Large_Green",
+                "Wallet_Large_Blue",
+                "Wallet_Large_Black",
+                "Wallet_Large_Grey",
+                "Wallet_Large_White",
+                "Wallet_Large_Red",
+                "Wallet_Large_Leather",
+                "Wallet_Large_DragonBallZ"
+            ]
+        },
+        {
+            "ClassName": "Wallet_Medium_Red",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 750,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 45,
+            "MinStockThreshold": 45,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Wallet_Medium_Green",
+                "Wallet_Medium_Blue",
+                "Wallet_Medium_Black",
+                "Wallet_Medium_Grey",
+                "Wallet_Medium_White"
+            ]
+        },
+        {
+            "ClassName": "Wallet_Small_Green",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 550,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 45,
+            "MinStockThreshold": 45,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Wallet_Small_Red",
+                "Wallet_Small_Blue",
+                "Wallet_Small_Black",
+                "Wallet_Small_Grey",
+                "Wallet_Small_White",
+                "Wallet_Small_Leather"
+            ]
+        },
+        {
+            "ClassName": "Wallet_Women_Blue",
+            "MaxPriceThreshold": 850,
+            "MinPriceThreshold": 850,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 45,
+            "MinStockThreshold": 45,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Wallet_Women_Brown",
+                "Wallet_Women_Green",
+                "Wallet_Women_Pink"
+            ]
+        }
+    ]
+}

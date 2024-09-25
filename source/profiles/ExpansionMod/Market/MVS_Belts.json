@@ -1,0 +1,29 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MVS - BELTS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MVS_Belt_OD",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Belt_Tan",
+                "MVS_Belt_Black",
+                "MVS_Belt_Snow",
+                "MVS_Belt_ERDL",
+                "MVS_Belt_Multicam",
+                "MVS_Belt_Multicam_Tropic",
+                "MVS_Belt_Multicam_Black"
+            ]
+        }
+    ]
+}
