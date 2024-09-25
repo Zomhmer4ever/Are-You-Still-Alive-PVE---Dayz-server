@@ -1,0 +1,64 @@
+{
+    "m_BanList": [
+        {
+            "playerName": "user",
+            "Steam64Id": "00000000000000000",
+            "GUID": "123456789",
+            "banReason": "Example reason",
+            "issuedBy": "Example ban",
+            "expirationDate": {
+                "Hour": 0,
+                "Minute": 0,
+                "Year": 0,
+                "Month": 0,
+                "Day": 0,
+                "Permanent": 1
+            }
+        },
+        {
+            "playerName": "DarkOasis",
+            "Steam64Id": "76561199410414849",
+            "GUID": "ZvpydM1Vgh_wpE0GGqR1RgKaPsK6mSTdwvurUBiF0AU=",
+            "banReason": "#VSTR_BAN_REASON Dwight",
+            "issuedBy": "Dwight|76561198029991449",
+            "expirationDate": {
+                "Hour": 4,
+                "Minute": 4,
+                "Year": 2022,
+                "Month": 11,
+                "Day": 19,
+                "Permanent": 1
+            }
+        },
+        {
+            "playerName": "DarkOasis",
+            "Steam64Id": "76561199404549699",
+            "GUID": "ZvpydM1Vgh_wpE0GGqR1RgKaPsK6mSTdwvurUBiF0AU=",
+            "banReason": "#VSTR_BAN_REASON Dwight",
+            "issuedBy": "Dwight|76561198029991449",
+            "expirationDate": {
+                "Hour": 4,
+                "Minute": 4,
+                "Year": 2022,
+                "Month": 11,
+                "Day": 19,
+                "Permanent": 1
+            }
+        },
+        {
+            "playerName": "PARKA",
+            "Steam64Id": "76561199527411168",
+            "GUID": "cUVoy8BLFSUj3xvreVxD9clL5jEJ_sxi01m7Mo1YPc8=",
+            "banReason": "#VSTR_BAN_REASON Shaggy",
+            "issuedBy": "Shaggy|76561198029991449",
+            "expirationDate": {
+                "Hour": 2,
+                "Minute": 9,
+                "Year": 2023,
+                "Month": 11,
+                "Day": 4,
+                "Permanent": 1
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+void SpawnObject(string objType, vector objPos, vector objOrientation)
+{
+	Object m_Building = Object.Cast(GetGame().CreateObject(objType, objPos));
+	if (m_Building == null) return;
+	m_Building.SetAffectPathgraph(true, false);
+	GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(GetGame().UpdatePathgraphRegionByObject, 100, false, m_Building);
+	m_Building.SetPosition(objPos);
+	m_Building.SetOrientation(objOrientation);
+}
+
+
+
+SpawnObject( "bldr_prop_MetalPlate", "399.368011 149.625000 4706.970215", "-17.010174 0.000000 0.000000" );
+SpawnObject( "bldr_prop_MetalPlate", "398.264008 149.641006 4706.560059", "-15.121350 0.000000 0.000000" );
+SpawnObject( "bldr_prop_MetalPlate", "399.635010 149.613007 4706.029785", "-18.899767 0.000000 0.000000" );
+SpawnObject( "bldr_prop_MetalPlate", "398.497009 149.645004 4705.529785", "-15.121350 0.000000 0.000000" );
+SpawnObject( "bldr_prop_MetalPlate", "408.778992 149.666000 4704.959961", "-82.087105 0.000000 0.000000" );
+SpawnObject( "bldr_prop_MetalPlate", "407.612000 149.666000 4705.160156", "99.632637 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_MetalPlate", "408.630005 149.666000 4703.830078", "100.981285 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_MetalPlate", "407.309998 149.666000 4703.910156", "-78.836617 0.000000 0.000000" );
+SpawnObject( "FBF_Torch", "401.493988 148.240005 4703.979980", "-18.360962 0.000000 24.999557" );
+SpawnObject( "StaticObj_Furniture_medical_table", "392.091003 145.031998 4728.750000", "0.010491 0.000000 -0.000000" );
+SpawnObject( "Blackouts_Prop_Eye", "392.544006 146.026001 4728.620117", "-127.075623 -1.384969 6.373289" );
+SpawnObject( "Blackouts_Prop_Eye", "392.480011 146.028000 4728.620117", "-11.109826 -1.468925 5.963550" );
+SpawnObject( "Blackouts_Prop_HeartJar", "391.644012 147.061005 4728.339844", "-53.462440 0.000000 0.000000" );
+SpawnObject( "Blackouts_Prop_IntestineJar", "391.979004 146.216995 4728.830078", "0.000000 0.000000 -0.000000" );
+SpawnObject( "Blackouts_Prop_KidneyJar", "391.915985 146.188995 4728.629883", "-88.903564 0.000000 0.000000" );
+SpawnObject( "Blackouts_Prop_Heart", "392.319000 146.026993 4728.600098", "-1.220565 0.017485 -0.038459" );
+SpawnObject( "Blackouts_Prop_Kidney", "392.265991 146.039001 4728.770020", "0.000000 0.000000 -0.000000" );
+SpawnObject( "Blackouts_Prop_Liver", "392.373993 146.042999 4728.819824", "0.000000 0.000000 45.000000" );
+SpawnObject( "Blackouts_Prop_BodyBag", "391.743988 145.192001 4732.790039", "-36.449654 -0.003497 -0.002813" );
+SpawnObject( "Blackouts_Prop_BodyBag", "390.252991 145.192001 4729.729980", "0.608499 0.000000 -0.000000" );
+SpawnObject( "Blackouts_Prop_Cooler", "390.476013 144.992004 4730.569824", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_vomit_blood_ground", "392.122986 146.050995 4728.759766", "-11.341435 0.000000 0.000000" );
+SpawnObject( "vbldr_vomit_blood_ground", "390.687012 145.003006 4730.700195", "85.054306 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_HumanSteakMeat", "391.441986 145.003006 4729.149902", "-38.436218 0.000000 0.002739" );
+SpawnObject( "bldr_prop_MaleAdamHead", "387.653015 144.421005 4730.810059", "-74.251717 0.000000 29.999720" );
+SpawnObject( "vbldr_head_sack_g", "387.941010 146.330002 4731.490234", "-52.647873 0.000000 180.000000" );
+SpawnObject( "FBF_Static_Campfire", "402.002014 144.850006 4721.879883", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_tripod_deployed", "402.005005 144.847000 4721.879883", "0.000000 0.000000 -0.000000" );
+SpawnObject( "ExpansionPropBleach", "392.200012 145.082993 4728.640137", "0.000000 0.000000 -0.000000" );
+SpawnObject( "ExpansionPropBucket1", "387.795013 145.108002 4731.189941", "0.000000 0.000000 -0.000000" );
+SpawnObject( "ExpansionPropChainsaw1", "390.519989 145.500000 4730.459961", "15.661798 0.000000 -0.000000" );
+SpawnObject( "ExpansionPropDetergent1", "387.811005 145.087006 4731.020020", "137.428177 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_MetalPlate", "383.923004 146.326004 4733.350098", "-26.728804 0.000000 0.000000" );
+SpawnObject( "bldr_prop_MetalPlate", "383.135986 146.365005 4733.009766", "-25.649282 0.000000 0.000000" );
+SpawnObject( "bldr_prop_MetalPlate", "383.390991 146.378006 4734.240234", "-26.458956 0.000000 0.000000" );
+SpawnObject( "bldr_prop_MetalPlate", "382.899994 146.362000 4733.939941", "-25.111263 0.000000 0.000000" );
+SpawnObject( "FBF_LongTorch", "383.674011 148.029007 4734.950195", "180.000000 44.998817 -0.000000" );
+SpawnObject( "ExpansionPropGrill1", "389.536011 145.501999 4731.609863", "0.000000 0.000000 -0.000000" );
+SpawnObject( "StaticObj_Misc_Table_Camp_Small", "390.871002 145.397003 4728.040039", "57.239761 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_MeatTenderizer", "391.208008 145.832001 4727.990234", "180.000000 89.972015 -0.000000" );
+SpawnObject( "bldr_prop_RabbitLegMeat", "390.756012 145.796997 4728.069824", "0.000000 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_RabbitLegMeat", "390.799011 145.798004 4728.220215", "-50.492863 0.000000 0.000000" );
+SpawnObject( "bldr_prop_HumanSteakMeat", "390.877991 145.798996 4727.810059", "-67.953621 -0.059450 -0.023628" );
+SpawnObject( "bldr_prop_CigarettePack_Merkur", "391.278015 145.800003 4727.799805", "2.501190 0.000000 0.003494" );
+SpawnObject( "bldr_prop_BookBible", "401.923004 144.977005 4722.009766", "0.000000 89.972015 0.000000" );
+SpawnObject( "bldr_prop_BookHinduLiterature", "402.066986 145.033005 4721.899902", "0.000000 89.972015 0.000000" );
+SpawnObject( "bldr_prop_Plant_Cannabis", "407.588013 144.764999 4733.569824", "0.000000 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_Plant_Cannabis", "406.613007 144.996002 4733.029785", "0.000000 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_Plant_Cannabis", "406.830994 144.968002 4731.770020", "-107.461563 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_Plant_Cannabis", "414.549011 145.001999 4730.680176", "0.000000 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_Plant_Cannabis", "415.473999 145.046997 4729.810059", "-136.889252 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_Plant_Cannabis", "412.970001 144.996994 4730.919922", "98.548035 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_PsilocybeMushroom", "416.265991 145.095993 4726.129883", "0.000000 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_PsilocybeMushroom", "416.959991 145.082001 4725.669922", "0.000000 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_PsilocybeMushroom", "416.165985 145.085007 4725.720215", "-79.373177 0.000000 0.000000" );
+SpawnObject( "bldr_prop_PsilocybeMushroom", "416.335999 145.042999 4725.580078", "85.303970 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_PsilocybeMushroom", "416.497009 145.091995 4725.790039", "-174.961227 0.000000 -0.000000" );
+SpawnObject( "StaticObj_Slum_Roof6", "402.339996 145.212006 4722.180176", "0.000000 0.000000 -0.000000" );
