@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 8003,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Jump",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        8541.9599609375,
+        1212.2099609375,
+        6354.240234375
+    ],
+    "MaxDistance": 12.0,
+    "MarkerName": "Jump",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 1
+}

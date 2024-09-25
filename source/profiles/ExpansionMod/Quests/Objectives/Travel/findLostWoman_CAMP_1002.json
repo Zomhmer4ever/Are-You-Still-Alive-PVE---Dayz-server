@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1002,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Search Zelenogorsk and find the lost woman",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        2733.639892578125,
+        211.9759979248047,
+        5249.2900390625
+    ],
+    "MaxDistance": 3.0,
+    "MarkerName": "",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

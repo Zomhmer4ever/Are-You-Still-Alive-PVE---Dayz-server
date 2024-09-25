@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 300,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Find the Bloodsucker nest",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5038.22021484375,
+        252.52499389648438,
+        14204.7998046875
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 1
+}

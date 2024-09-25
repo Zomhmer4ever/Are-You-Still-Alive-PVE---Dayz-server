@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1004,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Find the mechanic at Balota Airfield",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4962.9501953125,
+        9.899999618530274,
+        2529.659912109375
+    ],
+    "MaxDistance": 3.0,
+    "MarkerName": "",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

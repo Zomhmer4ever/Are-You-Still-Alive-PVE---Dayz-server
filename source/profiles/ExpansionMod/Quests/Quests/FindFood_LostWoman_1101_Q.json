@@ -1,0 +1,66 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1101,
+    "Type": 4,
+    "Title": "The last few crumbs",
+    "Descriptions": [
+        "Thank you. I won't be moving for awhile but this splint helps. I am getting desperate for food. Please help me if you can and bring me some chicken. I'm hungry but not quite starving so I do request that it is chicken. I don't have much, just some gold....",
+        "Find some chicken for the lost woman",
+        "Take the chicken back to the lost woman"
+    ],
+    "ObjectiveText": "Find 4 chicken breasts and bring them to the lost woman",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionGoldNugget",
+            "Amount": 5,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        11
+    ],
+    "QuestTurnInIDs": [
+        11
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1101,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 250,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [
+        1100
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,26 @@
+{
+    "ConfigVersion": 28,
+    "ID": 4,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill 10 Blood Suckers",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "Amount": 10,
+    "ClassNames": [
+        "ZmbM_BloodSucker_superhardR",
+        "ZmbM_BloodSucker_hard"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

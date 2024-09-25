@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1100,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Find a splint for the lost woman",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "Splint",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

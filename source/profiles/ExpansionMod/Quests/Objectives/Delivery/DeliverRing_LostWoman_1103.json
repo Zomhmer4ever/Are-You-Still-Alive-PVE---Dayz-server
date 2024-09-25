@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1103,
+    "ObjectiveType": 5,
+    "ObjectiveText": "Deliver the ring to Red the camp leader",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "Ring_Ruby",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "MaxDistance": 10.0,
+    "MarkerName": "Deliver Items"
+}

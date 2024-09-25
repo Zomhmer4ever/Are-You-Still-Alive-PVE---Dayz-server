@@ -1,0 +1,66 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1003,
+    "Type": 3,
+    "Title": "Wipe that smile off",
+    "Descriptions": [
+        "Ok, not bad. But those stomp things are slow. Not much challenge unless you are grandma HAHAH. Lets see you put down some things that are actually dangerous, clowns. The amusement parks are flooded with these freaking zombie clowns. I don't know what they were all snorting prior to becoming infected but these things are strong and fast. A true challenge heh, go hit some amusement parks and take out 10 of them. Show me what you've got and come back when you're done, I'll have a little something for you.",
+        "Kill 10 clowns",
+        "Good work!"
+    ],
+    "ObjectiveText": "Kill 10 clowns",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "Money_Dollar100",
+            "Amount": 35,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        10
+    ],
+    "QuestTurnInIDs": [
+        10
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1003,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 500,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [
+        1001
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

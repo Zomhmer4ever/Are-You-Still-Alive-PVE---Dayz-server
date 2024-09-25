@@ -1,0 +1,56 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1002,
+    "Type": 3,
+    "Title": "We lost a few",
+    "Descriptions": [
+        "When we fled West camp it was chaos. Many of us were separated. Some returned, some did not. Somewhere in Zelenogorsk we lost track of a great woman, Helga. I feel it, she is still alive. She couldn't have gone far. Search Zelenogorsk for her",
+        "Search Zelenogorsk and find the lost woman",
+        "Good work! You found the lost dame"
+    ],
+    "ObjectiveText": "Find the lost woman in Zelenogorsk",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        10
+    ],
+    "QuestTurnInIDs": [
+        10
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1002,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 500,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [
+        1000
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,25 @@
+{
+    "ConfigVersion": 28,
+    "ID": 301,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill The Bloodsucker Queen",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "Amount": 1,
+    "ClassNames": [
+        "ZmbM_BloodSucker_superweird"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

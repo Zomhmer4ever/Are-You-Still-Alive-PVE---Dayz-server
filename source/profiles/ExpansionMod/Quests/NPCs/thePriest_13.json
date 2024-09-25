@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 13,
+    "ClassName": "ExpansionQuestNPCDenis",
+    "Position": [
+        10698.900390625,
+        213.9980010986328,
+        8084.169921875
+    ],
+    "Orientation": [
+        218.0,
+        0.0,
+        0.0
+    ],
+    "NPCName": "The Priest",
+    "DefaultNPCText": "Hello friend. I'm sorry but there is no more room right now.",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "priest",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}

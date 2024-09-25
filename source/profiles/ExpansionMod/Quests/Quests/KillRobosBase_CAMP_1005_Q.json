@@ -1,0 +1,66 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1005,
+    "Type": 3,
+    "Title": "Delivering the pain",
+    "Descriptions": [
+        "The robos have been hitting us hard and your help with the mechanic is gonna let us smash those fuckers shiny metal teeth right down their throats. We have located the Robo Troop base and I want you to go visit them.. Put a little pressure on them, make them think twice before messing with us. It won't be easy, our scouts have reported large numbers of them in a highly defensible position not to mention the entire area around their camp is seeded with nasty mutants and zombies. I want you to drop in and kill at least 8 of them and then make your escape.  While you're keeping them busy I'll have the mechanic start working on our little robo surprise. Come back and see me when you're done.",
+        "Prepare yourself for battle with the Robo Troops, the base is located at X 322 / Y 9382",
+        "Good work! May they rust in the mud. Head back to camp and see Red"
+    ],
+    "ObjectiveText": "Go to the robo base and kick some robo ass",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "Money_Dollar100",
+            "Amount": 400,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": 0,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        10
+    ],
+    "QuestTurnInIDs": [
+        10
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1005,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 2000,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [
+        1203
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

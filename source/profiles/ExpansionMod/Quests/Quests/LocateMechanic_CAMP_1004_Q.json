@@ -1,0 +1,56 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1004,
+    "Type": 3,
+    "Title": "MIA grease monkey",
+    "Descriptions": [
+        "Thank you for helping her. She must trust you to have given you that ring and message. I then will also trust you. I have a mechanic, sent down to the airfield in an attempt to get a plane running. There has been no contact with him since 2 days now. Please travel over to Balota Airfield and look for him, find out his status and give him any help you can.",
+        "Search Balota Airfield and find the mechanic",
+        "Good work! You found the mechanic"
+    ],
+    "ObjectiveText": "Find the mechanic at Balota Airfield",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        10
+    ],
+    "QuestTurnInIDs": [
+        10
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1004,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 500,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [
+        1103
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

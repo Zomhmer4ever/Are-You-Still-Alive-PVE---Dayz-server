@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 28,
+    "ID": 16,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill a clown with a sledgehammer",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": 150.0,
+    "MinDistance": -1.0,
+    "Amount": 1,
+    "ClassNames": [
+        "CDAJ_ZmbM_Clown"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [
+        "SledgeHammer",
+        "FOG_SOCOM_Slammer_Black"
+    ],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1006,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Show your papers",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "FS_License_L6",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

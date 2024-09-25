@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 11,
+    "ClassName": "ExpansionQuestNPCHelga",
+    "Position": [
+        2733.639892578125,
+        211.87600708007813,
+        5249.2900390625
+    ],
+    "Orientation": [
+        285.0,
+        0.0,
+        0.0
+    ],
+    "NPCName": "The Lost Woman",
+    "DefaultNPCText": "I know what I'm doing, I have a college degree. You can move along. Goodbye",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "woman",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}

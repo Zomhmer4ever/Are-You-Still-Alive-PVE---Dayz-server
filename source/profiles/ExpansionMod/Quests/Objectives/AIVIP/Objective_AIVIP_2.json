@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Bring the survivor to the marked location.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        14368.7998046875,
+        3.7754900455474855,
+        13225.599609375
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Escort - Boat Trader",
+    "ShowDistance": 1,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "BanditLoadout",
+    "NPCClassName": "",
+    "NPCName": "Survivor"
+}

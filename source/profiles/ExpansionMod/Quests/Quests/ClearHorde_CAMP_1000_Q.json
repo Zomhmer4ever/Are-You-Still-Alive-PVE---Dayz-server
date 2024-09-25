@@ -1,0 +1,54 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1000,
+    "Type": 3,
+    "Title": "Welcome to camp",
+    "Descriptions": [
+        "Heh, I see you made it to camp. If you will be helpful you will be welcome. If not.. well.. then we will have zombie bait. It's simple really... **smiles** so you want to be helpful? Then go to Stary Sobor, the zombies are getting thick up there. Lets see how helpful you can be. Thin em out.",
+        "Kill a bunch of zombies around Stary Sobor to make things a little safer at camp",
+        "Good work!"
+    ],
+    "ObjectiveText": "Kill a bunch of zombies around Stary Sobor to make things a little safer at camp",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        10
+    ],
+    "QuestTurnInIDs": [
+        10
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1000,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 500,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

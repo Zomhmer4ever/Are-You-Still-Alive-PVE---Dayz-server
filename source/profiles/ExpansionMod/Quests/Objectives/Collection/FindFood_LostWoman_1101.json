@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1101,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Find 4 chicken breasts and bring them to the lost woman",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 4,
+            "ClassName": "ChickenBreastMeat",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

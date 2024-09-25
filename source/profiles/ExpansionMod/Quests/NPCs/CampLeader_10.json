@@ -1,0 +1,28 @@
+{
+  "ConfigVersion": 6,
+  "ID": 10,
+  "ClassName": "ExpansionQuestNPCDenis",
+  "Position": [
+    8159.4,
+    248.329,
+    11008.7
+  ],
+  "Orientation": [
+    350,
+    0,
+    0
+  ],
+  "NPCName": "Red - The Camp Leader",
+  "DefaultNPCText": "Eh? What's up survivor?",
+  "Waypoints": [],
+  "NPCEmoteID": 46,
+  "NPCEmoteIsStatic": 0,
+  "NPCLoadoutFile": "RedLoadout",
+  "NPCInteractionEmoteID": 1,
+  "NPCQuestCancelEmoteID": 60,
+  "NPCQuestStartEmoteID": 58,
+  "NPCQuestCompleteEmoteID": 39,
+  "NPCFaction": "InvincibleObservers",
+  "NPCType": 0,
+  "Active": 1
+}

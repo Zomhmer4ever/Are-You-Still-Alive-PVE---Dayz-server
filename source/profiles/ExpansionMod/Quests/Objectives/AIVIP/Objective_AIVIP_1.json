@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Bring the Dr. to the marked location.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        2161.840087890625,
+        91.75409698486328,
+        3359.929931640625
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Escort - Pavlovo",
+    "ShowDistance": 1,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "Vip1",
+    "NPCClassName": "",
+    "NPCName": "Survivor"
+}

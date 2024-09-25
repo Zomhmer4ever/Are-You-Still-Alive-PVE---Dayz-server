@@ -1,0 +1,25 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1003,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill 10 clowns",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": 0.0,
+    "MinDistance": -1.0,
+    "Amount": 10,
+    "ClassNames": [
+        "CDAJ_ZmbM_Clown"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

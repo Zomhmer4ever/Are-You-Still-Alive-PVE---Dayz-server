@@ -1,0 +1,38 @@
+{
+    "ConfigVersion": 28,
+    "ID": 17,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill a bear with a crossbow",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": 150.0,
+    "MinDistance": -1.0,
+    "Amount": 1,
+    "ClassNames": [
+        "Animal_UrsusArctos"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [
+        "Expansion_Crossbow",
+        "Expansion_Crossbow_Clean",
+        "Expansion_Crossbow_Black",
+        "Expansion_Crossbow_Green",
+        "Expansion_Crossbow_Yellow",
+        "Expansion_Crossbow_Orange",
+        "Expansion_Crossbow_Brown",
+        "Expansion_Crossbow_White",
+        "Expansion_Crossbow_Grey",
+        "Expansion_Crossbow_Blue",
+        "Expansion_Crossbow_Red",
+        "Expansion_Crossbow_Pink"
+    ],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

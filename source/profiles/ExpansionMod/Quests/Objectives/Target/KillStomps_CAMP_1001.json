@@ -1,0 +1,25 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1001,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill 5 big stomp mutants",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": 0.0,
+    "MinDistance": -1.0,
+    "Amount": 5,
+    "ClassNames": [
+        "PseudoGiant"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

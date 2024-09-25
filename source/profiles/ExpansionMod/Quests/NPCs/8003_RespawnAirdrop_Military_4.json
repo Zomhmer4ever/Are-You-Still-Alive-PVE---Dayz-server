@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 8003,
+    "ClassName": "ExpansionQuestNPCBoris",
+    "Position": [
+        8541.9599609375,
+        1225.2099609375,
+        6344.240234375
+    ],
+    "Orientation": [
+        165.0,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Cliff McCool",
+    "DefaultNPCText": "Yo dude sup?",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "EastLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}

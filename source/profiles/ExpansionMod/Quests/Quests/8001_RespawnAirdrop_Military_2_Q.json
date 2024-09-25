@@ -1,0 +1,79 @@
+{
+    "ConfigVersion": 22,
+    "ID": 8001,
+    "Type": 4,
+    "Title": "Take the leap",
+    "Descriptions": [
+        "You have been conscripted into our army. You will put on this parachute and jump out of the plane or you will be shot. Your mission is to observe the conditions down there and survive long enough to report back to us, or you will be shot. You will need to rely on the locals to resupply.  *** PUT THE CHUTE ON AS A BACKPACK - WHEN FALLING PRESS SPACE TO DEPLOY THE CHUTE - BEST TO DEPLOY WITHIN 5 SECONDS OR RISK LAG SPLAT - WASD TO CONTROL - W+SHIFT TO GO FASTER - PRESS H TO CUT THE LINE - TREES ARE BAD - LAND SLOW OR YOU WILL BREAK YOUR LEGS AND FEED THE WOLVES :) ***",
+        "Jump",
+        "See ya!"
+    ],
+    "ObjectiveText": "Jump",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "ADM_ParachuteBag_Target_Speed",
+            "Amount": 1
+        },
+        {
+            "ClassName": "SNAFU_AK5C",
+            "Amount": 1
+        },
+        {
+            "ClassName": "Mag_CMAG_30Rnd",
+            "Amount": 3
+        },
+        {
+            "ClassName": "Ammo_556x45",
+            "Amount": 400
+        },
+        {
+            "ClassName": "Canteen",
+            "Amount": 1
+        },
+        {
+            "ClassName": "FOG_Strongarm_Knife",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        8001
+    ],
+    "QuestTurnInIDs": [
+        8001
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 8001,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

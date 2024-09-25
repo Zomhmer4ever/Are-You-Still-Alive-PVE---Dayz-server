@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1202,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Find a igniter plug",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "ExpansionIgniterPlug",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}
