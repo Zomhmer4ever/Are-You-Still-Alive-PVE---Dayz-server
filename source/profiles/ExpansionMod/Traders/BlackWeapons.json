@@ -1,0 +1,44 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Big Boom Trader",
+    "MinRequiredReputation": -9999,
+    "MaxRequiredReputation": 999999,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Open Hand",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget",
+        "Coin",
+        "Money_Dollar1",
+        "Money_Dollar5",
+        "Money_Dollar10",
+        "Money_Dollar20",
+        "Money_Dollar50",
+        "Money_Dollar100"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "BMGuns",
+        "Launchers",
+        "Explosives_And_Grenades"
+    ],
+    "Items": {
+        "expansionammorpg": 1,
+        "ammo_expansion_m203_sticky_smoke_teargas": 1,
+        "LAW": 1,
+        "expansionrpg7": 1,
+        "expansionammolaw": 1,
+        "ammo_expansion_m203_sticky_smoke_white": 1,
+        "ammo_expansion_m203_smoke_white": 1,
+        "M79": 1,
+        "expansionlaw": 1,
+        "expansion_m79": 1,
+        "ammo_expansion_m203_smoke_teargas": 1,
+        "ammo_expansion_m203_he": 1,
+        "Ammo_LAW_HE": 1
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Version": 3,
+    "Faction_Change": 0,
+    "Default_Faction": "Player",
+    "Group": [
+        {
+            "ArmbandFaction": "Shamans",
+            "ArmbandColour": ""
+        },
+        {
+            "ArmbandFaction": "West",
+            "ArmbandColour": ""
+        },
+        {
+            "ArmbandFaction": "East",
+            "ArmbandColour": "Armband_CDF"
+        },
+        {
+            "ArmbandFaction": "Raiders",
+            "ArmbandColour": ""
+        },
+        {
+            "ArmbandFaction": "Civilian",
+            "ArmbandColour": ""
+        },
+        {
+            "ArmbandFaction": "Mercenaries",
+            "ArmbandColour": ""
+        },
+        {
+            "ArmbandFaction": "Passive",
+            "ArmbandColour": ""
+        },
+        {
+            "ArmbandFaction": "Guards",
+            "ArmbandColour": ""
+        }
+    ]
+}

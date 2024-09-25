@@ -1,0 +1,152 @@
+{
+    "m_Version": 20,
+    "VehicleSync": 0,
+    "VehicleRequireKeyToStart": 1,
+    "VehicleRequireAllDoors": 0,
+    "VehicleLockedAllowInventoryAccess": 0,
+    "VehicleLockedAllowInventoryAccessWithoutDoors": 0,
+    "MasterKeyPairingMode": 2,
+    "MasterKeyUses": 10,
+    "CanPickLock": 0,
+    "PickLockTools": [
+        "Lockpick"
+    ],
+    "PickLockChancePercent": 40.0,
+    "PickLockTimeSeconds": 30,
+    "PickLockToolDamagePercent": 10.0,
+    "EnableWindAerodynamics": 1,
+    "EnableTailRotorDamage": 1,
+    "Towing": 1,
+    "EnableHelicopterExplosions": 1,
+    "DisableVehicleDamage": 1,
+    "VehicleCrewDamageMultiplier": 0.0,
+    "VehicleSpeedDamageMultiplier": 0.0,
+    "VehicleRoadKillDamageMultiplier": 1.0,
+    "CollisionDamageIfEngineOff": 0,
+    "CollisionDamageMinSpeedKmh": 30.0,
+    "CanChangeLock": 0,
+    "ChangeLockTools": [
+        "Screwdriver"
+    ],
+    "ChangeLockTimeSeconds": 30,
+    "ChangeLockToolDamagePercent": 10.0,
+    "PlacePlayerOnGroundOnReconnectInVehicle": 2,
+    "RevvingOverMaxRPMRuinsEngineInstantly": 0,
+    "VehicleDropsRuinedDoors": 1,
+    "ExplodingVehicleDropsAttachments": 1,
+    "DesyncInvulnerabilityTimeoutSeconds": 3.0,
+    "DamagedEngineStartupChancePercent": 100.0,
+    "EnableVehicleCovers": 1,
+    "AllowCoveringDEVehicles": 0,
+    "CanCoverWithCargo": 1,
+    "UseVirtualStorageForCoverCargo": 1,
+    "VehicleAutoCoverTimeSeconds": 2700.0,
+    "VehicleAutoCoverRequireCamonet": 0,
+    "EnableAutoCoveringDEVehicles": 0,
+    "CFToolsHeliCoverIconName": "helicopter",
+    "CFToolsBoatCoverIconName": "ship",
+    "CFToolsCarCoverIconName": "car",
+    "ShowVehicleOwners": 0,
+    "VehiclesConfig": [
+        {
+            "ClassName": "ExpansionUAZCargoRoofless",
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "ExpansionUAZ",
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "ExpansionBus",
+            "LockComplexity": 1.5
+        },
+        {
+            "ClassName": "ExpansionVodnik",
+            "LockComplexity": 2.0
+        },
+        {
+            "ClassName": "ExpansionUtilityBoat",
+            "LockComplexity": 1.25
+        },
+        {
+            "ClassName": "ExpansionZodiacBoat",
+            "LockComplexity": 0.5
+        },
+        {
+            "ClassName": "ExpansionLHD",
+            "LockComplexity": 100.0
+        },
+        {
+            "ClassName": "ExpansionMerlin",
+            "LockComplexity": 4.0
+        },
+        {
+            "ClassName": "ExpansionMh6",
+            "LockComplexity": 3.0
+        },
+        {
+            "ClassName": "ExpansionUh1h",
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_CH_47F",
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_CH_47F_USMC",
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_CH_47F_BAF",
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_MerlinHC3",
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_MI8",
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_Mi8_ACR",
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_Mi8_Chedaki",
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_Mi8_Chernarus",
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_Mi8_Civilian",
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_Mi8_RAF",
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_Mi8_Takistan",
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "EXT_Mi8_UnitedNations",
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "RFFSHeli_CH47",
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "RFFSHeli_CH53e",
+            "LockComplexity": 2.5
+        },
+        {
+            "ClassName": "Glowler_ITV",
+            "LockComplexity": 2.5
+        }
+    ]
+}

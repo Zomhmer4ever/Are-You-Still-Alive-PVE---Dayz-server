@@ -1,0 +1,40 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_VEHICLES",
+    "MinRequiredReputation": -9999,
+    "MaxRequiredReputation": 999999,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Car",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget",
+        "Coin",
+        "Money_Dollar1",
+        "Money_Dollar5",
+        "Money_Dollar10",
+        "Money_Dollar20",
+        "Money_Dollar50",
+        "Money_Dollar100"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Cars",
+        "Rusfor",
+        "Batteries",
+        "Vehicle_Parts",
+        "Rusfor_parts",
+        "Liquids",
+        "Scorpion_Bike",
+        "Scorpion_Parts",
+        "Parking_Garage",
+        "AVP_Cars",
+        "AVP_Parts",
+        "Dingo_Car",
+        "Dingo_Parts"
+    ],
+    "Items": {}
+}

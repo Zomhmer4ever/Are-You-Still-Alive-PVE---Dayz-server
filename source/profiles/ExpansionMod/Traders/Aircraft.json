@@ -1,0 +1,34 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_AIRCRAFT",
+    "MinRequiredReputation": -9999,
+    "MaxRequiredReputation": 999999,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Helicopter",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget",
+        "Coin",
+        "Money_Dollar1",
+        "Money_Dollar5",
+        "Money_Dollar10",
+        "Money_Dollar20",
+        "Money_Dollar50",
+        "Money_Dollar100"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Helicopters",
+        "Vehicle_Parts:3",
+        "Batteries:3",
+        "EXT_Helicopters",
+        "EXT_Parts_Helicopters",
+        "RFFS_HELIS",
+        "RFFS_HELIS_PARTS"
+    ],
+    "Items": {}
+}

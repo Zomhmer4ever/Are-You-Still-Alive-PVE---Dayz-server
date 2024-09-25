@@ -1,0 +1,42 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_COMPONENTS",
+    "MinRequiredReputation": -9999,
+    "MaxRequiredReputation": 999999,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Hammer",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget",
+        "Coin",
+        "Money_Dollar1",
+        "Money_Dollar5",
+        "Money_Dollar10",
+        "Money_Dollar20",
+        "Money_Dollar50",
+        "Money_Dollar100"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Kits",
+        "Navigation",
+        "Electronics",
+        "Lights",
+        "Batteries"
+    ],
+    "Items": {
+        "nvgoggles": 3,
+        "universallight": 3,
+        "tlrlight": 3,
+        "dzn_apsi": 3,
+        "fog_gpnvg_tarzier": 3,
+        "fog_gpnvg_elite": 3,
+        "fog_pvs31": 3,
+        "fog_gpnvg_tarzier_black": 3,
+        "rangefinder": 3
+    }
+}

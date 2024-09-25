@@ -1,0 +1,34 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Santa Clause",
+    "MinRequiredReputation": -999999,
+    "MaxRequiredReputation": 999999,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Open Hand",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget",
+        "Coin",
+        "Money_Dollar1",
+        "Money_Dollar5",
+        "Money_Dollar10",
+        "Money_Dollar20",
+        "Money_Dollar50",
+        "Money_Dollar100"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "santasBag",
+        "BMGuns"
+    ],
+    "Items": {
+        "GiftWrapPaper": 0,
+        "Zen_ArtillerySmokeGrenade": 0,
+        "MC_SodaCan_FullFood": 0,
+        "Zen_ArtillerySmokeGrenadeChem": 0
+    }
+}

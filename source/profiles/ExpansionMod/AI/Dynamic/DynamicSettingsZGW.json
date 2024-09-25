@@ -1,0 +1,152 @@
+{
+  "Version": 13,
+  "Dynamic_MinTimer": 900000,
+  "Dynamic_MaxTimer": 1500000,
+  "MinDistance": 140,
+  "MaxDistance": 220,
+  "HuntMode": 2,
+  "Points_Enabled": 0,
+  "EngageTimer": 300000,
+  "CleanupTimer": 360000,
+  "PlayerChecks": 16,
+  "MaxAI": 2,
+  "MessageType": 0,
+  "MessageTitle": "Dynamic AI",
+  "MessageText": "AI Spotted in the Area. Be Careful.",
+  "Lootable": 1,
+  "LootWhitelist": [
+    "Expansion_AWM",
+    "AKM",
+    "M4A1"
+  ],
+  "Dynamic_InVehicle": 0,
+  "Dynamic_IsBleeding": 0,
+  "Dynamic_IsRestrained": 0,
+  "Dynamic_IsUnconscious": 0,
+  "Dynamic_IsInSafeZone": 0,
+  "Dynamic_TPSafeZone": 0,
+  "Dynamic_InOwnTerritory": 0,
+  "Group": [
+    {
+      "Dynamic_MinCount": 1,
+      "Dynamic_MaxCount": 3,
+      "Dynamic_Weight": 200,
+      "Dynamic_Loadout": "ClanLoadout.json",
+      "Dynamic_Faction": "Shamans"
+    }
+  ],
+  "Point": [
+    {
+      "Dynamic_Radius": 100,
+      "Dynamic_ZoneLoadout": "ClanGuardLoadout.json",
+      "Dynamic_Faction": "East",
+      "Dynamic_HuntMode": 6,
+      "Dynamic_MinCount": 0,
+      "Dynamic_MaxCount": 0,
+      "Dynamic_Safe": 1,
+      "Dynamic_Position": [
+        402,
+        145.05,
+        4722
+      ]
+    },
+    {
+      "Dynamic_Radius": 750,
+      "Dynamic_ZoneLoadout": "ClanGuardLoadout.json",
+      "Dynamic_Faction": "East",
+      "Dynamic_HuntMode": 6,
+      "Dynamic_MinCount": 0,
+      "Dynamic_MaxCount": 0,
+      "Dynamic_Safe": 1,
+      "Dynamic_Position": [
+        1537,
+        453,
+        14191
+      ]
+    },
+    {
+      "Dynamic_Radius": 450,
+      "Dynamic_ZoneLoadout": "ClanGuardLoadout.json",
+      "Dynamic_Faction": "East",
+      "Dynamic_HuntMode": 6,
+      "Dynamic_MinCount": 0,
+      "Dynamic_MaxCount": 0,
+      "Dynamic_Safe": 1,
+      "Dynamic_Position": [
+        8307,
+        164,
+        13334
+      ]
+    },
+    {
+      "Dynamic_Radius": 200,
+      "Dynamic_ZoneLoadout": "ClanGuardLoadout.json",
+      "Dynamic_Faction": "East",
+      "Dynamic_HuntMode": 6,
+      "Dynamic_MinCount": 0,
+      "Dynamic_MaxCount": 0,
+      "Dynamic_Safe": 1,
+      "Dynamic_Position": [
+        275,
+        187,
+        6585
+      ]
+    },
+    {
+      "Dynamic_Radius": 400,
+      "Dynamic_ZoneLoadout": "ClanGuardLoadout.json",
+      "Dynamic_Faction": "East",
+      "Dynamic_HuntMode": 6,
+      "Dynamic_MinCount": 0,
+      "Dynamic_MaxCount": 0,
+      "Dynamic_Safe": 1,
+      "Dynamic_Position": [
+        2664,
+        23,
+        1316
+      ]
+    },
+    {
+      "Dynamic_Radius": 1500,
+      "Dynamic_ZoneLoadout": "ClanGuardLoadout.json",
+      "Dynamic_Faction": "East",
+      "Dynamic_HuntMode": 6,
+      "Dynamic_MinCount": 0,
+      "Dynamic_MaxCount": 0,
+      "Dynamic_Safe": 1,
+      "Dynamic_Position": [
+        13591,
+        41,
+        3109
+      ]
+    },
+    {
+      "Dynamic_Radius": 450,
+      "Dynamic_ZoneLoadout": "ClanGuardLoadout.json",
+      "Dynamic_Faction": "East",
+      "Dynamic_HuntMode": 6,
+      "Dynamic_MinCount": 0,
+      "Dynamic_MaxCount": 0,
+      "Dynamic_Safe": 1,
+      "Dynamic_Position": [
+        3199,
+        287,
+        8742
+      ]
+    },
+    {
+      "Dynamic_Radius": 450,
+      "Dynamic_ZoneLoadout": "ClanGuardLoadout.json",
+      "Dynamic_Faction": "East",
+      "Dynamic_HuntMode": 6,
+      "Dynamic_MinCount": 0,
+      "Dynamic_MaxCount": 0,
+      "Dynamic_Safe": 1,
+      "Dynamic_Position": [
+        6011,
+        25,
+        517
+      ]
+    }
+  ]
+}

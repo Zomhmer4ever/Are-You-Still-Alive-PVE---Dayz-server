@@ -1,0 +1,32 @@
+{
+    "Version": 2,
+    "notification": [
+        {
+            "Spatial_Name": "Camp Raiders",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
+            "MessageType": 4,
+            "MessageTitle": "Camp Raiders Spotted",
+            "MessageText": [
+                "Hold the gate! Here the robos come!",
+                "Incoming robos!",
+                "Fight, Run or Die"
+            ]
+        },
+        {
+            "Spatial_Name": "Robo Troops",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
+            "MessageType": 4,
+            "MessageTitle": "ALERT",
+            "MessageText": [
+                "You see signs that this area is crawling with Robo Troops",
+                "You hear Robos approaching",
+                "Was that a motion sensor you just triggered?",
+                "You hear machinery nearby... it sounds like walking"
+            ]
+        }
+    ]
+}

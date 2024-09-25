@@ -1,0 +1,101 @@
+{
+    "Shirts": [
+        "TTsKOJacket_Camo"
+    ],
+    "Pants": [
+        "TTSKOPants"
+    ],
+    "Shoes": [
+        "TTSKOBoots"
+    ],
+    "BackPacks": [
+        "AssaultBag_Ttsko"
+    ],
+    "Vests": [
+        "UKAssVest_Camo"
+    ],
+    "Headgear": [
+        "MilitaryBeret_CDF"
+    ],
+    "Gloves": [
+        "TacticalGloves_Green"
+    ],
+    "Misc": [
+        "MilitaryBelt"
+    ],
+    "ClothesHealth": [
+        75,
+        100
+    ],
+    "WeaponMelee": [
+        "combatknife"
+    ],
+    "WeaponRifle": [
+        "AK74",
+        "AKM"
+    ],
+    "WeaponRifleMagCount": [
+        1,
+        3
+    ],
+    "WeaponHandgun": [
+        "MakarovIJ70"
+    ],
+    "WeaponHandgunMagCount": [
+        1,
+		2
+    ],
+    "WeaponHealth": [
+        75,
+        100
+    ],
+    "Loot": [
+        
+		"BandageDressing"
+    ],
+    "LootRandom": [
+		"Canteen",
+        "SodaCan_Cola",
+		"SodaCan_Spite",
+		"SodaCan_Pipsi",
+		"MTN_Dew",
+        "PeachesCan",
+		"BakedBeansCan",
+		"CanOpener",
+		"PorkCan",
+		"SardinesCan",
+		"SpaghettiCan",
+		"TacticalBaconCan",
+		"WaterBottle"
+    ],
+	"LootRandomChance": [
+		60
+        10,
+		10,
+		10,
+		10,
+		10,
+		10,
+		10,
+		10,
+		10,
+		10,
+		10,
+		10
+    ],    
+    "LootHealth": [
+        75,
+        100
+    ],
+    "Locked": 0,	
+	"Attachments": {
+        "AKM": [
+			"Ak_WoodBttstck",
+			"Ak_WoodHndgrd"
+		],
+		"M4A1": [			
+			"AK74_WoodBttstck",
+			"AK74_Hndgrd"
+		]
+    }
+}

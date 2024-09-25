@@ -1,0 +1,34 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Biological Material Trader",
+    "MinRequiredReputation": -9999,
+    "MaxRequiredReputation": 999999,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Herbal Medicine",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget",
+        "Coin",
+        "Money_Dollar1",
+        "Money_Dollar5",
+        "Money_Dollar10",
+        "Money_Dollar20",
+        "Money_Dollar50",
+        "Money_Dollar100"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Heads",
+        "Skins",
+        "Implants",
+        "Flesh",
+        "Extremities",
+        "MutantSpecial",
+        "SpiderParts"
+    ],
+    "Items": {}
+}

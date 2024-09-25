@@ -1,0 +1,6 @@
+{
+  "RespawnTime": 600,
+  "MinDistRadius": 300,
+  "MaxDistRadius": 1200,
+  "Group": []
+}
