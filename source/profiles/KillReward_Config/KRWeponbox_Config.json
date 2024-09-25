@@ -1,0 +1,279 @@
+{
+    "KillRewardWEAPONBOX": [
+        {
+            "BoxNumber": 1,
+            "Box": "Msp_AmmoCrate",
+            "BoxWeapon": "SNAFU_Fort12_GUN",
+            "BoxWeaponBayonet": "",
+            "BoxWeaponButtstock": "",
+            "BoxWeaponHandguard": "",
+            "BoxWeaponsuppressor": "",
+            "BoxWeaponSight": "",
+            "BoxWeaponMagazin": "SNAFU_Fort12_12rnd_Mag",
+            "BoxMagazinQuantity": 2,
+            "BoxBonus": [
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_9x19_25rnd"
+            ]
+        },
+        {
+            "BoxNumber": 2,
+            "Box": "Msp_AmmoCrate",
+            "BoxWeapon": "SNAFUVECTOR_45acp_GUN",
+            "BoxWeaponBayonet": "",
+            "BoxWeaponButtstock": "",
+            "BoxWeaponHandguard": "",
+            "BoxWeaponsuppressor": "",
+            "BoxWeaponSight": "ReflexOptic",
+            "BoxWeaponMagazin": "SNAFUVECTOR_45acp_Mag",
+            "BoxMagazinQuantity": 2,
+            "BoxBonus": [
+                "AmmoBox_45ACP_25rnd",
+                "AmmoBox_45ACP_25rnd",
+                "Battery9V_2"
+            ]
+        },
+        {
+            "BoxNumber": 3,
+            "Box": "Msp_AmmoCrate",
+            "BoxWeapon": "",
+            "BoxWeaponBayonet": "",
+            "BoxWeaponButtstock": "",
+            "BoxWeaponHandguard": "",
+            "BoxWeaponsuppressor": "",
+            "BoxWeaponSight": "",
+            "BoxWeaponMagazin": "",
+            "BoxMagazinQuantity": 0,
+            "BoxBonus": [
+                "WeaponCleaningKit",
+                "AmmoBox_556x45Tracer_20Rnd",
+                "AmmoBox_556x45Tracer_20Rnd",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_357_20Rnd",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_45ACP_25rnd",
+                "AmmoBox_45ACP_25rnd",
+                "AmmoBox_00buck_10Rnd",
+                "AmmoBox_00buck_10Rnd"
+            ]
+        },
+        {
+            "BoxNumber": 4,
+            "Box": "Msp_AmmoCrate",
+            "BoxWeapon": "SNAFU_cz805_Gun",
+            "BoxWeaponBayonet": "",
+            "BoxWeaponButtstock": "",
+            "BoxWeaponHandguard": "",
+            "BoxWeaponsuppressor": "",
+            "BoxWeaponSight": "",
+            "BoxWeaponMagazin": "Mag_CMAG_30Rnd_Black",
+            "BoxMagazinQuantity": 2,
+            "BoxBonus": [
+                "AmmoBox_556x45Tracer_20Rnd",
+                "AmmoBox_556x45Tracer_20Rnd"
+            ]
+        },
+        {
+            "BoxNumber": 5,
+            "Box": "Msp_AmmoCrate",
+            "BoxWeapon": "A2mk17",
+            "BoxWeaponBayonet": "",
+            "BoxWeaponButtstock": "",
+            "BoxWeaponHandguard": "",
+            "BoxWeaponsuppressor": "",
+            "BoxWeaponSight": "SNAFU_Elcan",
+            "BoxWeaponMagazin": "A2mk17_mag",
+            "BoxMagazinQuantity": 2,
+            "BoxBonus": [
+                "AmmoBox_308WinTracer_20Rnd",
+                "AmmoBox_308WinTracer_20Rnd",
+                "Battery9V_2"
+            ]
+        },
+        {
+            "BoxNumber": 6,
+            "Box": "Msp_AmmoCrate",
+            "BoxWeapon": "SnafuKivaari_Black_GUN",
+            "BoxWeaponBayonet": "",
+            "BoxWeaponButtstock": "",
+            "BoxWeaponHandguard": "",
+            "BoxWeaponsuppressor": "",
+            "BoxWeaponSight": "ACOGOptic",
+            "BoxWeaponMagazin": "SNAFUKivaari_25rd_Mag",
+            "BoxMagazinQuantity": 1,
+            "BoxBonus": [
+                "AmmoBox_Expansion_338_15rnd",
+                "AmmoBox_Expansion_338_15rnd",
+                "Battery9V_2"
+            ]
+        },
+        {
+            "BoxNumber": 7,
+            "Box": "Msp_AmmoCrate",
+            "BoxWeapon": "air_weapon_xm25",
+            "BoxWeaponBayonet": "",
+            "BoxWeaponButtstock": "",
+            "BoxWeaponHandguard": "",
+            "BoxWeaponsuppressor": "",
+            "BoxWeaponSight": "",
+            "BoxWeaponMagazin": "air_weapon_mag_xm25",
+            "BoxMagazinQuantity": 1,
+            "BoxBonus": [
+                "air_Ammo_25X40_M560",
+                "air_Ammo_25X40_M910",
+                "air_Ammo_25X40_M910"
+            ]
+        },
+        {
+            "BoxNumber": 8,
+            "Box": "Msp_AmmoCrate",
+            "BoxWeapon": "SFP_9A91",
+            "BoxWeaponBayonet": "",
+            "BoxWeaponButtstock": "",
+            "BoxWeaponHandguard": "",
+            "BoxWeaponsuppressor": "",
+            "BoxWeaponSight": "",
+            "BoxWeaponMagazin": "SFP_9A91_Mag_20rnd",
+            "BoxMagazinQuantity": 2,
+            "BoxBonus": [
+                "AmmoBox_9x39_20Rnd",
+                "AmmoBox_9x39_20Rnd"
+            ]
+        },
+        {
+            "BoxNumber": 9,
+            "Box": "Msp_AmmoCrate",
+            "BoxWeapon": "FS_M14_Ranger",
+            "BoxWeaponBayonet": "",
+            "BoxWeaponButtstock": "",
+            "BoxWeaponHandguard": "",
+            "BoxWeaponsuppressor": "",
+            "BoxWeaponSight": "",
+            "BoxWeaponMagazin": "FS_Mag_m14_20Rnd",
+            "BoxMagazinQuantity": 2,
+            "BoxBonus": [
+                "AmmoBox_308WinTracer_20Rnd",
+                "AmmoBox_308WinTracer_20Rnd"
+            ]
+        },
+        {
+            "BoxNumber": 10,
+            "Box": "Msp_AmmoCrate",
+            "BoxWeapon": "SFP_Zombie",
+            "BoxWeaponBayonet": "",
+            "BoxWeaponButtstock": "",
+            "BoxWeaponHandguard": "",
+            "BoxWeaponsuppressor": "",
+            "BoxWeaponSight": "",
+            "BoxWeaponMagazin": "",
+            "BoxMagazinQuantity": 2,
+            "BoxBonus": [
+                "WeaponCleaningKit",
+                "MC_SodaCan_FullFood",
+                "CP_RollingPapers",
+                "CP_CannabisBrickBlackFrost",
+                "CP_CannabisFuture",
+                "CP_CannabisS1",
+                "CP_CannabisBlue",
+                "AmmoBox_00buck_10Rnd",
+                "AmmoBox_00buck_10Rnd"
+            ]
+        },
+        {
+            "BoxNumber": 11,
+            "Box": "Msp_AmmoCrate",
+            "BoxWeapon": "Snafu_PKP_Black_GUN",
+            "BoxWeaponBayonet": "",
+            "BoxWeaponButtstock": "",
+            "BoxWeaponHandguard": "",
+            "BoxWeaponsuppressor": "",
+            "BoxWeaponSight": "",
+            "BoxWeaponMagazin": "Snafu_PKP_250RND_Mag",
+            "BoxMagazinQuantity": 2,
+            "BoxBonus": [
+                "WeaponCleaningKit",
+                "AmmoBox_762x54Tracer_20Rnd",
+                "AmmoBox_762x54Tracer_20Rnd"
+            ]
+        },
+        {
+            "BoxNumber": 12,
+            "Box": "Msp_AmmoCrate",
+            "BoxWeapon": "FS_AEK918G_LIME",
+            "BoxWeaponBayonet": "",
+            "BoxWeaponButtstock": "",
+            "BoxWeaponHandguard": "",
+            "BoxWeaponsuppressor": "",
+            "BoxWeaponSight": "",
+            "BoxWeaponMagazin": "FS_Mag_AEK918G_30Rnd",
+            "BoxMagazinQuantity": 2,
+            "BoxBonus": [
+                "WeaponCleaningKit",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_9x19_25rnd"
+            ]
+        },
+        {
+            "BoxNumber": 13,
+            "Box": "Msp_AmmoCrate",
+            "BoxWeapon": "FS_M4SMG",
+            "BoxWeaponBayonet": "",
+            "BoxWeaponButtstock": "",
+            "BoxWeaponHandguard": "",
+            "BoxWeaponsuppressor": "",
+            "BoxWeaponSight": "",
+            "BoxWeaponMagazin": "FS_Mag_M4SMG_30Rnd",
+            "BoxMagazinQuantity": 2,
+            "BoxBonus": [
+                "ExpansionSupplySignal",
+                "ExpansionSupplySignal",
+                "ExpansionSupplySignal",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_9x19_25rnd"
+            ]
+        },
+        {
+            "BoxNumber": 14,
+            "Box": "Msp_AmmoCrate",
+            "BoxWeapon": "MC_M4A1_FORCE02",
+            "BoxWeaponBayonet": "",
+            "BoxWeaponButtstock": "",
+            "BoxWeaponHandguard": "",
+            "BoxWeaponsuppressor": "",
+            "BoxWeaponSight": "",
+            "BoxWeaponMagazin": "MC_Mag_M4A1_FORCE",
+            "BoxMagazinQuantity": 2,
+            "BoxBonus": [
+                "FS_Buter",
+                "MC_Mag_M4A1_FORCE"
+            ]
+        },
+        {
+            "BoxNumber": 15,
+            "Box": "Msp_AmmoCrate",
+            "BoxWeapon": "FS_GausRifle",
+            "BoxWeaponBayonet": "",
+            "BoxWeaponButtstock": "",
+            "BoxWeaponHandguard": "",
+            "BoxWeaponsuppressor": "",
+            "BoxWeaponSight": "",
+            "BoxWeaponMagazin": "Mag_Bat_Gaus_10Rnd",
+            "BoxMagazinQuantity": 2,
+            "BoxBonus": [
+                "Ammo_PowerGaus",
+                "Ammo_PowerGaus",
+                "Ammo_PowerGaus",
+                "Ammo_PowerGaus",
+                "Ammo_PowerGaus",
+                "Ammo_PowerGaus",
+                "Ammo_PowerGaus",
+                "Ammo_PowerGaus",
+                "Ammo_PowerGaus",
+                "Ammo_PowerGaus"
+            ]
+        }
+    ],
+    "version": 9
+}

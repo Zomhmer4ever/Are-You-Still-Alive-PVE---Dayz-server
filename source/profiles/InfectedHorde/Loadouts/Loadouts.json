@@ -1,0 +1,284 @@
+{
+  "m_Loadouts": [
+    {
+      "m_Name": "ZmbF_CitizenANormal_Blue",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbM_CitizenASkinny_Grey",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbM_CitizenBFat_Red",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbM_CitizenBFat_Green",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbF_Clerk_Normal_Blue",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbF_Clerk_Normal_Red",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbF_JoggerSkinny_Brown",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbF_JoggerSkinny_Green",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbF_JournalistNormal_White",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbF_MilkMaidOld_Black",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbF_MilkMaidOld_Grey",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbF_SkaterYoung_Striped",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbF_ShortSkirt_stripes",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbM_Jacket_blue",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbM_Jacket_beige",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbM_Jacket_greenchecks",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbM_SkaterYoung_Grey",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbM_SkaterYoung_Blue",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbM_VillagerOld_Green",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbM_VillagerOld_White",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbM_HermitSkinny_Green",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbM_HermitSkinny_Black",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbM_HandymanNormal_Blue",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbM_FirefighterNormal",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbF_VillagerOld_Red",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbF_ShortSkirt_red",
+      "m_Category": 2,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "ZmbM_usSoldier_normal_Woodland",
+      "m_Category": 0,
+      "m_Gear": [
+        "beaniehat_blue",
+        "mountainbag_green",
+        "ukassvest_khaki"
+      ],
+      "m_Loot": [
+        "rice",
+        "rice",
+        "rice",
+        "rice",
+        "rice"
+      ]
+    },
+    {
+      "m_Name": "ZmbM_usSoldier_normal_Desert",
+      "m_Category": 0,
+      "m_Gear": [
+        "beaniehat_blue",
+        "mountainbag_green",
+        "ukassvest_khaki"
+      ],
+      "m_Loot": [
+        "rice",
+        "rice",
+        "rice",
+        "rice",
+        "rice"
+      ]
+    },
+    {
+      "m_Name": "ZmbM_PatrolNormal_PautRev",
+      "m_Category": 0,
+      "m_Gear": [
+        "beaniehat_blue",
+        "mountainbag_green",
+        "ukassvest_khaki"
+      ],
+      "m_Loot": [
+        "rice",
+        "rice",
+        "rice",
+        "rice",
+        "rice"
+      ]
+    },
+    {
+      "m_Name": "ZmbM_SoldierNormal",
+      "m_Category": 0,
+      "m_Gear": [
+        "beaniehat_blue",
+        "mountainbag_green",
+        "ukassvest_khaki"
+      ],
+      "m_Loot": [
+        "rice",
+        "rice",
+        "rice",
+        "rice",
+        "rice"
+      ]
+    },
+    {
+      "m_Name": "ZmbF_NurseFat",
+      "m_Category": 0,
+      "m_Gear": [
+        "beaniehat_blue",
+        "mountainbag_green",
+        "ukassvest_khaki"
+      ],
+      "m_Loot": [
+        "rice",
+        "rice",
+        "rice",
+        "rice",
+        "rice"
+      ]
+    },
+    {
+      "m_Name": "ZmbM_DoctorFat",
+      "m_Category": 0,
+      "m_Gear": [
+        "beaniehat_blue",
+        "mountainbag_green",
+        "ukassvest_khaki"
+      ],
+      "m_Loot": [
+        "rice",
+        "rice",
+        "rice",
+        "rice",
+        "rice"
+      ]
+    },
+    {
+      "m_Name": "ZmbM_FirefighterNormal",
+      "m_Category": 0,
+      "m_Gear": [
+        "beaniehat_blue",
+        "mountainbag_green",
+        "ukassvest_khaki"
+      ],
+      "m_Loot": [
+        "rice",
+        "rice",
+        "rice",
+        "rice",
+        "rice"
+      ]
+    },
+    {
+      "m_Name": "FS_KrovososType2_Albinos",
+      "m_Category": 1,
+      "m_Gear": [],
+      "m_Loot": []
+    },
+    {
+      "m_Name": "CDAJ_ZmbM_LostInfected",
+      "m_Category": 1,
+      "m_Gear": [],
+      "m_Loot": []
+    }
+  ]
+}

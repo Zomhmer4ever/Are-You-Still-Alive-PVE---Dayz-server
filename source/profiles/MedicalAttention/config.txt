@@ -1,0 +1,104 @@
+Tiredness					= 0
+
+	TireTime (minutes)			= 210
+	EyeClosingPoint  (percent)		= 19
+	TextReports				= 0
+	EnergizingDrinkGain (percent)		= 20
+	EnergizingDrinkClass			= SodaCan_Cola
+	EnergizingDrinkClass			= SodaCan_Pipsi
+	EnergizingDrinkClass			= SodaCan_Spite
+
+	SleepingBagClass = MediumTent
+
+	SleepingDOF				= 0
+
+ZombieBleedChance (percent)			= 50
+ZombieSalmonellaChance (percent)		= 40
+WoundInfectionChance (percent)			= 65
+ZombieArmFractureChance (percent)		= 33
+FeverActive					= 1
+BrainDisease					= 1
+AntibioticsStrength				= 4
+SalineBloodRegen				= 0
+TestBloodSelf					= 1
+TestBloodTarget					= 1
+TestBloodToxin					= 1
+
+
+AlcoholicDrinkClass				= SodaCan_Kvass
+AlcoholicDrinkClass				= DisinfectantAlcohol = 3.5
+AlcoholicDrinkClass				= FS_ITEM_VODKA
+AlcoholicDrinkClass				= MFP_LiteBeer
+AlcoholicDrinkClass				= MFP_Pilsner
+AlcoholicDrinkClass				= MFP_Guinness
+AlcoholicDrinkClass				= MFP_DuffBeer = 3.5
+AlcoholicDrinkClass				= MFP_IPABeer
+AlcoholicDrinkClass				= MFP_TropicalBeer
+AlcoholicDrinkClass				= MFP_BasicBeer
+AlcoholicDrinkClass				= MFP_ZombieDrink = 4
+AlcoholicDrinkClass				= MC_SodaCan_KuperBock
+AlcoholicDrinkClass				= MC_SodaCan_KuperBock_Preta
+AlcoholicDrinkClass				= MC_SodaCan_KuperBock_Zero
+AlcoholicDrinkClass				= FS_Probirka_Blood = 7
+AlcoholicDrinkClass				= FS_Probirka_SlizOrange = 7
+
+AlcoholicLiquid				= Beer
+AlcoholicLiquid				= Vodka = 2
+
+
+ZoneType = Biohazard
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 1212 0 14543
+ZoneRadiusMin = 270
+ZoneRadiusMax = 270
+ZoneMsgIn = CAUTION: YOU ARE IN A BIOHAZARD ZONE
+ZoneMsgOut = YOU LEFT THE BIOHAZARD ZONE
+
+ZoneType = Biohazard
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 8791 52 2921
+ZoneRadiusMin = 120
+ZoneRadiusMax = 120
+ZoneMsgIn = CAUTION: YOU ARE IN A BIOHAZARD ZONE
+ZoneMsgOut = YOU LEFT THE BIOHAZARD ZONE
+
+ToxinAccumulationTimeMin = 5
+ToxinAccumulationTimeMax = 60
+
+ProtectionSuit = NBCBootsGray = 10
+ProtectionSuit = NBCGlovesGray = 10
+ProtectionSuit = NBCHoodGray = 10
+ProtectionSuit = NBCJacketGray = 20
+ProtectionSuit = NBCPantsGray = 20
+
+ProtectionSuit = GP5GasMask = 100 = 1
+ProtectionSuit = GasMask = 100 = 1
+ProtectionSuit = AirborneMask = 100 = 1
+ProtectionSuit = FS_GasMask_FV = 100 = 1
+ProtectionSuit = FS_GASMASK_PPM88 = 100 = 1
+ProtectionSuit = FS_GasBallon_Odinocki = 100 = 1
+ProtectionSuit = FS_GasBallon_DOLG = 100 = 1
+ProtectionSuit = FS_GAS_balon = 100 = 1
+ProtectionSuit = MC_GP5GasMask_ZX = 100 = 1
+ProtectionSuit = MC_GP5GasMask_Black = 100 = 1
+ProtectionSuit = MC_GP5GasMask_C1 = 100 = 1
+ProtectionSuit = MC_GP5GasMask_CMC = 100 = 1
+ProtectionSuit = MC_GP5GasMask_CMCAU = 100 = 1
+ProtectionSuit = MC_GP5GasMask_CMCFG = 100 = 1
+ProtectionSuit = MC_GP5GasMask_CMCIX = 100 = 1
+ProtectionSuit = MC_GP5GasMask_CMCKrypTek = 100 = 1
+ProtectionSuit = MVS_S10Respirator_FS = 100 = 1
+ProtectionSuit = MVS_S10Respirator_OD = 100 = 1
+ProtectionSuit = MVS_S10Respirator_Tan = 100 = 1
+ProtectionSuit = MVS_S10Respirator_Black = 100 = 1
+ProtectionSuit = MVS_S10Respirator_Snow = 100 = 1
+ProtectionSuit = MVS_PMK2Respirator_Black = 100 = 1
+ProtectionSuit = MVS_PMK2Respirator_Tan = 100 = 1
+ProtectionSuit = MVS_PMK2Respirator_OD = 100 = 1
+ProtectionSuit = MVS_PMK2Respirator_Snow = 100 = 1
+ProtectionSuit = MVS_M50Respirator_OD = 100 = 1
+ProtectionSuit = MVS_M50Respirator_Tan = 100 = 1
+ProtectionSuit = MVS_M50Respirator_Black = 100 = 1
+ProtectionSuit = MVS_M50Respirator_Snow = 100 = 1
+ProtectionSuit = dzn_lehs_helmet = 50 = 1
+ProtectionSuit = dzn_lehs = 50

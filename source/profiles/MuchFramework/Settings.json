@@ -1,0 +1,21 @@
+{
+    "version": 1.0,
+    "m_Settings": {
+        "VirtualStorage": {
+            "EnableVirtualStorage": 0,
+            "EnableAutoStoreOnClose": 0,
+            "EnableAutoStoreTimer": 0,
+            "AutoStoreTimerInSeconds": 600,
+            "ItemsBlacklist": []
+        },
+        "Openables": {
+            "EnableAutoClose": 0,
+            "AutoCloseTimerInSeconds": 600
+        },
+        "Fridge_Settings": {
+            "EnableFridgePreservation": 0,
+            "OtherFridgeClasses": [],
+            "PreservationMultiplier": 2.0
+        }
+    }
+}

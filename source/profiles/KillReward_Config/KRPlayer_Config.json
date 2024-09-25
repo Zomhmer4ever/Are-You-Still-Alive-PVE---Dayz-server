@@ -1,0 +1,77 @@
+{
+    "KillRewardNEGATIVE": {
+        "PlayerKillNegativeReward": 0,
+        "PlayerKill": 0,
+        "Pointlose": 100,
+        "LoseMoney": 1000,
+        "PlayerKillNegativeRewardBonusQuantity": 15,
+        "PlayerKillNegativeRewardBonus": [
+            "Animal_UrsusArctos",
+            "Animal_CanisLupus_White",
+            "ZmbF_CitizenANormal_Brown",
+            "ZmbF_CitizenBSkinny",
+            "ZmbF_Clerk_Normal_White",
+            "ZmbF_DoctorSkinny",
+            "ZmbF_JoggerSkinny_Blue",
+            "ZmbF_JournalistNormal_Red",
+            "ZmbF_NurseFat",
+            "ZmbF_ParamedicNormal_Red",
+            "ZmbF_PatientOld",
+            "ZmbF_PoliceWomanNormal",
+            "ZmbF_ShortSkirt_black",
+            "ZmbF_ShortSkirt_red",
+            "ZmbF_ShortSkirt_yellow",
+            "ZmbF_SkaterYoung_Violet",
+            "ZmbM_CitizenASkinny_Red",
+            "ZmbM_CitizenBFat_Blue",
+            "ZmbM_ClerkFat_Brown",
+            "ZmbM_CommercialPilotOld_Olive",
+            "ZmbM_DoctorFat",
+            "ZmbM_JacketNormal_greenchecks",
+            "ZmbM_Jacket_stripes",
+            "ZmbM_JoggerSkinny_Blue",
+            "ZmbM_ParamedicNormal_Red",
+            "ZmbM_PatientSkinny",
+            "ZmbM_PatrolNormal_Autumn",
+            "ZmbM_PolicemanFat",
+            "ZmbM_PolicemanSpecForce",
+            "ZmbM_PrisonerSkinny",
+            "ZmbM_SkaterYoung_Grey"
+        ]
+    },
+    "KillRewardPLAYER": {
+        "PlayerKillReward": 0,
+        "PlayerKillPoints": 100,
+        "PlayerKills": [
+            5,
+            15,
+            35,
+            50,
+            75,
+            100
+        ],
+        "PlayerMoney": [
+            500,
+            1500,
+            2500,
+            5000,
+            7500,
+            10000
+        ],
+        "PlayerWeaponBox": [
+            50,
+            75,
+            100
+        ],
+        "PlayerWeaponBoxNumber": [
+            1,
+            2,
+            3
+        ]
+    },
+    "KillRewardSHOOTDISTANCE": {
+        "SHOOTReward": 0,
+        "PlayerSHOOTDISTANCE": 500.0
+    },
+    "version": 9
+}

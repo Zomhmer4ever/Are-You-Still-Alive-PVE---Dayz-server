@@ -1,0 +1,490 @@
+{
+  "m_ActiveHordeMax": 0,
+  "m_HordeSettings": {
+    "m_SpawnTime": 300,
+    "m_DespawnTime": 600,
+    "m_MinInfectedCount": 40,
+    "m_MaxInfectedCount": 55,
+    "m_CanDeleteHordeOnDespawn": 1,
+    "m_DeleteOnlyAlive": 1,
+    "m_CanReleaseHordeLocations": 1
+  },
+  "m_NotificationSettings": {
+    "m_CanSendSpawnMessage": 0,
+    "m_CanSendDespawnMessage": 0,
+    "m_CanSendSpawnLocation": 0,
+    "m_CanPrintToLogs": 1
+  },
+  "m_HordeSpawnLocations": [
+    {
+      "m_Name": "Vybor",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        3785,
+        0,
+        8947
+      ]
+    },
+    {
+      "m_Name": "Polyana",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        10716,
+        0,
+        8100
+      ]
+    },
+    {
+      "m_Name": "GasStationWaySouthOfKrasnostav",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        10738,
+        0,
+        10805
+      ]
+    },
+    {
+      "m_Name": "StarySobor",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        5977,
+        0,
+        7885
+      ]
+    },
+    {
+      "m_Name": "SouthOfPolyana_forest",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        10449,
+        0,
+        7522
+      ]
+    },
+    {
+      "m_Name": "Pustoshka",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        3005,
+        0,
+        7828
+      ]
+    },
+    {
+      "m_Name": "Lopatino",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        2745,
+        0,
+        9992
+      ]
+    },
+    {
+      "m_Name": "Ratnoye",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        6251,
+        0,
+        12699
+      ]
+    },
+    {
+      "m_Name": "Grishino",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        5949,
+        0,
+        10295
+      ]
+    },
+    {
+      "m_Name": "Gvozdno",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        8572,
+        0,
+        11959
+      ]
+    },
+    {
+      "m_Name": "Kalinovka",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        7568,
+        0,
+        13519
+      ]
+    },
+    {
+      "m_Name": "Kamensk",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        6656,
+        0,
+        14504
+      ]
+    },
+    {
+      "m_Name": "StaryYar",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        4916,
+        0,
+        15066
+      ]
+    },
+    {
+      "m_Name": "NovayaPetrovka",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        3448,
+        0,
+        13012
+      ]
+    },
+    {
+      "m_Name": "Topolnik",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        2853,
+        0,
+        12376
+      ]
+    },
+    {
+      "m_Name": "Sinystok",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        1449,
+        0,
+        11958
+      ]
+    },
+    {
+      "m_Name": "Vavilovo",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        2207,
+        0,
+        11029
+      ]
+    },
+    {
+      "m_Name": "Pavlovo",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        1692,
+        0,
+        3845
+      ]
+    },
+    {
+      "m_Name": "Bor",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        3318,
+        0,
+        3939
+      ]
+    },
+    {
+      "m_Name": "Kozlovka",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        4364,
+        0,
+        4680
+      ]
+    },
+    {
+      "m_Name": "Nadezhdino",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        5867,
+        0,
+        4826
+      ]
+    },
+    {
+      "m_Name": "Dubovo",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        6714,
+        0,
+        3588
+      ]
+    },
+    {
+      "m_Name": "Pusta",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        9155,
+        0,
+        3899
+      ]
+    },
+    {
+      "m_Name": "NovySobor",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        7153,
+        0,
+        7696
+      ]
+    },
+    {
+      "m_Name": "Mogilevka",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        7548,
+        0,
+        5134
+      ]
+    },
+    {
+      "m_Name": "Vyshnoye",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        6533,
+        0,
+        6079
+      ]
+    },
+    {
+      "m_Name": "Guglovo",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        8430,
+        0,
+        6669
+      ]
+    },
+    {
+      "m_Name": "Pusta",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        9155,
+        0,
+        3898
+      ]
+    },
+    {
+      "m_Name": "Nagornoye",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        9340,
+        0,
+        14603
+      ]
+    },
+    {
+      "m_Name": "Svergino",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        9550,
+        0,
+        13766
+      ]
+    },
+    {
+      "m_Name": "Dubrovka",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        10545,
+        0,
+        9697
+      ]
+    },
+    {
+      "m_Name": "NearVybor1",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        4455,
+        0,
+        8820
+      ]
+    },
+    {
+      "m_Name": "NearZaprund",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        5398,
+        0,
+        12623
+      ]
+    },
+    {
+      "m_Name": "NearValvino",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        1857,
+        0,
+        11490
+      ]
+    },
+    {
+      "m_Name": "NearPhustoka",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        2911,
+        0,
+        7334
+      ]
+    },
+    {
+      "m_Name": "NearKozlovka",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        3995,
+        0,
+        4778
+      ]
+    },
+    {
+      "m_Name": "NearPavlovo",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        2106,
+        0,
+        2955
+      ]
+    },
+    {
+      "m_Name": "NearBor",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        3203,
+        0,
+        3481
+      ]
+    },
+    {
+      "m_Name": "NearKozlovka",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        4681,
+        0,
+        4280
+      ]
+    },
+    {
+      "m_Name": "NearNadezhdino",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        5789,
+        0,
+        4455
+      ]
+    },
+    {
+      "m_Name": "NearGM",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        4389,
+        0,
+        5648
+      ]
+    },
+    {
+      "m_Name": "NearVysnoe",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        6936,
+        0,
+        5588
+      ]
+    },
+    {
+      "m_Name": "NearNovySobor",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        8052,
+        0,
+        7077
+      ]
+    },
+    {
+      "m_Name": "NearStarySobor",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        5668,
+        0,
+        7257
+      ]
+    },
+    {
+      "m_Name": "NearLopatino",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        2518,
+        0,
+        9635
+      ]
+    },
+    {
+      "m_Name": "NearPogorevka",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        4080,
+        0,
+        6706
+      ]
+    },
+    {
+      "m_Name": "NearRatanoye",
+      "m_Category": 2,
+      "m_SpawnOffset": 10,
+      "m_Position": [
+        6933,
+        0,
+        12659
+      ]
+    }
+  ]
+}

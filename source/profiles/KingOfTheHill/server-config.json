@@ -1,0 +1,219 @@
+{
+  "m_ModVersion": "2.0",
+  "m_CaptureTime": 300,
+  "m_UpdateInterval": 4,
+  "m_ServerStartDelay": 1500,
+  "m_HillEventInterval": 4700,
+  "m_EventCleanupTime": 1800,
+  "m_EventPreStart": 480,
+  "m_EveryEventCooldown": 12100,
+  "m_EventPreStartMessage": "A horde is forming at %location%",
+  "m_EventCapturedMessage": "The horde at %location% has been destroyed",
+  "m_EventDespawnedMessage": "The horde at %location% has dispersed",
+  "m_EventStartMessage": "A horde is active at %location%",
+  "m_DoLogsToCF": 0,
+  "m_PlayerPopulationToStartEvents": 1,
+  "m_MaxEvents": 1,
+  "m_FlagName": "bldr_flag_chernarus_wall",
+  "m_Creatures": [
+    "ZmbM_PatrolNormal_PautRev",
+    "ZmbM_PatrolNormal_Autumn",
+    "ZmbM_PatrolNormal_Flat",
+    "ZmbM_PatrolNormal_Summer",
+    "ZmbM_SoldierNormal",
+    "ZmbM_usSoldier_normal_Woodland",
+    "ZmbM_usSoldier_normal_Desert",
+    "FS_ZMB_Stalker_Brain",
+    "FS_ZombieType2",
+    "FS_RuinedZMB",
+    "FS_ZombieType2_noTkan",
+    "ZmbF_HikerSkinny_Green",
+    "ZmbF_HikerSkinny_Grey",
+    "ZmbF_HikerSkinny_Red",
+    "ZmbM_priestPopSkinny",
+    "ZmbF_CitizenANormal_Beige",
+    "ZmbF_CitizenANormal_Brown",
+    "ZmbF_CitizenBSkinny",
+    "ZmbF_Clerk_Normal_Blue",
+    "ZmbF_Clerk_Normal_Green",
+    "ZmbF_Clerk_Normal_Red",
+    "ZmbF_Clerk_Normal_White",
+    "ZmbF_JournalistNormal_Blue",
+    "ZmbF_JournalistNormal_Green",
+    "ZmbF_JournalistNormal_Red",
+    "ZmbF_JournalistNormal_White",
+    "ZmbF_SurvivorNormal_Blue",
+    "ZmbF_SurvivorNormal_Orange",
+    "ZmbF_SurvivorNormal_Red",
+    "ZmbF_SurvivorNormal_White",
+    "ZmbM_CitizenASkinny_Blue",
+    "ZmbM_CitizenASkinny_Brown",
+    "ZmbM_CitizenASkinny_Grey",
+    "FS_Izlome",
+    "FS_Zombie_4",
+    "FS_Zombie_6",
+    "FS_Zombie_10",
+    "FS_Zombie_14",
+    "FS_Zombie_15",
+    "FS_Kontroler",
+    "SFP_Bloodsucker_green",
+    "FS_EXO_ZMB_damaged_dolg"
+  ],
+  "m_HillLocations": [
+    {
+      "Name": "Stary Sobor",
+      "Radius": 80,
+      "CaptureRadius": 80,
+      "ResetCaptureTimeAfterAllPlayersLeavedZone": 1,
+      "Position": [
+        6037.02978515625,
+        300.7699890136719,
+        7828.89013671875
+      ],
+      "AISpawnCount": 80,
+      "ObjectListName": "none",
+      "LootTier": 1
+    },
+    {
+      "Name": "Northwest Airfield",
+      "Radius": 80,
+      "CaptureRadius": 80,
+      "ResetCaptureTimeAfterAllPlayersLeavedZone": 1,
+      "Position": [
+        4460.908203125,
+        342.62298583984375,
+        10455.900390625
+      ],
+      "AISpawnCount": 80,
+      "ObjectListName": "none",
+      "LootTier": 1
+    },
+    {
+      "Name": "Zelenogorsk",
+      "Radius": 80,
+      "CaptureRadius": 80,
+      "ResetCaptureTimeAfterAllPlayersLeavedZone": 1,
+      "Position": [
+        2256.030029296875,
+        185.58999633789062,
+        5160.75
+      ],
+      "AISpawnCount": 80,
+      "ObjectListName": "none",
+      "LootTier": 1
+    },
+    {
+      "Name": "Novy Lug Military",
+      "Radius": 80,
+      "CaptureRadius": 80,
+      "ResetCaptureTimeAfterAllPlayersLeavedZone": 1,
+      "Position": [
+        9524.4501953125,
+        240.14999389648438,
+        11780.400390625
+      ],
+      "AISpawnCount": 80,
+      "ObjectListName": "none",
+      "LootTier": 1
+    },
+    {
+      "Name": "StaryYar",
+      "Radius": 80,
+      "CaptureRadius": 80,
+      "ResetCaptureTimeAfterAllPlayersLeavedZone": 1,
+      "Position": [
+        4884.66015625,
+        476.260009765625,
+        14999.48046875
+      ],
+      "AISpawnCount": 80,
+      "ObjectListName": "none",
+      "LootTier": 1
+    },
+    {
+      "Name": "Balota Airfield",
+      "Radius": 80,
+      "CaptureRadius": 80,
+      "ResetCaptureTimeAfterAllPlayersLeavedZone": 1,
+      "Position": [
+        4987.4501953125,
+        9.510000228881836,
+        2476.14990234375
+      ],
+      "AISpawnCount": 80,
+      "ObjectListName": "none",
+      "LootTier": 1
+    },
+    {
+      "Name": "Ostry Military",
+      "Radius": 80,
+      "CaptureRadius": 80,
+      "ResetCaptureTimeAfterAllPlayersLeavedZone": 1,
+      "Position": [
+        10929.2,
+        219.997,
+        13394.1
+      ],
+      "AISpawnCount": 80,
+      "ObjectListName": "none",
+      "LootTier": 1
+    },
+    {
+      "Name": "Topolka Military",
+      "Radius": 80,
+      "CaptureRadius": 80,
+      "ResetCaptureTimeAfterAllPlayersLeavedZone": 1,
+      "Position": [
+        10205.1,
+        59.3516,
+        4039.5
+      ],
+      "AISpawnCount": 80,
+      "ObjectListName": "none",
+      "LootTier": 1
+    },
+    {
+      "Name": "Kamensk",
+      "Radius": 80,
+      "CaptureRadius": 80,
+      "ResetCaptureTimeAfterAllPlayersLeavedZone": 1,
+      "Position": [
+        6586.64,
+        370.561,
+        14307.4
+      ],
+      "AISpawnCount": 80,
+      "ObjectListName": "none",
+      "LootTier": 1
+    },
+    {
+      "Name": "Polyana",
+      "Radius": 80,
+      "CaptureRadius": 80,
+      "ResetCaptureTimeAfterAllPlayersLeavedZone": 1,
+      "Position": [
+        10813.4,
+        222.756,
+        8136.05
+      ],
+      "AISpawnCount": 80,
+      "ObjectListName": "none",
+      "LootTier": 1
+    }
+  ],
+  "m_RewardPools": [
+    {
+      "RewardContainerName": "KingOfTheHillRewardChest",
+      "m_Rewards": [
+        {
+          "ItemName": "Money_Dollar100",
+          "Quantity": 150,
+          "Attachments": []
+        }
+      ],
+      "m_LootTier": 1,
+      "m_MaxWinningItems": 1,
+      "m_MinWinningItems": 1
+    }
+  ]
+}

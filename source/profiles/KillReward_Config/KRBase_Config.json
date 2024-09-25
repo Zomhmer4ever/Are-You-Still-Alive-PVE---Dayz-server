@@ -1,0 +1,16 @@
+{
+    "KillRewardBASE": {
+        "ZombieGlobalMessage": 1,
+        "PlayerGlobalMessage": 1,
+        "MessageSystem": 2,
+        "PointLoseByDeath": 500,
+        "Statslose": 0,
+        "DebugLog": 0,
+        "PVPVE": 0,
+        "NotListedIDs": [
+            "0",
+            "0"
+        ]
+    },
+    "version": 9
+}

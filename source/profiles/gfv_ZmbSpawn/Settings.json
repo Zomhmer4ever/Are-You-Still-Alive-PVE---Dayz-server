@@ -1,0 +1,16 @@
+{
+    "o_UpdateInterval": 1,
+    "m_ZmbSpawns": [
+        {
+            "m_Name": "Name or Description",
+            "m_Pos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_TimeUntilSpawn": 0,
+            "m_TimeRespawn": 60,
+            "m_IsSpawned": 0
+        }
+    ]
+}

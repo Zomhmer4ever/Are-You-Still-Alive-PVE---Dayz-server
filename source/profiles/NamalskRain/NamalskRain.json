@@ -1,0 +1,12 @@
+{
+    "NamalskRainAll": [
+        {
+            "initPhaseLenght": 60.0,
+            "midPhaseLengthOffsetMin": 10.0,
+            "midPhaseLengthOffsetMax": 30.0,
+            "endPhaseLength": 60.0,
+            "wetInitPhase": 0.75,
+            "wetMidPhase": 0.8500000238418579
+        }
+    ]
+}
