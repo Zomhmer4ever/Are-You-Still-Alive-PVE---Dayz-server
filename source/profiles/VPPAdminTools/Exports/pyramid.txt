@@ -1,0 +1,71 @@
+void SpawnObject(string objType, vector objPos, vector objOrientation)
+{
+	Object m_Building = Object.Cast(GetGame().CreateObject(objType, objPos));
+	if (m_Building == null) return;
+	m_Building.SetAffectPathgraph(true, false);
+	GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(GetGame().UpdatePathgraphRegionByObject, 100, false, m_Building);
+	m_Building.SetPosition(objPos);
+	m_Building.SetOrientation(objOrientation);
+}
+
+
+
+SpawnObject( "DNA_Lockout_RockWallEntrance", "3261.320068 293.617004 8800.049805", "-122.578827 0.000000 -0.000000" );
+SpawnObject( "DNA_Lockout_OneWayDoor_Locked_Blue", "3261.530029 292.320007 8800.250000", "52.109367 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_Bastion", "3180.600098 293.165009 8685.269531", "144.449448 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3164.169922 293.300995 8695.209961", "-121.323235 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3153.050049 293.332001 8712.280273", "-124.472107 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_Bastion2", "3180.469971 285.932007 8685.540039", "144.178192 0.000000 -0.000000" );
+SpawnObject( "DNA_Lockout_Bars", "3166.729980 290.545013 8694.330078", "-27.810757 0.000000 0.000000" );
+SpawnObject( "DNA_Lockout_Bars", "3166.760010 292.524994 8694.330078", "-25.921146 0.000000 0.000000" );
+SpawnObject( "Land_Castle_Gate", "3183.409912 290.005005 8706.530273", "54.811512 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3167.870117 293.416992 8718.410156", "52.919624 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3201.889893 293.419006 8705.809570", "166.142838 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_Bastion", "3157.959961 293.270996 8718.790039", "-35.100483 0.000000 0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3177.250000 293.662994 8725.379883", "-36.719669 0.000000 0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3193.429932 293.725006 8737.129883", "-35.370216 0.000000 0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3221.330078 293.447998 8712.290039", "158.220673 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3215.260010 293.432007 8720.059570", "52.109367 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3239.590088 293.472992 8721.419922", "148.768723 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3246.760010 293.462006 8736.950195", "86.418427 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3241.780029 293.433014 8752.509766", "58.589420 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3227.590088 293.440002 8763.870117", "20.250813 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_Gate", "3208.770020 291.540985 8761.620117", "-57.780125 0.000000 0.000000" );
+SpawnObject( "Land_Castle_Wall1_End1", "3204.689941 293.602997 8749.200195", "-52.109367 0.000000 0.000000" );
+SpawnObject( "StaticObj_Castle_Wall3", "3171.709961 284.786987 8692.860352", "-34.831642 0.000000 0.000000" );
+SpawnObject( "Land_Underground_WaterReservoir_Water", "3188.520020 288.171997 8763.719727", "19.978945 0.000000 -0.000000" );
+SpawnObject( "Land_Underground_WaterReservoir_Water", "3191.620117 288.199005 8774.049805", "31.863207 0.000000 -0.000000" );
+SpawnObject( "Land_Underground_WaterReservoir_Water", "3162.699951 288.167999 8774.650391", "113.395515 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3201.050049 296.433990 8777.839844", "34.831642 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3188.610107 296.441986 8784.259766", "22.141302 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3188.770020 294.937012 8759.009766", "-166.139252 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3165.260010 294.924011 8786.750000", "-62.913464 0.000000 0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3169.350098 294.894989 8764.150391", "-163.621429 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3160.040039 294.902008 8773.040039", "-87.467651 0.000000 0.000000" );
+SpawnObject( "Land_Castle_Gate", "3175.300049 291.720001 8795.009766", "20.788506 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3180.949951 295.994995 8808.349609", "-36.449650 0.000000 0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3197.429932 295.967010 8815.139648", "0.000000 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_Wall1_20", "3215.040039 295.988007 8807.990234", "44.281254 0.000000 -0.000000" );
+SpawnObject( "StaticObj_Castle_Wall3", "3227.350098 289.804993 8800.900391", "-22.141302 0.000000 0.000000" );
+SpawnObject( "Land_Castle_Bastion2", "3238.040039 289.877991 8769.759766", "131.757355 0.000000 -0.000000" );
+SpawnObject( "StaticObj_Castle_Wall3", "3239.120117 289.270996 8776.110352", "-44.008347 0.000000 0.000000" );
+SpawnObject( "StaticObj_Castle_Wall3", "3237.570068 289.627991 8777.400391", "-51.571667 0.000000 0.000000" );
+SpawnObject( "StaticObj_Castle_Wall3", "3240.669922 289.481995 8764.089844", "-41.311790 0.000000 0.000000" );
+SpawnObject( "StaticObj_Cemetery_Tombstone1", "3238.280029 288.755005 8768.080078", "-48.600945 0.000000 0.000000" );
+SpawnObject( "StaticObj_Castle_Wall3", "3257.090088 291.472992 8797.969727", "58.858860 0.000000 -0.000000" );
+SpawnObject( "StaticObj_Castle_Wall3", "3237.419922 288.175995 8788.849609", "61.827572 0.000000 -0.000000" );
+SpawnObject( "DNA_Lockout_Blue", "3239.979980 291.682007 8783.700195", "59.397270 0.000000 -0.000000" );
+SpawnObject( "DNA_Lockout_Bars", "3237.850098 293.283997 8786.990234", "55.079411 0.000000 -0.000000" );
+SpawnObject( "DNA_Lockout_Bars", "3238.659912 293.309998 8785.950195", "55.620678 0.000000 -0.000000" );
+SpawnObject( "DNA_Lockout_Bars", "3239.189941 293.313995 8784.860352", "59.130413 0.000000 -0.000000" );
+SpawnObject( "DNA_Lockout_Bars", "3239.949951 293.303009 8783.809570", "55.079411 0.000000 -0.000000" );
+SpawnObject( "Land_Castle_WallS_10", "3178.889893 286.774994 8721.459961", "50.757462 0.000000 -0.000000" );
+SpawnObject( "bldr_rock_apart2", "3205.449951 285.266998 8711.929688", "-39.961514 0.000000 0.000000" );
+SpawnObject( "bldr_rock_apart1", "3203.600098 285.908997 8723.110352", "0.000000 0.000000 -0.000000" );
+SpawnObject( "DNA_Lockout_Bars", "3181.260010 290.760986 8726.379883", "51.842548 0.000000 -0.000000" );
+SpawnObject( "DNA_Lockout_Bars", "3181.260010 292.608002 8726.379883", "54.268990 0.000000 -0.000000" );
+SpawnObject( "DNA_Lockout_Bars", "3206.639893 290.548004 8708.610352", "79.110878 0.000000 -0.000000" );
+SpawnObject( "DNA_Lockout_Bars", "3206.610107 292.636993 8708.610352", "84.778053 0.000000 -0.000000" );
+SpawnObject( "vbldr_rock_monolith3", "3222.389893 285.841003 8732.150391", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_rock_bright_apart1", "3239.629883 287.175995 8730.429688", "149.668320 0.000000 -0.000000" );
+SpawnObject( "vbldr_rock_apart1", "3224.290039 286.609009 8756.349609", "55.887897 0.000000 -0.000000" );

@@ -1,0 +1,14 @@
+void SpawnObject(string objType, vector objPos, vector objOrientation)
+{
+	Object m_Building = Object.Cast(GetGame().CreateObject(objType, objPos));
+	if (m_Building == null) return;
+	m_Building.SetAffectPathgraph(true, false);
+	GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(GetGame().UpdatePathgraphRegionByObject, 100, false, m_Building);
+	m_Building.SetPosition(objPos);
+	m_Building.SetOrientation(objOrientation);
+}
+
+
+
+SpawnObject( "bldr_tac_board_posters_level1", "3679.750000 403.713989 5987.629883", "-110.009438 0.000000 -0.000000" );
+SpawnObject( "Land_Shed_M1", "3725.580078 403.041992 5979.750000", "20.280592 0.000000 0.000000" );
