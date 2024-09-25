@@ -1,0 +1,16 @@
+[
+   {
+    "Type": 0,
+    "Name": "PVP Zone",
+    "X": 1288,
+    "Z": 14509,
+    "Radius": 1700,
+    "ShowBorderOnMap": 1,
+    "ShowNameOnMap": 1,
+    "Activity_Schedule": {
+      "Days": "1 2 3 4 5 6 7",
+      "StartHour": 0,
+      "EndHour": 24
+    }
+  }
+]

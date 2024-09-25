@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ================== YOU CAN FIND A LOT MORE INFORMATIONS IN HELP.TXT FILES ================== -->
+<types>	
+	<type Zombie_Category_Class_Names="ZmbM_Santa">		
+        <Items_List_A	Quantity_Or_Chance_To_Spawn = "1.0"	state = "Pristine"		List = "FS_Probirka_SlizOrange"/> <!-- Add REWARD for player that defeat the horde -->
+        <Items_List_B	Quantity_Or_Chance_To_Spawn = "1.0"		state = "Pristine"		List = "FS_Probirka_SlizOrange"/>
+        <Items_List_C	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+        <Items_List_D	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+	</type>
+	
+	<type Zombie_Category_Class_Names="ZmbM_Leprechaun">		
+        <Items_List_A	Quantity_Or_Chance_To_Spawn = "30.0"	state = "Pristine"		List = "Guts,HumanSteakMeat,Bone"/> <!-- Add REWARD for player that defeat the horde -->
+        <Items_List_B	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+       <Items_List_C	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+        <Items_List_D	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+	</type>
+	
+	<type Zombie_Category_Class_Names="ZmbM_DH_Invisible_Ghillie">		
+        <Items_List_A	Quantity_Or_Chance_To_Spawn = "1.0"		state = "Ruined"		List = "GhillieSuit_Mossy,GhillieSuit_Woodland"/> 
+        <Items_List_B	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Random"		List = ""/>
+        <Items_List_C	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Random"		List = ""/>
+        <Items_List_D	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Random"		List = ""/>
+	</type>
+	
+	<type Zombie_Category_Class_Names="ZmbM_DH_Invisible_RedEye">		
+        <Items_List_A	Quantity_Or_Chance_To_Spawn = "1.0"		state = "Ruined"		List = "GhillieSuit_Mossy,GhillieSuit_Woodland"/> 
+        <Items_List_B	Quantity_Or_Chance_To_Spawn = "1.0"		state = "BadlyDamaged"	List = "Red_Eye"/>
+        <Items_List_C	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Random"		List = ""/>
+        <Items_List_D	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Random"		List = ""/>
+	</type>
+	
+<!-- ////// DON'T ADD NEW SECTION, USE THE "Custom_Sections" TO CREATE YOUR OWN CONFIGURATIONS -->	
+
+	<type Zombie_Category_Class_Names="QueenAlien"> <!-- You can configure this section as you want but don't create new ones -->
+         <Items_List_A	Quantity_Or_Chance_To_Spawn = "500"		state = "Stacked"		List = "SpiderEgg,SpiderEgg,SpiderEgg,SpiderEgg"/> 
+        <Items_List_B	Quantity_Or_Chance_To_Spawn = "0.4"		state = "Pristine"		List = "Alien_01_Backpack"/>
+        <Items_List_C	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+        <Items_List_D	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+	</type>
+	
+	<type Zombie_Category_Class_Names="Custom_Section02"> <!-- You can configure this section as you want but don't create new ones -->
+        <Items_List_A	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/> 
+        <Items_List_B	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+        <Items_List_C	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+        <Items_List_D	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+	</type>
+	
+	<type Zombie_Category_Class_Names="Custom_Section03"> <!-- You can configure this section as you want but don't create new ones -->
+        <Items_List_A	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/> 
+        <Items_List_B	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+        <Items_List_C	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+        <Items_List_D	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+	</type>
+	
+	<type Zombie_Category_Class_Names="Custom_Section04"> <!-- You can configure this section as you want but don't create new ones -->
+        <Items_List_A	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/> 
+        <Items_List_B	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+        <Items_List_C	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+        <Items_List_D	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+	</type>
+	
+	<type Zombie_Category_Class_Names="Custom_Section05"> <!-- You can configure this section as you want but don't create new ones -->
+        <Items_List_A	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/> 
+        <Items_List_B	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+        <Items_List_C	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+        <Items_List_D	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+	</type>
+	
+	<type Zombie_Category_Class_Names="Custom_Section06"> <!-- You can configure this section as you want but don't create new ones -->
+        <Items_List_A	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/> 
+        <Items_List_B	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+        <Items_List_C	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+        <Items_List_D	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+	</type>
+	
+	<type Zombie_Category_Class_Names="Custom_Section07"> <!-- You can configure this section as you want but don't create new ones -->
+        <Items_List_A	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/> 
+        <Items_List_B	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+        <Items_List_C	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+        <Items_List_D	Quantity_Or_Chance_To_Spawn = "0.0"		state = "Pristine"		List = ""/>
+	</type>
+	
+<!-- ////// DON'T ADD NEW SECTION, USE THE "Custom_Sections" TO CREATE YOUR OWN CONFIGURATIONS -->	
+
+</types>

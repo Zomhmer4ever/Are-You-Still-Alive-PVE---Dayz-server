@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ================== YOU CAN FIND A LOT MORE INFORMATIONS IN HELP.TXT FILES ================== -->
+<types>	
+	<!-- ======================== NIGHT TIME ============================== -->
+	
+	<type NightTime_Master = "QueenAlien">	
+		<NightTime_Zombie		Name="ALIENSOLDIER"/>
+       <NightTime_Zombie		Name="ALIENSOLDIER_Hairy"/>   
+      <NightTime_Zombie		Name="FS_Snork"/> 
+       <NightTime_Zombie		Name="FS_Snork_Boss"/>   
+      <NightTime_Zombie		Name="SFP_Mutant_Snork"/> 
+       <NightTime_Zombie		Name="SFP_Mutant_Snork2"/>   
+      <NightTime_Zombie		Name="FS_Snork"/> 
+       <NightTime_Zombie		Name="FS_Snork_Boss"/>   
+      <NightTime_Zombie		Name="SFP_Mutant_Snork"/> 
+       <NightTime_Zombie		Name="SFP_Mutant_Snork2"/> 
+   
+	</type>  
+	
+	<!-- ======================== DAY TIME ============================== -->	
+	
+	<type DayTime_Master = "QueenAlien">		
+		<!-- <type DayTime_Master = "Era_Zombies_feeder"> -->
+		
+        <DayTime_Zombie		Name="ALIENSOLDIER_Hairy"/>
+       <DayTime_Zombie		Name="ALIENSOLDIER"/>    
+      <DayTime_Zombie		Name="FS_Snork"/> 
+       <DayTime_Zombie		Name="FS_Snork_Boss"/>   
+      <DayTime_Zombie		Name="SFP_Mutant_Snork"/> 
+       <DayTime_Zombie		Name="SFP_Mutant_Snork2"/>   
+      <DayTime_Zombie		Name="FS_Snork"/> 
+       <DayTime_Zombie		Name="FS_Snork_Boss"/>   
+      <DayTime_Zombie		Name="SFP_Mutant_Snork"/> 
+       <DayTime_Zombie		Name="SFP_Mutant_Snork2"/>     
+	</type>     
+</types>
+
+	
