@@ -1,0 +1,1172 @@
+{
+    "OnTheFly": 1,
+    "OnTheFly_UnFlip": 0,
+    "Log": 0,
+    "VehicleConfig": [
+        {
+            "Name": "CivilianSedan",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5800000429153443
+        },
+        {
+            "Name": "CivilianSedan_Black",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5800000429153443
+        },
+        {
+            "Name": "CivilianSedan_Wine",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5800000429153443
+        },
+        {
+            "Name": "Hatchback_02",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5800000429153443
+        },
+        {
+            "Name": "Hatchback_02_Black",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5800000429153443
+        },
+        {
+            "Name": "Hatchback_02_Blue",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5800000429153443
+        },
+        {
+            "Name": "OffroadHatchback",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.8300000429153443
+        },
+        {
+            "Name": "OffroadHatchback_Blue",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.8300000429153443
+        },
+        {
+            "Name": "OffroadHatchback_White",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.8300000429153443
+        },
+        {
+            "Name": "Sedan_02",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5
+        },
+        {
+            "Name": "Sedan_02_Grey",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5
+        },
+        {
+            "Name": "Sedan_02_Red",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5
+        },
+        {
+            "Name": "Truck_01_Covered",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.9600000381469728
+        },
+        {
+            "Name": "Truck_01_Covered_Blue",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.9600000381469728
+        },
+        {
+            "Name": "Truck_01_Covered_Orange",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.9600000381469728
+        },
+        {
+            "Name": "ExpansionBus",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 3.0
+        },
+        {
+            "Name": "ExpansionGyrocopter",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.200000047683716
+        },
+        {
+            "Name": "ExpansionMh6",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 3.0999999046325685
+        },
+        {
+            "Name": "ExpansionTractor",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.700000047683716
+        },
+        {
+            "Name": "ExpansionMerlin",
+            "VerticalAdjustment": 3.809999942779541,
+            "Clearance": 7.300000190734863
+        },
+        {
+            "Name": "ExpansionUh1h",
+            "VerticalAdjustment": 2.9800000190734865,
+            "Clearance": 4.599999904632568
+        },
+        {
+            "Name": "ExpansionUAZ",
+            "VerticalAdjustment": 1.6699999570846558,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ExpansionUAZRoofless",
+            "VerticalAdjustment": 1.6699999570846558,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ExpansionUAZCargo",
+            "VerticalAdjustment": 1.6699999570846558,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ExpansionUAZCargoRoofless",
+            "VerticalAdjustment": 1.6699999570846558,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ExpansionVodnik",
+            "VerticalAdjustment": 2.200000047683716,
+            "Clearance": 2.25
+        },
+        {
+            "Name": "EXT_UH60M",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 5.199999809265137
+        },
+        {
+            "Name": "EXT_UH1Y",
+            "VerticalAdjustment": 2.369999885559082,
+            "Clearance": 4.5
+        },
+        {
+            "Name": "EXT_Mi8_Attack",
+            "VerticalAdjustment": 1.5700000524520875,
+            "Clearance": 4.639999866485596
+        },
+        {
+            "Name": "EXT_Mi8",
+            "VerticalAdjustment": 1.5700000524520875,
+            "Clearance": 4.639999866485596
+        },
+        {
+            "Name": "EXT_Mi171",
+            "VerticalAdjustment": 1.5700000524520875,
+            "Clearance": 4.639999866485596
+        },
+        {
+            "Name": "EXT_MerlinHC3",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 7.300000190734863
+        },
+        {
+            "Name": "EXT_MI24",
+            "VerticalAdjustment": -0.3799999952316284,
+            "Clearance": 4.949999809265137
+        },
+        {
+            "Name": "EXT_KA60",
+            "VerticalAdjustment": 1.7100000381469727,
+            "Clearance": 4.739999771118164
+        },
+        {
+            "Name": "EXT_KA52",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 5.21999979019165
+        },
+        {
+            "Name": "EXT_CH_47F",
+            "VerticalAdjustment": 0.10999999940395355,
+            "Clearance": 5.679999828338623
+        },
+        {
+            "Name": "EXT_AW159",
+            "VerticalAdjustment": 0.03999999910593033,
+            "Clearance": 4.340000152587891
+        },
+        {
+            "Name": "EXT_AH64D",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 4.760000228881836
+        },
+        {
+            "Name": "EXT_AH1Z",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 3.799999952316284
+        },
+        {
+            "Name": "Dingo",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.549999952316284
+        },
+        {
+            "Name": "ExpansionMh6_Jeans",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 3.0999999046325685
+        },
+        {
+            "Name": "Expansion_Landrover_Grey",
+            "VerticalAdjustment": 0.5199999809265137,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "IJ_2125_Kombi_red",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ExpansionTractor_Green",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.700000047683716
+        },
+        {
+            "Name": "ExpansionMh6_Wasp",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 3.0999999046325685
+        },
+        {
+            "Name": "GAZ_33081",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Niva2329_camo",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Expansion_Landrover",
+            "VerticalAdjustment": 0.5199999809265137,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "VBL",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "UAZ_3172",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ZIL_131",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ExpansionMh6_Digital",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 3.0999999046325685
+        },
+        {
+            "Name": "UAZ_3163_black",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ExpansionMh6_Furious",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 3.0999999046325685
+        },
+        {
+            "Name": "URAL_375_1964",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "UAZ_3163",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Hatchback_02_BanditKitty",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5800000429153443
+        },
+        {
+            "Name": "ExpansionTractor_Blue",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.700000047683716
+        },
+        {
+            "Name": "ExpansionUh1h_Civilian",
+            "VerticalAdjustment": 2.9800000190734865,
+            "Clearance": 4.599999904632568
+        },
+        {
+            "Name": "M3A1_Scout_Car",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ExpansionMh6_Green",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 3.0999999046325685
+        },
+        {
+            "Name": "ExpansionMh6_Black",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 3.0999999046325685
+        },
+        {
+            "Name": "ExpansionMh6_Sheriff",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 3.0999999046325685
+        },
+        {
+            "Name": "Willys_MB",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Niva2329",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "BTR_80_camo2",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ExpansionUh1h_Resistance",
+            "VerticalAdjustment": 2.9800000190734865,
+            "Clearance": 4.599999904632568
+        },
+        {
+            "Name": "ExpansionMh6_Blueline",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 3.0999999046325685
+        },
+        {
+            "Name": "gaz_51",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ExpansionUh1h_Green",
+            "VerticalAdjustment": 2.9800000190734865,
+            "Clearance": 4.599999904632568
+        },
+        {
+            "Name": "UAZ_3962_green",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ij_2715_RF_green",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "UAZ_31519_Police",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ZiS5_Benzovoz",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "GAZ_M20_black",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "IJ_2125_Kombi_orange",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "GAZ_3110_volga",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "moskvich_407_double_red",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "UAZ_469_milicia",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "VAZ_2109_RF_white",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ZAZ_968M_red",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_AH64D_BAF",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 4.760000228881836
+        },
+        {
+            "Name": "EXT_AW159_BAF",
+            "VerticalAdjustment": 0.03999999910593033,
+            "Clearance": 4.340000152587891
+        },
+        {
+            "Name": "EXT_KA52_Woodland",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 5.21999979019165
+        },
+        {
+            "Name": "EXT_CH_47F_BAF",
+            "VerticalAdjustment": 0.10999999940395355,
+            "Clearance": 5.679999828338623
+        },
+        {
+            "Name": "EXT_MH6",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_MH6_Mango",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_UH60M_MEV",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 5.199999809265137
+        },
+        {
+            "Name": "EXT_MI24_ION",
+            "VerticalAdjustment": -0.3799999952316284,
+            "Clearance": 4.949999809265137
+        },
+        {
+            "Name": "EXT_UH1Y_SAR",
+            "VerticalAdjustment": 2.369999885559082,
+            "Clearance": 4.5
+        },
+        {
+            "Name": "EXT_Uh1h_Takistan",
+            "VerticalAdjustment": 2.9800000190734865,
+            "Clearance": 4.599999904632568
+        },
+        {
+            "Name": "EXT_UH1Y_ACR",
+            "VerticalAdjustment": 2.369999885559082,
+            "Clearance": 4.5
+        },
+        {
+            "Name": "EXT_Mi8_Chernarus",
+            "VerticalAdjustment": 1.5700000524520875,
+            "Clearance": 4.639999866485596
+        },
+        {
+            "Name": "EXT_MH6_Resistance",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_MH6_Wasp",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "BTR_80",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Offroad_02",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_MH6_Vrana",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_MH6_Wave",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "GAZ_66_kuzov",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_Mi8_Attack_RAF",
+            "VerticalAdjustment": 1.5700000524520875,
+            "Clearance": 4.639999866485596
+        },
+        {
+            "Name": "m4_tractor",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "artillery_tractor",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_MI24_Chernarus",
+            "VerticalAdjustment": -0.3799999952316284,
+            "Clearance": 4.949999809265137
+        },
+        {
+            "Name": "Mercedes_G4_W31",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "PAZ_672",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "LUAZ_969_green",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_UH1Y_USMC",
+            "VerticalAdjustment": 2.369999885559082,
+            "Clearance": 4.5
+        },
+        {
+            "Name": "EXT_MI24_ACR",
+            "VerticalAdjustment": -0.3799999952316284,
+            "Clearance": 4.949999809265137
+        },
+        {
+            "Name": "EXT_AH64D_USMC",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 4.760000228881836
+        },
+        {
+            "Name": "AEC_Matador",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "UAZ_27722_mchs",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Expansion_Landrover_Green",
+            "VerticalAdjustment": 0.5199999809265137,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_AW159_UN",
+            "VerticalAdjustment": 0.03999999910593033,
+            "Clearance": 4.340000152587891
+        },
+        {
+            "Name": "UAZ_3163_gamekeeper",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "GAZ21_Volga",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ij_2715_RF_blue",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Expansion_Landrover_Yellow",
+            "VerticalAdjustment": 0.5199999809265137,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_MH6_Digital",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "GAZ_3110_volga_taxi",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Expansion_Landrover_Blue",
+            "VerticalAdjustment": 0.5199999809265137,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "GAZ_3110_volga_black",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "VAZ_2109_RF",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "UAZ_469_Hunter",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "vg7_scorpion",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "vg7_scorpion_easyrider",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "MTLB_RF_camo",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "GAZ_M20_blue",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_Mi8_Attack_Chedaki",
+            "VerticalAdjustment": 1.5700000524520875,
+            "Clearance": 4.639999866485596
+        },
+        {
+            "Name": "GAZ_66",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Expansion_Landrover_Red",
+            "VerticalAdjustment": 0.5199999809265137,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "BTR_80_P",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "vg7_scorpion_scorcher",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "UAZ_33094",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "GAZ_13_Chaika",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "BRDM2_RF",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ExpansionBus_Weeb",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 3.0
+        },
+        {
+            "Name": "GAZ_13_Chaika_white",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "LUAZ_969",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ExpansionMerlin_Wave",
+            "VerticalAdjustment": 3.809999942779541,
+            "Clearance": 7.300000190734863
+        },
+        {
+            "Name": "EXT_MH6_Green",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_MH6_Furious",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_MH6_GrayWatcher",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "MTLB_RF_camo2",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_Mi8_Attack_ACR",
+            "VerticalAdjustment": 1.5700000524520875,
+            "Clearance": 4.639999866485596
+        },
+        {
+            "Name": "azlk_400",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_Mi8_Chedaki",
+            "VerticalAdjustment": 1.5700000524520875,
+            "Clearance": 4.639999866485596
+        },
+        {
+            "Name": "UAZ_3163_blue",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_MH6_Speedy",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_MH6_Sheriff",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_CH_47F_USMC",
+            "VerticalAdjustment": 0.10999999940395355,
+            "Clearance": 5.679999828338623
+        },
+        {
+            "Name": "EXT_Mi8_Takistan",
+            "VerticalAdjustment": 1.5700000524520875,
+            "Clearance": 4.639999866485596
+        },
+        {
+            "Name": "EXT_Mi8_Attack_Chernarus",
+            "VerticalAdjustment": 1.5700000524520875,
+            "Clearance": 4.639999866485596
+        },
+        {
+            "Name": "EXT_MH6_Shadow",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_Mi8_ACR",
+            "VerticalAdjustment": 1.5700000524520875,
+            "Clearance": 4.639999866485596
+        },
+        {
+            "Name": "EXT_Mi8_RAF",
+            "VerticalAdjustment": 1.5700000524520875,
+            "Clearance": 4.639999866485596
+        },
+        {
+            "Name": "UAZ_3163_green",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_Mi2_Hornet",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_Ka26",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Spur_TrolleyKart_Black",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "kamaz_4310RUS",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Spur_TrolleyKopter_2Seat",
+            "VerticalAdjustment": 0.002499103546142578,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_R22",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_CH47",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_CH53e",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_Bo105m_blackcamo",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_Apache",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_Blackhawk",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_LittleBird",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Spur_Trolley_E_Kart_Black",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_R22_Black",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_Blackhawk_blackblackhawk",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_Blackhawk_Budhawk",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Spur_TrolleyKart",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "MTLB_RF",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_KA52_Black",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 5.21999979019165
+        },
+        {
+            "Name": "Spur_TrolleyKart_Race",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "VAZ_2109_RF_blue",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_R22_Red",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ZAZ_968M",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "KAVZ685_RF_green",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_Mi8_Attack_Takistan",
+            "VerticalAdjustment": 1.5700000524520875,
+            "Clearance": 4.639999866485596
+        },
+        {
+            "Name": "RFFSHeli_LittleBird_Desert",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ZIL_130_ac40",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_EC135_BlackCamo",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_Apache_Winter",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_Bell429_ZS",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_EC135",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "KAVZ685_RF_beige",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "T_34_76",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_Mi2_Military",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ZIL_131_tent",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_LittleBird_Camo",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_Blackhawk_Cargo",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "KubanG1_green",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ExpansionBigGyrocopter",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.200000047683716
+        },
+        {
+            "Name": "GAZ_M20_white",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "RFFSHeli_Apache_Desert",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "LIAZ_677RF_camo",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Spur_Trolley_E_Kart",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "T_34_76_camo2",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "IJ_2125_Kombi_green",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Spur_TrolleyKopter",
+            "VerticalAdjustment": 0.0295446515083313,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Spur_Trolley_E_Kart_Admin",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "kraz_255B",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "kraz_255B_kung",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "F1_Pickup",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "GAZ_M20_green",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "UAZ_33094_green",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_MH6_Sunset",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "artillery_tractor_kung_camo",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ZIL133_double",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ZAZ_965_bk",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "LUAZ_969_orang",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "UAZ_3163_Red",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "GAZ_13_Chaika_black_rust",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "MRAP_Cougar",
+            "VerticalAdjustment": 3.118450403213501,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "LAPV",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Jeep_Wnagler",
+            "VerticalAdjustment": 0.837807834148407,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "vg7_scorpion_mermaid",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "vg7_scorpion_butterfly",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_MH6_WIP",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "Spur_TrolleyKart_Admin",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ExpansionHatchBird",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.8300000429153443
+        },
+        {
+            "Name": "KAVZ685_RF_red",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ExpansionMerlin_Vrana",
+            "VerticalAdjustment": 3.809999942779541,
+            "Clearance": 7.300000190734863
+        },
+        {
+            "Name": "IJ_2140_SL",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "EXT_AW159_Marine",
+            "VerticalAdjustment": 0.03999999910593033,
+            "Clearance": 4.340000152587891
+        },
+        {
+            "Name": "GAZ_69_rus_green",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "GAZ_69_rus",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "GAZ_69_rus_yellow",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "AZLK_2141RF_milicia_PG",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "ij_2715_RF_red",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 2.0
+        }
+    ]
+}

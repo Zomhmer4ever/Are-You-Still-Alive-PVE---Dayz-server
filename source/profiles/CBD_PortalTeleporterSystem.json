@@ -1,0 +1,67 @@
+{
+  "DebugLogs_enabled": 0,
+  "Active_Portals_Min": 2,
+  "Active_Portals_Max": 2,
+  "Portal_Creator": [
+    {
+      "Classname_Portal_Object": "land_CBD_Worn_Portal",
+      "Portal_Position": [
+        1619.4,
+        240.48,
+        10662.5
+      ],
+      "Portal_Orientation": [
+        0,
+        0,
+        -1.62
+      ],
+      "Trigger_Area_Min": [
+        -2,
+        -2,
+        -2
+      ],
+      "Trigger_Area_Max": [
+        2,
+        2,
+        2
+      ],
+      "Teleport_Destination": [
+        [
+          3181.35,
+          285.002,
+          8682.23
+        ]
+      ]
+    },
+    {
+      "Classname_Portal_Object": "land_Hidden_Portal_small",
+      "Portal_Position": [
+        3245.2,
+        292.555,
+        8790.38
+      ],
+      "Portal_Orientation": [
+        62.9099,
+        0,
+        0
+      ],
+      "Trigger_Area_Min": [
+        -2,
+        -2,
+        -2
+      ],
+      "Trigger_Area_Max": [
+        2,
+        2,
+        2
+      ],
+      "Teleport_Destination": [
+        [
+          1870.11,
+          228.65,
+          10145.7
+        ]
+      ]
+    }
+  ]
+}
