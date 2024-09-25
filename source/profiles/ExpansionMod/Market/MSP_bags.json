@@ -1,0 +1,57 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MSP - BAGS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Msp_MedicBag_Black",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Msp_MedicBag_Red",
+                "Msp_MedicBag_Green",
+                "Msp_MedicBag_Blue"
+            ]
+        },
+        {
+            "ClassName": "Msp_WaistPack_Tan",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Msp_WaistPack_Black",
+                "Msp_WaistPack_Green",
+                "Msp_WaistPack_Brown",
+                "Msp_WaistPack_UrbanFlektarn",
+                "Msp_WaistPack_Blue"
+            ]
+        },
+        {
+            "ClassName": "Msp_DuffleBag_Green",
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Msp_DuffleBag_Black",
+                "Msp_DuffleBag_Blue",
+                "Msp_DuffleBag_Red"
+            ]
+        }
+    ]
+}

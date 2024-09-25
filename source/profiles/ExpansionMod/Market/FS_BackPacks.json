@@ -1,0 +1,101 @@
+{
+    "m_Version": 12,
+    "DisplayName": "FS - BACKPACKS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "FS_ImproStalkerBag_beige",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 75,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_GasBallon_Odinocki",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_GasBallon_DOLG"
+            ]
+        },
+        {
+            "ClassName": "FS_HuntBag_co",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 45,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_HuntBag_black"
+            ]
+        },
+        {
+            "ClassName": "FS_MiniBag_orange",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_MiniBag_Red",
+                "FS_MiniBag_Green",
+                "FS_MiniBag_Blue",
+                "FS_MiniBag_White"
+            ]
+        },
+        {
+            "ClassName": "FS_TacticalBag_Tan",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_TacticalBag_Black",
+                "FS_TacticalBag_DOLG",
+                "FS_TacticalBag_Green",
+                "FS_TacticalBag_monolit"
+            ]
+        },
+        {
+            "ClassName": "FS_Assault_Bag",
+            "MaxPriceThreshold": 1250,
+            "MinPriceThreshold": 1100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_3SumBag",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

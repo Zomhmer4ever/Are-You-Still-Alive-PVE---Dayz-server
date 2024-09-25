@@ -1,0 +1,124 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MOREDAYZ - NBC",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MC_GP5GasMask_Black",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MC_GP5GasMask_C1",
+                "MC_GP5GasMask_CMC",
+                "MC_GP5GasMask_CMCAU",
+                "MC_GP5GasMask_CMCFG",
+                "MC_GP5GasMask_CMCIX",
+                "MC_GP5GasMask_CMCKrypTek",
+                "MC_GP5GasMask_ZX"
+            ]
+        },
+        {
+            "ClassName": "MC_NBC_C1_Jacket",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MC_NBC_Black_Jacket",
+                "MC_NBC_CMC_Jacket",
+                "MC_NBC_CMCAU_Jacket",
+                "MC_NBC_CMCFG_Jacket",
+                "MC_NBC_CMCIX_Jacket",
+                "MC_NBC_CMCKrypTek_Jacket",
+                "MC_NBC_ZX_Jacket"
+            ]
+        },
+        {
+            "ClassName": "MC_NBC_C1_Pants",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MC_NBC_Black_Pants",
+                "MC_NBC_CMC_Pants",
+                "MC_NBC_CMCAU_Pants",
+                "MC_NBC_CMCFG_Pants",
+                "MC_NBC_CMCIX_Pants",
+                "MC_NBC_CMCKrypTek_Pants",
+                "MC_NBC_ZX_Pants"
+            ]
+        },
+        {
+            "ClassName": "MC_NBC_C1_Hood",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MC_NBC_Black_Hood",
+                "MC_NBC_CMC_Hood",
+                "MC_NBC_CMCAU_Hood",
+                "MC_NBC_CMCFG_Hood",
+                "MC_NBC_CMCIX_Hood",
+                "MC_NBC_CMCKrypTek_Hood",
+                "MC_NBC_ZX_Hood"
+            ]
+        },
+        {
+            "ClassName": "MC_NBC_C1_Gloves",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MC_NBC_Black_Gloves",
+                "MC_NBC_CMC_Gloves",
+                "MC_NBC_CMCAU_Gloves",
+                "MC_NBC_CMCFG_Gloves",
+                "MC_NBC_CMCIX_Gloves",
+                "MC_NBC_CMCKrypTek_Gloves",
+                "MC_NBC_ZX_Gloves"
+            ]
+        },
+        {
+            "ClassName": "MC_NBC_C1_Boots",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MC_NBC_Black_Boots",
+                "MC_NBC_CMC_Boots",
+                "MC_NBC_CMCAU_Boots",
+                "MC_NBC_CMCFG_Boots",
+                "MC_NBC_CMCIX_Boots",
+                "MC_NBC_CMCKrypTek_Boots",
+                "MC_NBC_ZX_Boots"
+            ]
+        }
+    ]
+}

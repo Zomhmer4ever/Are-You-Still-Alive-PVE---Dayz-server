@@ -1,0 +1,28 @@
+{
+    "m_Version": 12,
+    "DisplayName": "FS - GLOVES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "FS_MiniGloves_black",
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 65,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_MiniGloves_Dolg",
+                "FS_MiniGloves_Dolg_TIGR",
+                "FS_MiniGloves_ClearSky",
+                "FS_MiniGloves_Odinocki",
+                "FS_MiniGloves_Svoboda",
+                "FS_MiniGloves_Standart"
+            ]
+        }
+    ]
+}

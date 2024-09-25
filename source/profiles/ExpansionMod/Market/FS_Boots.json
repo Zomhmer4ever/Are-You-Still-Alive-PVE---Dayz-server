@@ -1,0 +1,21 @@
+{
+    "m_Version": 12,
+    "DisplayName": "FS - BOOTS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "FS_ClearSky_Boots",
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 1300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 65,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MOREDAYZ - CLOTHING",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MC_CargoPants_Black",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MC_CargoPants_C1",
+                "MC_CargoPants_CMC",
+                "MC_CargoPants_CMCAU",
+                "MC_CargoPants_CMCFG",
+                "MC_CargoPants_CMCIX",
+                "MC_CargoPants_CMCKrypTek",
+                "MC_CargoPants_ZX"
+            ]
+        },
+        {
+            "ClassName": "MC_TShirt_Black",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MC_TShirt_C1",
+                "MC_TShirt_CMC",
+                "MC_TShirt_CMCAU",
+                "MC_TShirt_CMCFG",
+                "MC_TShirt_CMCIX",
+                "MC_TShirt_CMCKrypTek",
+                "MC_TShirt_ZX"
+            ]
+        },
+        {
+            "ClassName": "MC_Hoodie_Black",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MC_Hoodie_C1",
+                "MC_Hoodie_CMC",
+                "MC_Hoodie_CMCAU",
+                "MC_Hoodie_CMCFG",
+                "MC_Hoodie_CMCIX",
+                "MC_Hoodie_CMCKrypTek",
+                "MC_Hoodie_ZX"
+            ]
+        },
+        {
+            "ClassName": "MC_Jacket_Black",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MC_Jacket_C1",
+                "MC_Jacket_CMC",
+                "MC_Jacket_CMCAU",
+                "MC_Jacket_CMCFG",
+                "MC_Jacket_CMCIX",
+                "MC_Jacket_CMCKrypTek",
+                "MC_Jacket_ZX"
+            ]
+        },
+        {
+            "ClassName": "MC_PlateCarrier_Black",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MC_PlateCarrier_C1",
+                "MC_PlateCarrier_CMC",
+                "MC_PlateCarrier_CMCAU",
+                "MC_PlateCarrier_CMCFG",
+                "MC_PlateCarrier_CMCIX",
+                "MC_PlateCarrier_CMCKrypTek",
+                "MC_PlateCarrier_ZX"
+            ]
+        },
+        {
+            "ClassName": "MC_PlateCarrierPouches_Black",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MC_PlateCarrierPouches_C1",
+                "MC_PlateCarrierPouches_CMC",
+                "MC_PlateCarrierPouches_CMCAU",
+                "MC_PlateCarrierPouches_CMCFG",
+                "MC_PlateCarrierPouches_CMCIX",
+                "MC_PlateCarrierPouches_CMCKrypTek",
+                "MC_PlateCarrierPouches_ZX"
+            ]
+        },
+        {
+            "ClassName": "MC_PlateCarrierHolster_Black",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MC_PlateCarrierHolster_C1",
+                "MC_PlateCarrierHolster_CMC",
+                "MC_PlateCarrierHolster_CMC",
+                "MC_PlateCarrierHolster_CMCAU",
+                "MC_PlateCarrierHolster_CMCFG",
+                "MC_PlateCarrierHolster_CMCIX",
+                "MC_PlateCarrierHolster_CMCKrypTek",
+                "MC_PlateCarrierHolster_ZX"
+            ]
+        },
+        {
+            "ClassName": "MC_Balaclava_Black",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MC_Balaclava_C1",
+                "MC_Balaclava_CMC",
+                "MC_Balaclava_CMCAU",
+                "MC_Balaclava_CMCFG",
+                "MC_Balaclava_CMCIX",
+                "MC_Balaclava_CMCKrypTek",
+                "MC_Balaclava_ZX"
+            ]
+        },
+        {
+            "ClassName": "MC_Helmet_Black",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MC_Helmet_C1",
+                "MC_Helmet_CMC",
+                "MC_Helmet_CMCAU",
+                "MC_Helmet_CMCFG",
+                "MC_Helmet_CMCIX",
+                "MC_Helmet_CMCKrypTek",
+                "MC_Helmet_ZX"
+            ]
+        },
+        {
+            "ClassName": "MC_MountainBag_Black",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MC_MountainBag_C1",
+                "MC_MountainBag_CMC",
+                "MC_MountainBag_CMCAU",
+                "MC_MountainBag_CMCFG",
+                "MC_MountainBag_CMCIX",
+                "MC_MountainBag_CMCKrypTek",
+                "MC_MountainBag_ZX"
+            ]
+        },
+        {
+            "ClassName": "MC_CombatBoots_Black",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MC_CombatBoots_C1",
+                "MC_CombatBoots_CMC",
+                "MC_CombatBoots_CMCAU",
+                "MC_CombatBoots_CMCFG",
+                "MC_CombatBoots_CMCIX",
+                "MC_CombatBoots_CMCKrypTek",
+                "MC_CombatBoots_ZX"
+            ]
+        },
+        {
+            "ClassName": "MC_TacticalGloves_Black",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MC_TacticalGloves_C1",
+                "MC_TacticalGloves_CMC",
+                "MC_TacticalGloves_CMCAU",
+                "MC_TacticalGloves_CMCFG",
+                "MC_TacticalGloves_CMCIX",
+                "MC_TacticalGloves_CMCKRYPTEK",
+                "MC_TacticalGloves_CMCZX"
+            ]
+        }
+    ]
+}

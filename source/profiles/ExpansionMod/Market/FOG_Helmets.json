@@ -1,0 +1,67 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG - HELMETS",
+   "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fog_helmet_airframe_black",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_helmet_airframe_cb",
+        "fog_helmet_airframe_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_helmet_exfil_mc",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+		"FOG_Helmet_Exfil_Tan",
+		"FOG_Helmet_Exfil_Black",
+		"FOG_Helmet_Exfil_RG"
+		
+	  ]
+    },
+    {
+      "ClassName": "fog_helmet_fast_bump_black",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_helmet_fast_bump_erdl",
+        "fog_helmet_fast_bump_grey",
+        "fog_helmet_fast_bump_mc",
+        "fog_helmet_fast_bump_mcb",
+        "fog_helmet_fast_bump_rg",
+        "fog_helmet_fast_bump_tan",
+        "fog_helmet_fast_sf_black",
+        "fog_helmet_fast_sf_erdl",
+        "fog_helmet_fast_sf_mc",
+        "fog_helmet_fast_sf_mcb",
+        "fog_helmet_fast_sf_rg",
+        "fog_helmet_fast_sf_tan",
+        "fog_helmet_fastmt_black",
+        "fog_helmet_fastmt_mc",
+        "fog_helmet_fastmt_tan"
+      ]
+    }
+  ]
+}

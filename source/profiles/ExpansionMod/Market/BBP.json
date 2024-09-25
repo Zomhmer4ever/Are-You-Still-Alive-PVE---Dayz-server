@@ -1,0 +1,363 @@
+{
+    "m_Version": 12,
+    "DisplayName": "BASE BUILDING PLUS",
+    "Icon": "Hammer",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 50.0,
+    "Items": [
+        {
+            "ClassName": "BBP_Cement_Mixer_Kit",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 45000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 15,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_Blueprint",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_SolarPlus_PanelKit",
+            "MaxPriceThreshold": 40000,
+            "MinPriceThreshold": 40000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 15,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_BedKit",
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 25000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_SofaKit",
+            "MaxPriceThreshold": 22000,
+            "MinPriceThreshold": 22000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_Cement",
+            "MaxPriceThreshold": 360,
+            "MinPriceThreshold": 360,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_Mortar_Mix",
+            "MaxPriceThreshold": 380,
+            "MinPriceThreshold": 380,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_Wood_Storage",
+            "MaxPriceThreshold": 31000,
+            "MinPriceThreshold": 31000,
+            "SellPricePercent": 0,
+            "MaxStockThreshold": 20,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_Old_Lamp",
+            "MaxPriceThreshold": 12400,
+            "MinPriceThreshold": 12400,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_Floor_Lamp",
+            "MaxPriceThreshold": 12500,
+            "MinPriceThreshold": 12500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_Sun_Shade",
+            "MaxPriceThreshold": 26200,
+            "MinPriceThreshold": 26200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_Tape_Measure",
+            "MaxPriceThreshold": 925,
+            "MinPriceThreshold": 925,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_Painting_1",
+            "MaxPriceThreshold": 36200,
+            "MinPriceThreshold": 36200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"BBP_Painting_2"
+			]
+        },
+		{
+            "ClassName": "BBP_Painting_Landscape",
+            "MaxPriceThreshold": 37200,
+            "MinPriceThreshold": 37200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_Xmas_Tree",
+            "MaxPriceThreshold": 34000,
+            "MinPriceThreshold": 34000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_MagnetBox",
+            "MaxPriceThreshold": 26000,
+            "MinPriceThreshold": 26000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_Letter_Large_A",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"BBP_Letter_Large_B",
+				"BBP_Letter_Large_C",
+				"BBP_Letter_Large_D",
+				"BBP_Letter_Large_E",
+				"BBP_Letter_Large_F",
+				"BBP_Letter_Large_G",
+				"BBP_Letter_Large_H",
+				"BBP_Letter_Large_I",
+				"BBP_Letter_Large_J",
+				"BBP_Letter_Large_K",
+				"BBP_Letter_Large_L",
+				"BBP_Letter_Large_M",
+				"BBP_Letter_Large_N",
+				"BBP_Letter_Large_O",
+				"BBP_Letter_Large_P",
+				"BBP_Letter_Large_Q",
+				"BBP_Letter_Large_R",
+				"BBP_Letter_Large_S",
+				"BBP_Letter_Large_T",
+				"BBP_Letter_Large_U",
+				"BBP_Letter_Large_V",
+				"BBP_Letter_Large_W",
+				"BBP_Letter_Large_X",
+				"BBP_Letter_Large_Y",
+				"BBP_Letter_Large_Z"
+			]
+        },
+		{
+            "ClassName": "BBP_Golf",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_Gang_Plug",
+            "MaxPriceThreshold": 9800,
+            "MinPriceThreshold": 9800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_Carpet_1",
+            "MaxPriceThreshold": 19200,
+            "MinPriceThreshold": 19200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"BBP_Carpet_2"
+			]
+        },
+		{
+            "ClassName": "BBP_Wallpaper_1",
+            "MaxPriceThreshold": 20200,
+            "MinPriceThreshold": 20200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"BBP_Wallpaper_2"
+			]
+        },
+		{
+            "ClassName": "BBP_Bedding",
+            "MaxPriceThreshold": 1620,
+            "MinPriceThreshold": 1620,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_Plaster_1",
+            "MaxPriceThreshold": 19200,
+            "MinPriceThreshold": 19200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"BBP_Plaster_2"
+			]
+        },
+		{
+            "ClassName": "BBP_Bucket",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_WellKit",
+            "MaxPriceThreshold": 125100,
+            "MinPriceThreshold": 125100,
+            "SellPricePercent": 3,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_Wheelbarrow",
+            "MaxPriceThreshold": 14000,
+            "MinPriceThreshold": 14000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_Toilet",
+            "MaxPriceThreshold": 26600,
+            "MinPriceThreshold": 26600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 25,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_XmasLights_9v",
+            "MaxPriceThreshold": 1150,
+            "MinPriceThreshold": 1150,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "BBP_XmasLights_Solar",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

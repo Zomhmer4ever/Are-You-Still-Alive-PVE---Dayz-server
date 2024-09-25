@@ -1,0 +1,212 @@
+{
+  "m_Version": 12,
+  "DisplayName": "G3 - GUNS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100,
+  "Items": [
+    {
+      "ClassName": "GGG_577_Revolver",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_MK14",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_Henry_Singleshot",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_Arbiter_12ga",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_MCXSpear_Black",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GGG_MCXSpear_Tan"
+      ]
+    },
+    {
+      "ClassName": "GGG_SMG2001",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_SMG2002",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_KS23",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_KS23K",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_ArbiterRevolver",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1450,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_M1014",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2300,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_MGV",
+      "MaxPriceThreshold": 2400,
+      "MinPriceThreshold": 2220,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_SR47",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_416Rigby",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_TREXS",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_RM277",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 3400,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GGG_RM277_Black"
+      ]
+    },
+    {
+      "ClassName": "GGG_RagingBull",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_AMERICAN180",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 2800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ],
+  "SortByDisplayName": false
+}

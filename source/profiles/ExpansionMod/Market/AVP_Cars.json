@@ -1,0 +1,104 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Armored Vehicle Pack - CARS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MRAP_Cougar",
+            "MaxPriceThreshold": 285000,
+            "MinPriceThreshold": 285000,
+            "SellPricePercent": 80.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mrap_wheel",
+                "mrap_wheel",
+                "mrap_wheel",
+                "mrap_wheel",
+				"mrap_wheel",
+                "carbattery",
+                "carradiator",
+                "sparkplug",
+                "mrap_doors_hood",
+                "mrap_doors_trunk0",
+				"mrap_doors_trunk",
+                "mrap_doors_driver",
+				"mrap_doors_codriver",
+                "headlighth7",
+                "headlighth7"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Glowler_ITV",
+            "MaxPriceThreshold": 195000,
+            "MinPriceThreshold": 195000,
+            "SellPricePercent": 80.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "wheel_Glowler_ITV",
+                "wheel_Glowler_ITV",
+                "wheel_Glowler_ITV",
+                "wheel_Glowler_ITV",
+                "carbattery",
+                "carradiator",
+                "sparkplug",
+                "headlighth7",
+                "headlighth7"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "LAPV",
+            "MaxPriceThreshold": 265000,
+            "MinPriceThreshold": 265000,
+            "SellPricePercent": 80.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "wheel_lapv",
+                "wheel_lapv",
+                "wheel_lapv",
+                "wheel_lapv",
+                "carbattery",
+                "carradiator",
+                "sparkplug",
+                "lapv_doors_driver",
+                "lapv_doors_codriver",
+				"lapv_doors_cargo1",
+				"lapv_doors_cargo2",
+                "headlighth7",
+                "headlighth7"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Jeep_Wnagler",
+            "MaxPriceThreshold": 195000,
+            "MinPriceThreshold": 195000,
+            "SellPricePercent": 80.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "wheel_Jeep_Wnagler",
+                "wheel_Jeep_Wnagler",
+                "wheel_Jeep_Wnagler",
+                "wheel_Jeep_Wnagler",
+                "carbattery",
+                "carradiator",
+                "sparkplug",
+                "headlighth7",
+                "headlighth7"
+            ],
+            "Variants": []
+        }
+    ]
+}

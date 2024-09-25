@@ -1,0 +1,548 @@
+{
+    "m_Version": 12,
+    "DisplayName": "FS - CLOTHING",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "FS_TacticalPants_vkpo",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_TacticalPants_black",
+                "FS_TacticalPants_gorka_autumn",
+                "FS_TacticalPants_gorka_summer",
+                "FS_TacticalPants_Clear_Sky",
+                "FS_TacticalPants_Desert",
+                "FS_TacticalPants_Dolg",
+                "FS_TacticalPants_tan",
+                "FS_TacticalPants_olive",
+                "FS_TacticalPants_ttsco",
+                "FS_TacticalPants_WoodLand"
+            ]
+        },
+        {
+            "ClassName": "FS_ImproStalkerPants_beige",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_Soivet_Jacket",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_Soivet_JacketHood"
+            ]
+        },
+        {
+            "ClassName": "FS_ImproStalkerJacket_beige",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_RangerPants_green",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_OldMilitaryPants_Standart",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_OldMilitary_Standart",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_Baril_Pants",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_Baril_Jacket",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_Brodaga_Jacket",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_Brodaga_Jacket_Black",
+                "FS_Brodaga_Jacket_Green"
+            ]
+        },
+        {
+            "ClassName": "FS_BulatJacket_Grey",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_BulatJacket_Camo",
+                "FS_BulatJacket_Dolg"
+            ]
+        },
+        {
+            "ClassName": "FS_BulatPants_Grey",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_BulatPants_Camo",
+                "FS_BulatPants_Dolg"
+            ]
+        },
+        {
+            "ClassName": "FS_Forest_Jacket",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_TOX_Jacket_green",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_TOX_Jacket_orange",
+                "FS_TOX_Jacket_Blue",
+                "FS_TOX_Jacket_black"
+            ]
+        },
+        {
+            "ClassName": "FS_TOX_Pants_green",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_TOX_Pants_orange",
+                "FS_TOX_Pants_Blue",
+                "FS_TOX_Pants_black"
+            ]
+        },
+        {
+            "ClassName": "FS_Tolstovka_GreyBeige",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_Bomj_up",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_Bomj_pant",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_ST_combez_pants_Monolit",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_combez_pants_odinocka",
+                "FS_combez_pants_Naemniki",
+                "FS_combez_pants_DOLG",
+                "FS_combez_pants_Svoboda",
+                "FS_combez_pants_SpecFID",
+                "FS_combez_pants_MEDIC",
+                "FS_combez_pants_WarEcolog"
+            ]
+        },
+        {
+            "ClassName": "FS_ST_combez_Monolit",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_combez_odinocka",
+                "FS_combez_Naemniki",
+                "FS_combez_DOLG",
+                "FS_combez_Svoboda",
+                "FS_combez_SpecFID",
+                "FS_combez_MEDIC"
+            ]
+        },
+        {
+            "ClassName": "FS_ProJacketST",
+            "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_ProJacketST_DOLG",
+                "FS_ProJacketST_SVOBODA",
+                "FS_ProJacketST_BLACK",
+                "FS_ProJacketST_MONOLIT"
+            ]
+        },
+        {
+            "ClassName": "FS_ClearSkyType2_Blue",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_ClearSkyType2_Green"
+            ]
+        },
+        {
+            "ClassName": "FS_ClearSkyType2NH_Blue",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_ClearSkyType2NH_Green"
+            ]
+        },
+        {
+            "ClassName": "FS_ClearSkyType2_Pants_Blue",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_ClearSkyType2_Pants_Green"
+            ]
+        },
+        {
+            "ClassName": "FS_ClearSkyType3",
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 1300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_ClearSkyType4_Jacket",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_ClearSkyType4_Pants",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_ExoTypeJacket_Standart",
+            "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_ExoTypePants_Standart",
+            "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_Naem_Jacket_Standart",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_Naem_Jacket_BlueCamo",
+                "FS_Naem_Jacket_GreenCamo",
+                "FS_Naem_Jacket_CamoSword",
+                "FS_Naem_Jacket_CamoNRF",
+                "FS_Naem_Jacket_CamoUK",
+                "FS_Naem_Jacket_CamoUS"
+            ]
+        },
+        {
+            "ClassName": "FS_Naem_Pants_Standart",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_Naem_Pants_BlueCamo",
+                "FS_Naem_Pants_GreenCamo",
+                "FS_Naem_Pants_CamoSword",
+                "FS_Naem_Pants_CamoNRF",
+                "FS_Naem_Pants_CamoUK",
+                "FS_Naem_Pants_CamoUS"
+            ]
+        },
+        {
+            "ClassName": "FS_RangerJacket_Green",
+            "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_RangerPants_green",
+            "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_RF_Jacket_VKPO",
+            "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_RusVKPO_jacket",
+            "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_RusVKPO_Pants",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_Posednev_Combez_Odinocka",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_Posednev_Combez_DOLG",
+                "FS_Posednev_Combez_Monolit",
+                "FS_Posednev_Combez_SVOBODA",
+                "FS_Posednev_Combez_WarEcolog"
+            ]
+        },
+        {
+            "ClassName": "FS_BomberJack_Neitral",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_BomberJack_DOLG",
+                "FS_BomberJack_Monolit",
+                "FS_BomberJack_SVOBODA",
+                "FS_BomberJack_Bandos",
+                "FS_BomberJack_Brown",
+                "FS_BomberJack_black",
+                "FS_BomberJack_Green",
+                "FS_BomberJack_blue"
+            ]
+        },
+        {
+            "ClassName": "FS_FX01_up_DOLG",
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 3100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_FX01_up_FIDOv",
+                "FS_FX01_up_ClearSky",
+                "FS_FX01_up_FX01_Neitral",
+                "FS_FX01_up_FX01_Naim",
+                "FS_FX01_up_FX01_Svoboda",
+                "FS_FX01_up_Monolit"
+            ]
+        },
+        {
+            "ClassName": "FS_FX01_Down_DOLG",
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 3100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_FX01_Down_FIDOv",
+                "FS_FX01_Down_ClearSky",
+                "FS_FX01_Down_FX01_Neitral",
+                "FS_FX01_Down_FX01_Naim",
+                "FS_FX01_Down_FX01_Svoboda",
+                "FS_FX01_Down_Monolit"
+            ]
+        }
+    ]
+}

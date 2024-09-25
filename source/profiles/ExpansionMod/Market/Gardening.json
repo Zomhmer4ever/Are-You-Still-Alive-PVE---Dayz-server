@@ -1,0 +1,258 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_GARDENING",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "CP_EmptyBag",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_PlasticRoll",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_PlasticWrapper",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_Bagger",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_Workbench_Kit",
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 29000,
+            "SellPricePercent": 1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_DryPost_Kit",
+            "MaxPriceThreshold": 22000,
+            "MinPriceThreshold": 21000,
+            "SellPricePercent": 1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "gardenlime",
+            "MaxPriceThreshold": 148,
+            "MinPriceThreshold": 144,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CJ_GardenLime_1",
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 136,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "CJ_GardenLime_2",
+                "CJ_GardenLime_3",
+                "CJ_GardenLime_4"
+            ]
+        },
+        {
+            "ClassName": "pepperseeds",
+            "MaxPriceThreshold": 38,
+            "MinPriceThreshold": 34,
+            "SellPricePercent": 2.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "tomatoseeds",
+            "MaxPriceThreshold": 38,
+            "MinPriceThreshold": 34,
+            "SellPricePercent": 2.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "zucchiniseeds",
+            "MaxPriceThreshold": 42,
+            "MinPriceThreshold": 36,
+            "SellPricePercent": 2.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "pumpkinseeds",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 110,
+            "SellPricePercent": 2.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Msp_PlanterBox",
+            "MaxPriceThreshold": 26000,
+            "MinPriceThreshold": 24500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Msp_SquarePlanterBox",
+            "MaxPriceThreshold": 25500,
+            "MinPriceThreshold": 24000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Msp_Greenhouse_Kit",
+            "MaxPriceThreshold": 150000,
+            "MinPriceThreshold": 147000,
+            "SellPricePercent": 15.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Msp_Greenhouse_White_Kit",
+                "Msp_Greenhouse_Vanilla_Kit"
+            ]
+        },
+        {
+            "ClassName": "Msp_WaterBarrel",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Msp_WaterBarrel_Darkwood"
+            ]
+        },
+        {
+            "ClassName": "Msp_WaterBarrel_Plastic",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Msp_WaterBarrel_Plastic_Yellow",
+                "Msp_WaterBarrel_Plastic_Green",
+                "Msp_WaterBarrel_Plastic_Red",
+                "Msp_WaterBarrel_Plastic_Black",
+                "Msp_WaterBarrel_Plastic_White"
+            ]
+        },
+        {
+            "ClassName": "Msp_WaterBarrel_Valve",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Msp_WaterBarrel_Valve_Darkwood"
+            ]
+        },
+        {
+            "ClassName": "Msp_WaterBarrel_Valve_Faucet",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 950,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Msp_Gazebo_Kit",
+            "MaxPriceThreshold": 118000,
+            "MinPriceThreshold": 116500,
+            "SellPricePercent": 15.0,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Msp_FireplaceRailing",
+            "MaxPriceThreshold": 7000,
+            "MinPriceThreshold": 6800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

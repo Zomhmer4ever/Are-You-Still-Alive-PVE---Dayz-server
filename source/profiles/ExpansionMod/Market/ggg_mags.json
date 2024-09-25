@@ -1,0 +1,144 @@
+{
+  "m_Version": 12,
+  "DisplayName": "G3 - MAGS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "Mag_GGG_MK14_20Rnd",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 85,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_Arbiter_450_Mag",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 85,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_Arbiter_450_10Mag",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 85,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_Arbiter_12ga_Mag",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 85,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_MCXSpear_25rnd_Black",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 85,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GGG_MCXSpear_25rnd_Tan"
+      ]
+    },
+    {
+      "ClassName": "GGG_SMG2000_Magazine",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 85,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_Mag_KS23K_7Rnd",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 85,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_M1014_Magazine",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 85,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_MGV_Mag",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 85,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_TREXS_Mag",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 85,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_RM277_Mag",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 85,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_AMERICAN180_Magazine",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 85,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ],
+  "SortByDisplayName": false
+}

@@ -1,0 +1,160 @@
+{
+    "m_Version": 12,
+    "DisplayName": "FS - HATS AND HELMETS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "FS_ProARM_Helm_Naem",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_ProARM_Helm_DOLG",
+                "FS_ProARM_Helm_Svoboda"
+            ]
+        },
+        {
+            "ClassName": "FS_Maniac",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_SportHat",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_Baril_Helm",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FS_BalaklavaSkull",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_SKULL_Balaclava"
+            ]
+        },
+        {
+            "ClassName": "FS_TOX_HeadGear_orange",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_TOX_HeadGear_green",
+                "FS_TOX_HeadGear_Blue",
+                "FS_TOX_HeadGear_black"
+            ]
+        },
+        {
+            "ClassName": "FS_BulatHelm_Grey",
+            "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_BulatHelm_Camo",
+                "FS_BulatHelm_Dolg"
+            ]
+        },
+        {
+            "ClassName": "FS_BulatHelmFilter_Grey",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_BulatHelmFilter_Camo",
+                "FS_BulatHelmFilter_Dolg"
+            ]
+        },
+        {
+            "ClassName": "FS_ExoStorm_Helm_bandit",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_ExoStorm_Helm_DOLG",
+                "FS_ExoStorm_Helm_Svoboda",
+                "FS_ExoStorm_Helm_Monolit",
+                "FS_ExoStorm_Helm_specnaz",
+                "FS_ExoStorm_Helm_tank",
+                "FS_ExoStorm_Helm_ClearSky"
+            ]
+        },
+        {
+            "ClassName": "FS_ExoStorm_HelmNG_bandit",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 35,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FS_ExoStorm_HelmNG_DOLG",
+                "FS_ExoStorm_HelmNG_Svoboda",
+                "FS_ExoStorm_HelmNG_Monolit",
+                "FS_ExoStorm_HelmNG_specnaz",
+                "FS_ExoStorm_HelmNG_tank",
+                "FS_ExoStorm_HelmNG_ClearSky"
+            ]
+        },
+        {
+            "ClassName": "FS_ForestOldCap",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

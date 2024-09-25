@@ -1,0 +1,336 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_DRINKS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "sodacan_kvass",
+      "MaxPriceThreshold": 20,
+      "MinPriceThreshold": 10,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "waterbottle",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 15,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "canteen",
+      "MaxPriceThreshold": 36,
+      "MinPriceThreshold": 18,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "MC_Canteen_3L",
+      "MaxPriceThreshold": 110,
+      "MinPriceThreshold": 85,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_Canteen_OD",
+      "MaxPriceThreshold": 66,
+      "MinPriceThreshold": 38,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MVS_Canteen_ERDL",
+        "MVS_Canteen_Tan",
+        "MVS_Canteen_Black",
+        "MVS_Canteen_Snow",
+        "MVS_Canteen_Multicam",
+        "MVS_Canteen_Multicam_Tropic",
+        "MVS_Canteen_Multicam_Black"
+      ]
+    },
+    {
+      "ClassName": "vodka",
+      "MaxPriceThreshold": 44,
+      "MinPriceThreshold": 22,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionmilkbottle",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 15,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "MFP_ClassicCoke",
+      "MaxPriceThreshold": 15,
+      "MinPriceThreshold": 13,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Bottle_Cola",
+        "Cola_Cherry",
+        "Cola_Light",
+        "MFP_CokeZero",
+        "sodacan_cola",
+        "Cola"
+      ]
+    },
+    {
+      "ClassName": "MFP_Water2",
+      "MaxPriceThreshold": 15,
+      "MinPriceThreshold": 13,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "MonsterEnergy1",
+      "MaxPriceThreshold": 15,
+      "MinPriceThreshold": 13,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MonsterEnergy2",
+        "MonsterEnergy3",
+        "MonsterEnergy4",
+        "MonsterEnergy5",
+        "MonsterEnergy6",
+        "MonsterEnergy7",
+        "MonsterEnergy8"
+      ]
+    },
+    {
+      "ClassName": "MTN_Dew",
+      "MaxPriceThreshold": 15,
+      "MinPriceThreshold": 13,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MTN_Dew2",
+        "MFP_BajaBlast",
+        "MFP_CodeRed",
+        "MFP_LiveWire",
+        "MFP_MtnDew"
+      ]
+    },
+    {
+      "ClassName": "Pepsi",
+      "MaxPriceThreshold": 15,
+      "MinPriceThreshold": 13,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Pepsi2",
+        "Pepsi_Light",
+        "MFP_Pepsi",
+        "MFP_PepsiMax",
+        "sodacan_pipsi",
+        "Bottle_Pepsi"
+      ]
+    },
+    {
+      "ClassName": "Fanta",
+      "MaxPriceThreshold": 15,
+      "MinPriceThreshold": 13,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "sodacan_fronta",
+        "MFP_Faygo2"
+      ]
+    },
+    {
+      "ClassName": "Sprite",
+      "MaxPriceThreshold": 15,
+      "MinPriceThreshold": 13,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "sodacan_spite"
+      ]
+    },
+    {
+      "ClassName": "MFP_DrPepper",
+      "MaxPriceThreshold": 15,
+      "MinPriceThreshold": 13,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "MFP_V8Juice",
+      "MaxPriceThreshold": 15,
+      "MinPriceThreshold": 13,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "MFP_OrangeSoda",
+      "MaxPriceThreshold": 15,
+      "MinPriceThreshold": 13,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "MFP_LaCroix",
+      "MaxPriceThreshold": 15,
+      "MinPriceThreshold": 13,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "MFP_RootBeer",
+      "MaxPriceThreshold": 15,
+      "MinPriceThreshold": 13,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "MFP_NitroBrew",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 13,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "MFP_BasicBeer",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 13,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MFP_LiteBeer",
+        "MFP_IPABeer",
+        "MFP_Pilsner",
+        "MFP_Guinness",
+        "MFP_DuffBeer",
+        "MFP_TropicalBeer"
+      ]
+    },
+    {
+      "ClassName": "MC_SodaCan_FullFood",
+      "MaxPriceThreshold": 885,
+      "MinPriceThreshold": 865,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "MC_SodaCan_Energetico",
+      "MaxPriceThreshold": 865,
+      "MinPriceThreshold": 845,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "MC_SodaCan_Onster",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 18,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "MC_SodaCan_KuperBock",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 18,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MC_SodaCan_KuperBock_Preta",
+        "MC_SodaCan_KuperBock_Zero"
+      ]
+    }
+  ]
+}

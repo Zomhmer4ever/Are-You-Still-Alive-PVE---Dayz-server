@@ -1,0 +1,499 @@
+{
+  "m_Version": 12,
+  "DisplayName": "HEAVY WEAPONS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "A2KSVK",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2M60E4",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2M240",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2AS50",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2M107",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2M249",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2MK48",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUAlligator",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_AWM_GUN",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_AS50_GUN",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUGM6Lynx",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_M300BK",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SNAFU_M300TAN",
+        "SNAFU_M300Green"
+      ]
+    },
+    {
+      "ClassName": "SNAFU_M200SNOW",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SNAFU_M200Green"
+      ]
+    },
+    {
+      "ClassName": "SNAFUM96",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_U100",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUVSSK",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUTac21",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUM24_GUN",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUSRSA2",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFURPD",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_MAR10_Black_GUN",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUGevar_Black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SNAFUGevar_Green",
+        "SNAFUGevar_Grey",
+        "SNAFUGevar_Tan"
+      ]
+    },
+    {
+      "ClassName": "SNAFUDVL10M2",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUT5000_Dkmcc_GUN",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SNAFUT5000_Snow_GUN",
+        "SNAFUT5000_Wood_GUN"
+      ]
+    },
+    {
+      "ClassName": "SNAFUM98B_Atac_GUN",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SNAFUM98B_Digi_GUN",
+        "SNAFUM98B_Ger_GUN",
+        "SNAFUM98B_Mc_GUN",
+        "SNAFUM98B_Snow_Gun",
+        "SNAFUM98B_Wood_GUN"
+      ]
+    },
+    {
+      "ClassName": "SNAFUASh12",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Snafu_PKP_NBlack_GUN",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Snafu_PKP_Black_GUN",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Expansion_AWM",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GCGN_M82_Barret",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GCGN_M200",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GCGN_M200_Tan"
+      ]
+    },
+    {
+      "ClassName": "GCGN_M249",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_420LMG",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_XM250",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GGG_XM250_Sig",
+        "GGG_XM250_Tan"
+      ]
+    },
+    {
+      "ClassName": "GGG_DP28",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_L86",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_MG42",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_FNEvolys",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GGG_Arbiter_450",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUKivaari_Black_GUN",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SNAFUKivaari_Grey_GUN",
+        "SNAFUKivaari_Snow_GUN",
+        "SNAFUKivaari_Tan_GUN"
+      ]
+    },
+    {
+      "ClassName": "SNAFUAX50_GUN",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2PKM",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

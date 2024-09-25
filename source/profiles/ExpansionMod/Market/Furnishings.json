@@ -1,0 +1,444 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_FURNISHINGS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "Msp_Floatie_Flamingo",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_Floatie_Unicorn_PurpleRainbow",
+        "Msp_Floatie_Unicorn_GreenRainbow",
+        "Msp_Floatie_Unicorn_BlueRainbow",
+        "Msp_Floatie_Unicorn_Rainbow",
+        "Msp_Floatie_Unicorn",
+        "Msp_Floatie_Wheel"
+      ]
+    },
+    {
+      "ClassName": "Msp_Volleyball",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 6500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_VolleyballNet_Kit",
+      "MaxPriceThreshold": 12000,
+      "MinPriceThreshold": 11500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_WoodenTable_Kit",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 14500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansiongunrack",
+      "MaxPriceThreshold": 17000,
+      "MinPriceThreshold": 15500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionstove",
+      "MaxPriceThreshold": 38000,
+      "MinPriceThreshold": 36500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_StorageBox_Kit",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 13500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_MilitaryLocker_Kit",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 23500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_Locker_Kit",
+      "MaxPriceThreshold": 23000,
+      "MinPriceThreshold": 21500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_SoloLocker_Kit",
+      "MaxPriceThreshold": 19000,
+      "MinPriceThreshold": 17500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_SoloLocker_Black_Kit",
+        "Msp_SoloLocker_White_Kit",
+        "Msp_SoloLocker_Green_Kit",
+        "Msp_SoloLocker_Red_Kit",
+        "Msp_SoloLocker_RedRusty_Kit",
+        "Msp_SoloLocker_Yellow_Kit",
+        "Msp_SoloLocker_YellowRusty_Kit"
+      ]
+    },
+    {
+      "ClassName": "Msp_OldLocker_Kit",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 16500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_OldLocker_Green_Kit"
+      ]
+    },
+    {
+      "ClassName": "Msp_FourDoor_MilitaryLocker_Kit",
+      "MaxPriceThreshold": 32000,
+      "MinPriceThreshold": 29500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_FourDoor_MilitaryLocker_Green_Kit"
+      ]
+    },
+    {
+      "ClassName": "Msp_RifleSafe_Kit",
+      "MaxPriceThreshold": 27000,
+      "MinPriceThreshold": 25500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_RifleSafe_Grey_Kit",
+        "Msp_RifleSafe_Green_Kit",
+        "Msp_RifleSafe_Purple_Kit",
+        "Msp_RifleSafe_Tan_Kit"
+      ]
+    },
+    {
+      "ClassName": "Msp_ToolsBench_Blue_Kit",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 18500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_ToolsBench_Grey_Kit",
+        "Msp_ToolsBench_Red_Kit"
+      ]
+    },
+    {
+      "ClassName": "Msp_Mailbox",
+      "MaxPriceThreshold": 24000,
+      "MinPriceThreshold": 22500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_Wardrobe_Brown_Kit",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 18500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_Wardrobe_Green_Kit",
+        "Msp_Wardrobe_White_Kit"
+      ]
+    },
+    {
+      "ClassName": "Msp_GunCabinet_Kit",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 23500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_GunRack_Kit",
+      "MaxPriceThreshold": 24000,
+      "MinPriceThreshold": 23500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_DoubleGunRack_Kit",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 29000,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_FishingRodsRack_Kit",
+      "MaxPriceThreshold": 16000,
+      "MinPriceThreshold": 14500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_WoodenGunRack_Kit",
+      "MaxPriceThreshold": 28000,
+      "MinPriceThreshold": 26500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_Gunwall_Kit",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 48500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_WaterBarrel_Stand",
+      "MaxPriceThreshold": 13000,
+      "MinPriceThreshold": 11500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_WaterBarrel_Stand_Darkwood"
+      ]
+    },
+    {
+      "ClassName": "Msp_CoffinBox",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 13500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_MoskvaFridge_Blue_Kit",
+      "MaxPriceThreshold": 19000,
+      "MinPriceThreshold": 17500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_MoskvaFridge_Cream_Kit",
+        "Msp_MoskvaFridge_Red_Kit"
+      ]
+    },
+    {
+      "ClassName": "Msp_SovietOkaFridge_Kit",
+      "MaxPriceThreshold": 18500,
+      "MinPriceThreshold": 16500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_SnowballFridge_Kit",
+      "MaxPriceThreshold": 18500,
+      "MinPriceThreshold": 16500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_StoneFireplace_Kit",
+      "MaxPriceThreshold": 25500,
+      "MinPriceThreshold": 23500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_MedievalGibbetWithMount_Kit",
+      "MaxPriceThreshold": 25500,
+      "MinPriceThreshold": 23500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_BeachChair_Kit",
+      "MaxPriceThreshold": 17500,
+      "MinPriceThreshold": 16500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_BeachUmbrella",
+      "MaxPriceThreshold": 15500,
+      "MinPriceThreshold": 14500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_BeachBall",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 8800,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_Basket_Rectangular",
+      "MaxPriceThreshold": 12000,
+      "MinPriceThreshold": 11800,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_TackleBox",
+      "MaxPriceThreshold": 14000,
+      "MinPriceThreshold": 13800,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Msp_KiddiePool_Kit",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 7500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Msp_KiddiePool_Pink_Kit",
+        "Msp_KiddiePool_Yellow_Kit"
+      ]
+    },
+    {
+      "ClassName": "Msp_MedicalBox_Kit",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 9500,
+      "SellPricePercent": 40,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

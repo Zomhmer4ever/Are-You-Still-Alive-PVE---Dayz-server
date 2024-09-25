@@ -1,0 +1,164 @@
+{
+    "m_Version": 12,
+    "DisplayName": "BLACK MARKET GUNS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MC_Mag_M4A1_FORCE",
+            "MaxPriceThreshold": 875,
+            "MinPriceThreshold": 875,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MC_Mag_M4A1_POWER",
+            "MaxPriceThreshold": 675,
+            "MinPriceThreshold": 675,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MC_Mag_Deagle_7Rnd",
+            "MaxPriceThreshold": 475,
+            "MinPriceThreshold": 475,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MC_Deagle_Edition",
+            "MaxPriceThreshold": 1275,
+            "MinPriceThreshold": 1275,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MC_M4A1_FORCE01",
+            "MaxPriceThreshold": 3275,
+            "MinPriceThreshold": 3275,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MC_M4A1_FORCE02",
+            "MaxPriceThreshold": 3275,
+            "MinPriceThreshold": 3275,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MC_M4A1_EDITION",
+            "MaxPriceThreshold": 4275,
+            "MinPriceThreshold": 4275,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MC_M4A1_EDITION02",
+            "MaxPriceThreshold": 4275,
+            "MinPriceThreshold": 4275,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MC_M4A1_EDITION03",
+            "MaxPriceThreshold": 4275,
+            "MinPriceThreshold": 4275,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MC_M4A1_EDITION04",
+            "MaxPriceThreshold": 4275,
+            "MinPriceThreshold": 4275,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MC_M4A1_EDITION05",
+            "MaxPriceThreshold": 4275,
+            "MinPriceThreshold": 4275,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MC_M4A1_C1",
+            "MaxPriceThreshold": 5275,
+            "MinPriceThreshold": 5275,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MC_M4A1_ZX",
+            "MaxPriceThreshold": 5275,
+            "MinPriceThreshold": 5275,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MC_M4A1_CMC",
+            "MaxPriceThreshold": 5275,
+            "MinPriceThreshold": 5275,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
