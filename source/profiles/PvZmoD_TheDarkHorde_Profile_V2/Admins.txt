@@ -1,4 +1,1 @@
 Add admins steamID64 (visible in steam player profile http link). One by line.
-76561198029991449
-76561199413237846
-76561198109873358
