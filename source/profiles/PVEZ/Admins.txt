@@ -1,2 +1,1 @@
 # Write admins UIDs (44 digits) below. Each one at a new line.
-76561198029991449
