@@ -2,7 +2,7 @@
   "M_DATA": [
     {
       "m_Name": "KillFeed",
-      "m_URL": "https://discord.com/api/webhooks/1000085755382747307/mdMouL_RDx2WMUIabmeAdzS4fh2XeE_9kh0q2yjtlGy8UjFjMjDhszJ2gsXwv_E0p7bT",
+      "m_URL": "",
       "m_deathKillLogs": 1,
       "m_adminActivityLog": 0,
       "m_admHitLog": 0,
@@ -13,7 +13,7 @@
     },
     {
       "m_Name": "ServerStatus",
-      "m_URL": "https://discord.com/api/webhooks/1000088235365650473/tmXwJBWKYYBNymM19ABJSqFaKwurYV02Bks3gi0r3pdqZbZ8DCpLvmFa06d9RUXqGnE3",
+      "m_URL": "",
       "m_deathKillLogs": 0,
       "m_adminActivityLog": 0,
       "m_admHitLog": 0,
@@ -24,7 +24,7 @@
     },
     {
       "m_Name": "PlayersInGame",
-      "m_URL": "https://discord.com/api/webhooks/1060765348569305098/GW8LWcCRa8q-m5LJmohBlEcl6B0uaWIojzptOo3zTgIKtN93dodHFSLVXJgBftZxDEiH",
+      "m_URL": "",
       "m_deathKillLogs": 0,
       "m_adminActivityLog": 0,
       "m_admHitLog": 0,
@@ -35,7 +35,7 @@
     },
     {
       "m_Name": "AdminLog",
-      "m_URL": "https://discord.com/api/webhooks/1063981877431640105/2bEsUpf7Yx69UKL15-_Epw4fsH-V2QbExtr87YkRLApVv8MGxmorG64wlLmnUINRC5wM",
+      "m_URL": "",
       "m_deathKillLogs": 0,
       "m_adminActivityLog": 1,
       "m_admHitLog": 0,
