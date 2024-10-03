@@ -1,0 +1,1801 @@
+{
+  "EnableDebug": 1,
+  "DeleteLogs": 0,
+  "MaxSpareMags": 2,
+  "RandomQuantity": 0,
+  "LootChestsLocations": [
+    {
+      "name": "ToxBaseRegularLoot",
+      "number": 4,
+      "pos": [
+        "8762.6 157.729 2908.11|167.76 0.000000 0.000000",
+        "8777.83 157.729 2903.66|-108.27 0.000000 0.000000",
+        "8786.76 167.757 2903.91|0.000000 0.000000 0.000000",
+        "8800.7 177.81 2907.23|0.000000 0.000000 0.000000",
+        "8785.84 177.81 2912.87|0.000000 0.000000 0.000000",
+        "8786.85 182.803 2913.11|0.000000 0.000000 0.000000",
+        "8800.03 182.803 2905.11|0.000000 0.000000 0.000000",
+        "8805.72 187.781 2913.7|0.000000 0.000000 0.000000",
+        "8808.28 207.895 2912.26|0.000000 0.000000 0.000000"
+      ],
+      "keyclass": "",
+      "openable": 2,
+      "chest": [
+        "CJ_LootChest_Wood_Brown_Medics_Small"
+      ],
+      "lootrandomize": 0,
+      "light": 1,
+      "loot": [
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Weapons_Tisy_Heli_Crash",
+        "LC_Table_Weapons_Tisy_Heli_Crash",
+        "LC_Table_Weapons_Tisy_Heli_Crash",
+        "LC_Table_Weapons_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash"
+      ]
+    },
+    {
+      "name": "ToxBaseMainMedicalLoot",
+      "number": 1,
+      "pos": [
+        "8757.2 143.324 2901.25|167.76 0.000000 0.000000",
+        "8771.32 143.534 2912.54|-108.27 0.000000 0.000000"
+      ],
+      "keyclass": "",
+      "openable": 2,
+      "chest": [
+        "CJ_LootChest_Wood_Brown_Medics_Small"
+      ],
+      "lootrandomize": 0,
+      "light": 1,
+      "loot": [
+        "LC_Table_ToxBase_MainMedicalLoot",
+        "LC_Table_ToxBase_MainMedicalLoot",
+        "LC_Table_ToxBase_MainMedicalLoot",
+        "LC_Table_ToxBase_MainMedicalLoot",
+        "LC_Table_ToxBase_MainMedicalLoot",
+        "LC_Table_ToxBase_MainMedicalLoot",
+        "LC_Table_ToxBase_MainMedicalLoot",
+        "LC_Table_ToxBase_MainMedicalLoot",
+        "LC_Table_ToxBase_MainMedicalLoot",
+        "LC_Table_ToxBase_MainMedicalLoot"
+      ]
+    },
+    {
+      "name": "ToxBaseMainHardwareLoot",
+      "number": 1,
+      "pos": [
+        "8762.05 143.16 2911.36|-99.3602 0.000000 0.000000",
+        "8765.3 143.359 2905.48|-10.5299 0.000000 0.000000"
+      ],
+      "keyclass": "",
+      "openable": 2,
+      "chest": [
+        "CJ_LootChest_Wood_Brown_Medics_Small"
+      ],
+      "lootrandomize": 0,
+      "light": 1,
+      "loot": [
+        "LC_Table_ToxBase_MainHardwareLoot",
+        "LC_Table_ToxBase_MainHardwareLoot",
+        "LC_Table_ToxBase_MainHardwareLoot",
+        "LC_Table_ToxBase_MainHardwareLoot",
+        "LC_Table_ToxBase_MainHardwareLoot",
+        "LC_Table_ToxBase_MainHardwareLoot",
+        "LC_Table_ToxBase_MainHardwareLoot",
+        "LC_Table_ToxBase_MainHardwareLoot",
+        "LC_Table_ToxBase_MainHardwareLoot",
+        "LC_Table_ToxBase_MainHardwareLoot"
+      ]
+    },
+    {
+      "name": "Trainyard Lootchest2",
+      "number": 0,
+      "pos": [
+        "931.621 182.219 7568.23|-116.1 0.000000 0.000000"
+      ],
+      "keyclass": "CJ_Key10",
+      "openable": 0,
+      "chest": [
+        "CJ_LootChest_Wood_Brown_Medics_Small"
+      ],
+      "lootrandomize": 0,
+      "light": 0,
+      "loot": [
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2"
+      ]
+    },
+    {
+      "name": "Trainyard Lootchest",
+      "number": 1,
+      "pos": [
+        "930.146 182.219 7576.09|-116.1 0.000000 0.000000",
+        "3451.81 221.415 12496.9|260 0.000000 0.000000",
+        "7765.64 141.28 12408.7|100 0.000000 0.000000",
+        "13986.2 4.56739 13409.6|255 0.000000 0.000000",
+        "13030.6 7.26372 10309.4|75 0.000000 0.000000",
+        "12935 7.28229 9990.68|75 0.000000 0.000000",
+        "10162.2 7.29387 2071.96|75 0.000000 0.000000"
+      ],
+      "keyclass": "CJ_Key10",
+      "openable": 0,
+      "chest": [
+        "CJ_LootChest_Wood_Brown_Medics_Small"
+      ],
+      "lootrandomize": 0,
+      "light": 0,
+      "loot": [
+        "LC_Table_Trainyard",
+        "LC_Table_Trainyard",
+        "LC_Table_Trainyard",
+        "LC_Table_Trainyard",
+        "LC_Table_Trainyard",
+        "LC_Table_Trainyard",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2",
+        "LC_Table_Trainyard2"
+      ]
+    },
+    {
+      "name": "Tisy Bunker",
+      "number": 4,
+      "pos": [
+        "1077.7 454.41 14564|00.000000 0.000000 0.000000",
+        "1097.2 455.43 14581|00.000000 0.000000 0.000000",
+        "1108.5 454.40 14592|00.000000 0.000000 0.000000",
+        "1129 455.35 14610|00.000000 0.000000 0.000000",
+        "1125.4 454.42 14600|00.000000 0.000000 0.000000",
+        "1155.5 457.85 14597|00.000000 0.000000 0.000000",
+        "1172 454.40 14579|00.000000 0.000000 0.000000",
+        "1212.9 464.4 14530|00.000000 0.000000 0.000000",
+        "1204.5 465.4 14556|00.000000 0.000000 0.000000",
+        "1187.4 465.38 14556|00.000000 0.000000 0.000000"
+      ],
+      "keyclass": "",
+      "openable": 2,
+      "chest": [
+        "CJ_LootChest_Brown_Medium"
+      ],
+      "lootrandomize": 0.5,
+      "light": 1,
+      "loot": [
+        "LC_Table_Gear_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Weapons_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Weapons_Army",
+        "LC_Table_Weapons_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash"
+      ]
+    },
+    {
+      "name": "Tisy Bunker Lab",
+      "number": 1,
+      "pos": [
+        "1069.1 455.42 14559|30.000000 0.000000 0.000000"
+      ],
+      "keyclass": "CJ_Key12",
+      "openable": 0,
+      "chest": [
+        "CJ_LootChest_Brown_Small"
+      ],
+      "lootrandomize": 0,
+      "light": 1,
+      "loot": [
+        "LC_Table_TisyBunkerLab"
+      ]
+    },
+    {
+      "name": "Tisy Lab",
+      "number": 1,
+      "pos": [
+        "1691.8 449.24 14210|90.000000 0.000000 0.000000"
+      ],
+      "keyclass": "CJ_Key12",
+      "openable": 0,
+      "chest": [
+        "CJ_LootChest_Brown_Small"
+      ],
+      "lootrandomize": 0,
+      "light": 1,
+      "loot": [
+        "LC_Table_TisyLab",
+        "LC_Table_TisyLab",
+        "LC_Table_TisyLab"
+      ]
+    },
+    {
+      "name": "Suit_Chest",
+      "number": 1,
+      "pos": [
+        "13257.1 43.0117 3185.83|0.000000 0.000000 0.000000"
+      ],
+      "keyclass": "CJ_Key7",
+      "openable": 2,
+      "chest": [
+        "CJ_LootChest_Grey_Large"
+      ],
+      "lootrandomize": 0,
+      "light": 0,
+      "loot": [
+        "LC_Table_Suit"
+      ]
+    },
+    {
+      "name": "Suit_Gear",
+      "number": 1,
+      "pos": [
+        "13250.8 41.80 3190.46|0.000000 0.000000 0.000000"
+      ],
+      "keyclass": "CJ_Key7",
+      "openable": 2,
+      "chest": [
+        "CJ_LootChest_Grey_Large"
+      ],
+      "lootrandomize": 0,
+      "light": 0,
+      "loot": [
+        "LC_Table_SuitGear",
+        "LC_Table_SuitGear",
+        "LC_Table_SuitGear",
+        "LC_Table_SuitGear",
+        "LC_Table_SuitGear",
+        "LC_Table_SuitGear",
+        "LC_Table_SuitGear",
+        "LC_Table_SuitGear",
+        "LC_Table_SuitGear",
+        "LC_Table_SuitGear"
+      ]
+    },
+    {
+      "name": "Police_Station",
+      "number": 12,
+      "pos": [
+        "10159.658203 248.123947 5535.251953|73.000000 0.000000 0.000000",
+        "7171.111328 297.695251 7665.231934|105.000000 0.000000 0.000000",
+        "3727.686035 316.122742 8927.639648|175.000000 0.000000 0.000000",
+        "12926.831055 10.550884 10186.833008|22.000013 0.000000 0.000000",
+        "11189.499023 80.829300 6584.723145|169.000000 0.000000 0.000000",
+        "12059.833008 10.304878 3608.267090|171.000031 0.000000 0.000000",
+        "6198.258789 30.321812 2926.393555|-17.000006 0.000000 0.000000",
+        "3567.580566 11.586082 2427.774658|-109.999977 0.000000 0.000000",
+        "3417.832031 197.279114 13017.602539|-179.999985 0.000000 0.000000",
+        "11070.241211 231.445389 12492.506836|-179.999985 0.000000 0.000000",
+        "9526.146484 307.282898 8794.582031|-80.000008 0.000000 0.000000",
+        "6008.397949 272.065582 10346.954102|-54.999992 0.000000 0.000000",
+        "5873.620605 142.514694 4677.905273|75.000000 0.000000 0.000000",
+        "12059.100586 57.877831 9062.099609|125.999931 0.000000 0.000000",
+        "10453.572266 10.114004 2265.474854|146.000000 0.000000 0.000000",
+        "6639.016602 11.379785 2586.176514|-140.000076 0.000000 0.000000",
+        "2733.562256 210.629990 5365.293457|102.000000 0.000000 0.000000",
+        "7731.557129 122.464310 12633.254883|2.000000 0.000000 0.000000",
+        "11494.372070 50.491722 14487.472656|-19.000006 0.000000 0.000000",
+        "13840.222656 24.684565 13216.027344|-152.999969 0.000000 0.000000"
+      ],
+      "keyclass": "CJ_Key1",
+      "openable": 2,
+      "chest": [
+        "CJ_LootChest_Grey_Large"
+      ],
+      "lootrandomize": 0.5,
+      "light": 0,
+      "loot": [
+        "LC_Table_Weapons_Police",
+        "LC_Table_Weapons_Police",
+        "LC_Table_Weapons_Police",
+        "LC_Table_Magazines_Police",
+        "LC_Table_Magazines_Police",
+        "LC_Table_Magazines_Police",
+        "LC_Table_Magazines_Police",
+        "LC_Table_Magazines_Police",
+        "LC_Table_Magazines_Police",
+        "LC_Table_Magazines_Police",
+        "LC_Table_Magazines_Police",
+        "LC_Table_Attachments_Police",
+        "LC_Table_Attachments_Police",
+        "LC_Table_Attachments_Police",
+        "LC_Table_Gear_Police",
+        "LC_Table_Gear_Police",
+        "LC_Table_Gear_Police",
+        "LC_Table_Ammo_Police",
+        "LC_Table_Ammo_Police",
+        "LC_Table_Ammo_Police",
+        "LC_Table_Ammo_Police",
+        "LC_Table_Ammo_Police",
+        "LC_Table_Ammo_Police",
+        "LC_Table_Ammo_Police",
+        "LC_Table_Ammo_Police",
+        "LC_Table_Ammo_Police",
+        "LC_Table_Ammo_Police",
+        "LC_Table_Ammo_Police",
+        "LC_Table_Ammo_Police",
+        "LC_Table_Ammo_Police",
+        "LC_Table_Ammo_Police",
+        "Hel_MagazineLoading_Case|0.15"
+      ]
+    },
+    {
+      "name": "Military_Barracks",
+      "number": 5,
+      "pos": [
+        "2444.875488 191.563004 5173.291992|-11.000003 0.000000 0.000000",
+        "2448.722656 191.563492 5174.022949|-10.000004 0.000000 0.000000",
+        "5072.559082 9.870992 2316.433594|-37.000004 0.000000 0.000000",
+        "5073.362793 9.871407 2313.224609|-126.999947 0.000000 0.000000",
+        "5075.554199 9.871837 2310.354248|-126.999947 0.000000 0.000000",
+        "5076.887695 9.872031 2309.535400|144.000046 0.000000 0.000000",
+        "5079.587402 9.872064 2311.555664|144.000000 0.000000 0.000000",
+        "5079.501465 9.871965 2312.370117|52.000000 0.000000 0.000000",
+        "5078.832520 9.871845 2312.539307|-36.000004 0.000000 0.000000",
+        "5075.380371 9.871483 2313.949707|52.000000 0.000000 0.000000",
+        "5074.262695 9.871231 2315.432617|52.000000 0.000000 0.000000",
+        "1378.367310 453.830231 13788.160156|-137.000092 0.000000 0.000000",
+        "1374.214233 453.829346 13793.956055|-45.000000 0.000000 0.000000",
+        "1497.252197 460.964081 14432.336914|-134.999969 0.000000 0.000000",
+        "1498.279663 460.963409 14434.105469|44.000000 0.000000 0.000000"
+      ],
+      "keyclass": "CJ_Key4",
+      "openable": 2,
+      "chest": [
+        "CJ_LootChest_Green_Large"
+      ],
+      "lootrandomize": 0.5,
+      "light": 0,
+      "loot": [
+        "LC_Table_Weapons_Army",
+        "LC_Table_Weapons_Army",
+        "LC_Table_Weapons_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "Hel_MagazineLoading_Case|0.15"
+      ]
+    },
+    {
+      "name": "Military_Garages",
+      "number": 4,
+      "pos": [
+        "1681.032593 445.728241 13820.751953|-147.000031 0.000000 0.000000",
+        "1680.899414 445.728241 13823.093750|150.000031 0.000000 0.000000",
+        "1672.767090 445.728241 13826.116211|-146.000031 0.000000 0.000000",
+        "1674.320435 445.611603 13882.272461|-143.999985 0.000000 0.000000",
+        "1675.671021 445.611603 13884.783203|-146.000031 0.000000 0.000000",
+        "1674.814209 445.611603 13883.576172|35.000004 0.000000 0.000000",
+        "1533.218994 452.562866 14173.122070|44.000000 0.000000 0.000000",
+        "1536.043457 452.562866 14174.115234|108.999985 0.000000 0.000000",
+        "1534.280396 452.562866 14176.896484|19.000006 0.000000 0.000000"
+      ],
+      "keyclass": "CJ_Key4",
+      "openable": 2,
+      "chest": [
+        "CJ_LootChest_Green_Large"
+      ],
+      "lootrandomize": 0.5,
+      "light": 0,
+      "loot": [
+        "LC_Table_Weapons_Army",
+        "LC_Table_Weapons_Army",
+        "LC_Table_Weapons_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Extra"
+      ]
+    },
+    {
+      "name": "Military_NWA",
+      "number": 0,
+      "pos": [
+        "4631.199707 358.901947 10431.161133|151.000000 0.000000 0.000000",
+        "4631.066406 358.901947 10432.836914|61.000000 0.000000 0.000000",
+        "4627.152344 358.901947 10429.287109|-179.999985 0.000000 0.000000",
+        "4626.061035 358.901947 10434.176758|-45.999996 0.000000 0.000000",
+        "4627.261230 358.901947 10435.056641|58.999989 0.000000 0.000000",
+        "4628.774902 353.501953 10434.775391|-29.000008 0.000000 0.000000",
+        "4630.277832 353.501953 10427.303711|151.999954 0.000000 0.000000",
+        "4626.935547 353.501953 10425.405273|178.000000 0.000000 0.000000",
+        "4625.054688 354.190002 10426.960938|-120.999947 0.000000 0.000000",
+        "4625.797852 353.501953 10434.926758|-118.999962 0.000000 0.000000",
+        "4625.471191 353.501953 10438.436523|-28.000010 0.000000 0.000000",
+        "4629.190430 353.501953 10440.447266|-27.000010 0.000000 0.000000",
+        "4630.361816 353.501953 10437.294922|149.000031 0.000000 0.000000",
+        "4630.823242 354.190002 10440.361328|74.000000 0.000000 0.000000",
+        "4628.530273 354.320007 10436.327148|151.999954 0.000000 0.000000",
+        "4631.027344 353.501953 10436.036133|-30.000006 0.000000 0.000000",
+        "4632.311035 353.501953 10432.673828|-119.999954 0.000000 0.000000",
+        "4633.523926 353.501953 10431.586914|-179.999985 0.000000 0.000000",
+        "4635.717773 353.501953 10432.177734|60.999996 0.000000 0.000000",
+        "4635.249512 348.801941 10430.154297|150.000031 0.000000 0.000000",
+        "4632.956543 349.619995 10429.749023|61.000015 0.000000 0.000000",
+        "4628.277344 348.801941 10430.477539|-118.999962 0.000000 0.000000",
+        "4633.834961 348.801941 10434.566406|0.000000 0.000000 0.000000",
+        "4633.154297 348.801941 10436.468750|61.000000 0.000000 0.000000",
+        "4626.703125 348.801941 10437.722656|-85.000008 0.000000 0.000000",
+        "4628.903809 348.801941 10434.705078|103.000000 0.000000 0.000000",
+        "4623.528809 348.801941 10428.510742|-118.999962 0.000000 0.000000",
+        "4625.841309 348.801941 10430.775391|22.000011 0.000000 0.000000",
+        "4627.962891 348.801941 10425.911133|150.999954 0.000000 0.000000",
+        "4637.995605 344.100952 10433.301758|-146.999954 0.000000 0.000000",
+        "4635.070801 344.101929 10432.069336|121.000107 0.000000 0.000000",
+        "4628.407227 344.101929 10427.216797|149.999954 0.000000 0.000000",
+        "4624.485840 344.101929 10430.122070|-27.000008 0.000000 0.000000",
+        "4631.513184 344.101929 10436.412109|147.000015 0.000000 0.000000",
+        "4629.962891 344.929993 10440.123047|74.000000 0.000000 0.000000",
+        "4625.235840 344.101929 10436.434570|-69.999977 0.000000 0.000000",
+        "4630.390625 339.601929 10448.742188|149.999954 0.000000 0.000000",
+        "4628.057129 339.601929 10448.896484|-119.999954 0.000000 0.000000",
+        "4626.399902 339.601929 10451.931641|-117.999969 0.000000 0.000000",
+        "4627.152344 339.601929 10447.729492|60.999996 0.000000 0.000000",
+        "4622.899414 339.601929 10445.906250|90.000000 0.000000 0.000000",
+        "4623.770508 339.601929 10448.560547|-118.999962 0.000000 0.000000",
+        "4635.187500 339.401947 10432.847656|59.999992 0.000000 0.000000",
+        "4629.225586 339.401947 10432.300781|-29.000008 0.000000 0.000000",
+        "4628.362793 339.401947 10426.458984|-179.999985 0.000000 0.000000",
+        "4628.377930 339.790009 10436.510742|127.000092 0.000000 0.000000",
+        "4661.801758 343.901337 9584.560547|-179.999985 0.000000 0.000000",
+        "4658.030762 343.901337 9584.538086|-179.999985 0.000000 0.000000",
+        "4656.305176 343.901337 9586.261719|-89.999969 0.000000 0.000000",
+        "4656.087402 343.901337 9589.561523|-89.999969 0.000000 0.000000",
+        "4656.237305 343.901337 9595.236328|-89.999969 0.000000 0.000000",
+        "4661.687500 343.901337 9600.436523|0.000000 0.000000 0.000000",
+        "4664.986328 343.901337 9600.407227|0.000000 0.000000 0.000000",
+        "4668.638184 343.901337 9600.445313|0.000000 0.000000 0.000000",
+        "4670.494629 344.598999 9600.383789|85.000008 0.000000 0.000000",
+        "4669.879395 343.901337 9596.613281|-179.999985 0.000000 0.000000",
+        "4669.712402 343.901337 9595.420898|0.000000 0.000000 0.000000",
+        "4670.347168 343.901337 9591.580078|90.000000 0.000000 0.000000",
+        "4669.900879 343.901337 9589.482422|0.000000 0.000000 0.000000",
+        "4666.040039 343.901337 9589.500977|0.000000 0.000000 0.000000",
+        "4668.497070 343.901337 9584.447266|-179.999985 0.000000 0.000000",
+        "4670.393555 344.601166 9584.577148|175.000031 0.000000 0.000000",
+        "4670.438477 343.901337 9586.748047|90.000000 0.000000 0.000000",
+        "4664.114746 343.901337 9586.615234|-89.999969 0.000000 0.000000",
+        "4664.223145 344.601166 9584.783203|-84.999977 0.000000 0.000000",
+        "4656.136230 339.885742 9595.776367|0.000000 0.000000 0.000000",
+        "4656.142090 339.885742 9594.630859|-89.999969 0.000000 0.000000",
+        "4656.110840 339.885742 9591.089844|-89.999969 0.000000 0.000000",
+        "4656.130859 339.885742 9589.510742|-89.999969 0.000000 0.000000",
+        "4656.371094 339.885742 9586.527344|-100.999985 0.000000 0.000000",
+        "4658.066895 339.885742 9584.667969|-179.999985 0.000000 0.000000",
+        "4659.239258 340.585571 9600.361328|85.000008 0.000000 0.000000",
+        "4656.160156 339.885742 9599.896484|-89.999969 0.000000 0.000000",
+        "4670.489746 339.885742 9597.993164|90.000000 0.000000 0.000000",
+        "4670.522461 339.885742 9595.579102|90.000000 0.000000 0.000000",
+        "4664.217285 339.885742 9598.754883|-89.999969 0.000000 0.000000",
+        "4667.161133 339.885742 9592.023438|0.000000 0.000000 0.000000",
+        "4669.380371 339.885742 9592.039063|0.000000 0.000000 0.000000",
+        "4670.634277 339.885742 9588.083008|90.000000 0.000000 0.000000",
+        "4664.239746 339.885742 9586.351563|-89.999969 0.000000 0.000000",
+        "4664.281738 340.589996 9584.829102|-84.999977 0.000000 0.000000",
+        "4668.504883 339.885742 9587.001953|-54.999989 0.000000 0.000000"
+      ],
+      "keyclass": "CJ_Key4",
+      "openable": 2,
+      "chest": [
+        "CJ_LootChest_Green_Large"
+      ],
+      "lootrandomize": 0.5,
+      "light": 0,
+      "loot": [
+        "LC_Table_Weapons_Army",
+        "LC_Table_Weapons_Army",
+        "LC_Table_Weapons_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Extra",
+        "Hel_MagazineLoading_Case|0.15"
+      ]
+    },
+    {
+      "name": "Military_Tisy",
+      "number": 4,
+      "pos": [
+        "1676.339233 456.617462 14218.154297|-109.999977 0.000000 0.000000",
+        "1677.608765 456.617462 14220.527344|-18.000006 0.000000 0.000000",
+        "1680.506470 456.617462 14221.427734|-17.000004 0.000000 0.000000",
+        "1678.015869 456.617462 14215.965820|-17.000004 0.000000 0.000000",
+        "1686.668213 456.617462 14223.124023|74.000000 0.000000 0.000000",
+        "1690.699829 456.617462 14224.411133|0.000000 0.000000 0.000000",
+        "1690.025024 456.617462 14221.101563|161.999985 0.000000 0.000000",
+        "1691.566650 456.617462 14219.960938|0.000000 0.000000 0.000000",
+        "1692.922729 456.617462 14216.747070|0.000000 0.000000 0.000000",
+        "1693.646240 456.617462 14210.487305|163.999985 0.000000 0.000000",
+        "1690.717163 456.617462 14212.984375|-107.000031 0.000000 0.000000",
+        "1690.121826 456.617462 14209.897461|76.000000 0.000000 0.000000",
+        "1686.906738 456.617462 14210.350586|17.000006 0.000000 0.000000",
+        "1680.142334 456.617462 14212.836914|-20.000006 0.000000 0.000000",
+        "1679.501465 456.617462 14208.196289|-109.000031 0.000000 0.000000",
+        "1684.519531 456.617462 14208.335938|90.000000 0.000000 0.000000",
+        "1683.509399 456.617462 14212.163086|72.000000 0.000000 0.000000",
+        "1686.075439 452.601898 14222.955078|0.000000 0.000000 0.000000",
+        "1682.820313 452.601898 14221.575195|70.000000 0.000000 0.000000",
+        "1679.596191 452.601898 14218.387695|74.000000 0.000000 0.000000",
+        "1680.127563 452.601898 14212.785156|-18.000006 0.000000 0.000000",
+        "1686.816528 452.601898 14209.542969|74.000000 0.000000 0.000000",
+        "1681.812744 452.601898 14208.854492|18.000006 0.000000 0.000000",
+        "1687.978027 452.601898 14210.152344|-106.999985 0.000000 0.000000",
+        "1691.593994 452.601898 14209.803711|162.000000 0.000000 0.000000",
+        "1688.784424 452.601898 14221.367188|-131.000076 0.000000 0.000000",
+        "1690.913208 451.760529 14207.624023|-18.000006 0.000000 0.000000",
+        "1691.957642 451.760529 14205.632813|72.000000 0.000000 0.000000",
+        "1688.095947 448.389740 14206.417969|20.000006 0.000000 0.000000",
+        "1683.743042 448.389740 14204.210938|-107.999969 0.000000 0.000000",
+        "1680.533936 448.389740 14206.244141|-143.999985 0.000000 0.000000",
+        "1678.572876 448.389740 14212.537109|-28.000010 0.000000 0.000000",
+        "1682.254761 448.389740 14213.777344|0.000000 0.000000 0.000000",
+        "1693.604980 448.389740 14216.819336|0.000000 0.000000 0.000000",
+        "1690.969604 448.389740 14216.510742|0.000000 0.000000 0.000000",
+        "1684.001343 448.389740 14214.183594|-54.999992 0.000000 0.000000",
+        "1689.389526 448.389740 14210.178711|43.000000 0.000000 0.000000",
+        "1689.113403 448.389740 14208.592773|163.999985 0.000000 0.000000",
+        "1689.785767 448.389740 14211.365234|-136.000061 0.000000 0.000000",
+        "1692.018555 448.389740 14209.680664|-163.999954 0.000000 0.000000",
+        "1693.618408 448.389740 14206.956055|162.999954 0.000000 0.000000",
+        "1692.798828 448.389740 14208.188477|-17.000006 0.000000 0.000000",
+        "1693.564941 448.389740 14207.902344|73.000000 0.000000 0.000000"
+      ],
+      "keyclass": "CJ_Key4",
+      "openable": 2,
+      "chest": [
+        "CJ_LootChest_Green_Large"
+      ],
+      "lootrandomize": 0.5,
+      "light": 0,
+      "loot": [
+        "LC_Table_Weapons_Army",
+        "LC_Table_Weapons_Army",
+        "LC_Table_Weapons_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Magazines_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Extra",
+        "Hel_MagazineLoading_Case|0.15"
+      ]
+    },
+    {
+      "name": "Military_Tisy_HQ_Heli_Wreck",
+      "number": 2,
+      "pos": [
+        "926.17 454.76 14693|0.000000 0.000000 0.000000",
+        "927.78 454.64 14696|45 0.000000 0.000000"
+      ],
+      "keyclass": "",
+      "openable": 2,
+      "chest": [
+        "CJ_LootChest_Green_Large"
+      ],
+      "lootrandomize": 0.5,
+      "light": 0,
+      "loot": [
+        "LC_Table_Weapons_Tisy_Heli_Crash",
+        "LC_Table_Weapons_Tisy_Heli_Crash",
+        "LC_Table_Weapons_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Extra"
+      ]
+    },
+    {
+      "name": "Infected_Island_Chests",
+      "number": 4,
+      "pos": [
+        "13475 76.009 3271.1|0.000000 0.000000 0.000000",
+        "13479 76.008 3269.3|67.784 0.000000 0.000000",
+        "13510 74.162 3299.8|0 0.000000 0.000000",
+        "14210 8.9211 2920.1|0 0.000000 0.000000",
+        "14209 4.7829 2978|0 0.000000 0.000000",
+        "13393 0.5841 2842.3|0 0.000000 0.000000",
+        "13529 28.431 3057.9|0 0.000000 0.000000",
+        "13311 62.766 3236.8|0 0.000000 0.000000",
+        "13459 82.624 3299.5|0 0.000000 0.000000"
+      ],
+      "keyclass": "",
+      "openable": 2,
+      "chest": [
+        "CJ_LootChest_Green_Large"
+      ],
+      "lootrandomize": 0.5,
+      "light": 0,
+      "loot": [
+        "LC_Table_Weapons_Tisy_Heli_Crash",
+        "LC_Table_Weapons_Tisy_Heli_Crash",
+        "LC_Table_Weapons_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Extra"
+      ]
+    },
+    {
+      "name": "Survivor_Camp_Chests",
+      "number": 3,
+      "pos": [
+        "501.49 422.39 11103|0.000000 0.000000 0.000000",
+        "512.16 425.92 11114|0 0.000000 0.000000",
+        "573.83 423.12 11118|0 0.000000 0.000000",
+        "587.46 421.88 11162|48.374 0.000000 0.000000",
+        "597.25 421.82 11144|0 0.000000 0.000000",
+        "493.44 424.89 11089|0 0.000000 0.000000",
+        "497.12 422.31 11085|0 0.000000 0.000000",
+        "502.63 424.81 11103.9|0 0.000000 0.000000",
+        "498 424.81 11096|0 0.000000 0.000000",
+        "501.72 427.31 11099|0 0.000000 0.000000",
+        "526.42 421.78 11122|0 0.000000 0.000000",
+        "587.74 421.83 11129|0 0.000000 0.000000"
+      ],
+      "keyclass": "",
+      "openable": 2,
+      "chest": [
+        "CJ_LootChest_Green_Large"
+      ],
+      "lootrandomize": 0.5,
+      "light": 0,
+      "loot": [
+        "LC_Table_Weapons_Tisy_Heli_Crash",
+        "LC_Table_Weapons_Tisy_Heli_Crash",
+        "LC_Table_Weapons_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Extra"
+      ]
+    },
+    {
+      "name": "Military_Prison_Island_Heli_Wreck_n_HQ",
+      "number": 4,
+      "pos": [
+        "2778.4 29.938 1230.7|120 0.000000 0.000000",
+        "2777.3 26.105 1194.2|-10 0.000000 0.000000",
+        "2783.4 29.225 1233.1|0 0.000000 0.000000",
+        "2786 26.391 1237.6|0 0.000000 0.000000",
+        "2770.8 25.956 1224.7|42.389 0.000000 0.000000",
+        "2776.6 25.997 1198.9|0 0.000000 0.000000",
+        "2797.6 29.835 1257.2|0 0.000000 0.000000",
+        "2791.5 26.211 1249.2|0 0.000000 0.000000",
+        "2762.4 26.416 1277.1|0 0.000000 0.000000"
+      ],
+      "keyclass": "",
+      "openable": 2,
+      "chest": [
+        "CJ_LootChest_Green_Large"
+      ],
+      "lootrandomize": 0.5,
+      "light": 0,
+      "loot": [
+        "LC_Table_Weapons_Tisy_Heli_Crash",
+        "LC_Table_Weapons_Tisy_Heli_Crash",
+        "LC_Table_Weapons_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Magazines_Tisy_Heli_Crash",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Attachments_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Gear_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Ammo_Army",
+        "LC_Table_Extra",
+        "DNA_KeyCard_Blue_Inactive|0.25"
+      ]
+    }
+  ],
+  "LCPredefinedWeapons": [
+    {
+      "defname": "LC_predefined_SNAFU_M14",
+      "weapon": "SNAFU_M14",
+      "magazine": "SNAFUM1A_20rdMag",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_SNAFUMagnum500",
+      "weapon": "SNAFUMagnum500",
+      "magazine": "",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_SNAFU_Fort12_GUN",
+      "weapon": "SNAFU_Fort12_GUN",
+      "magazine": "SNAFU_Fort12_12rnd_Mag",
+      "attachments": [
+        "PistolSuppressor"
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_SNAFUAPS",
+      "weapon": "SNAFUAPS",
+      "magazine": "SNAFUAPS_20rdMag",
+      "attachments": [
+        "PistolSuppressor"
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_SNAFUUzi",
+      "weapon": "SNAFUUzi",
+      "magazine": "SNAFUUzi_72rdMag",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_SNAFU_MP9_GUN",
+      "weapon": "SNAFU_MP9_GUN",
+      "magazine": "SNAFU_MP9_30rnd_Mag",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_GCGN_BenelliM4",
+      "weapon": "GCGN_BenelliM4",
+      "magazine": "",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_Snafu_PKP_Black_GUN",
+      "weapon": "Snafu_PKP_Black_GUN",
+      "magazine": "Snafu_PKP_250RND_Mag",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_SNAFU_MPX_GUN",
+      "weapon": "SNAFU_MPX_GUN",
+      "magazine": "SNAFU_MPX_30rnd_Mag",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_SNAFURPD",
+      "weapon": "SNAFURPD",
+      "magazine": "SNAFURPD_100rdMag",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_SNAFUTAR21_Black",
+      "weapon": "SNAFUTAR21_Black",
+      "magazine": "SNAFU_BMAG556_Black",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_Snafu_ScarH_Black_GUN",
+      "weapon": "Snafu_ScarH_Black_GUN",
+      "magazine": "SNAFU_ScarH_100RND_Mag_Black",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_AK101",
+      "weapon": "AK101_Green",
+      "magazine": "Mag_AK101_30Rnd_Green",
+      "attachments": [
+        "AK_FoldingBttstck_Green",
+        "AK_RailHndgrd_Green",
+        "UniversalLight",
+        "AK_Suppressor"
+      ],
+      "optic": "PSO1Optic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_AK74",
+      "weapon": "AK74_Black",
+      "magazine": "Mag_AK74_30Rnd",
+      "attachments": [
+        "AK74_WoodBttstck",
+        "AK74_Hndgrd",
+        "AK_Bayonet"
+      ],
+      "optic": "KobraOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_AKM",
+      "weapon": "AKM_Black",
+      "magazine": "Mag_AKM_Drum75Rnd_Black",
+      "attachments": [
+        "AK_PlasticBttstck_Black",
+        "AK_PlasticHndgrd",
+        "AK_Suppressor"
+      ],
+      "optic": "PSO1Optic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_AKS74U",
+      "weapon": "AKS74U",
+      "magazine": "Mag_AK74_30Rnd",
+      "attachments": [
+        "AK_WoodBttstck",
+        "AK_Suppressor"
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_CZ527",
+      "weapon": "CZ527_Black",
+      "magazine": "Mag_CZ527_5rnd",
+      "attachments": [
+        ""
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_M4A1_GREEN",
+      "weapon": "M4A1_Green",
+      "magazine": "Mag_STANAG_30Rnd",
+      "attachments": [
+        "M4_Suppressor",
+        "M4_MPHndgrd_Green",
+        "M4_OEBttstck_Green"
+      ],
+      "optic": "M68Optic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_M4A1_BLACK",
+      "weapon": "M4A1_Black",
+      "magazine": "Mag_STANAG_30Rnd",
+      "attachments": [
+        "M4_Suppressor",
+        "M4_RISHndgrd_Black",
+        "M4_MPBttstck_Black",
+        "UniversalLight"
+      ],
+      "optic": "M4_T3NRDSOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_WINCHESTER70",
+      "weapon": "Winchester70",
+      "magazine": "",
+      "attachments": [
+        "ImprovisedSuppressor"
+      ],
+      "optic": "HuntingOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_SVD",
+      "weapon": "SVD",
+      "magazine": "Mag_SVD_10Rnd",
+      "attachments": [
+        ""
+      ],
+      "optic": "KashtanOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_UMP",
+      "weapon": "UMP45",
+      "magazine": "Mag_UMP_25Rnd",
+      "attachments": [
+        "PistolSuppressor"
+      ],
+      "optic": "ReflexOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CZ61",
+      "weapon": "CZ61",
+      "magazine": "Mag_CZ61_20Rnd",
+      "attachments": [
+        "PistolSuppressor"
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_MOSIN",
+      "weapon": "Mosin9130",
+      "magazine": "",
+      "attachments": [
+        "ImprovisedSuppressor"
+      ],
+      "optic": "PUScopeOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_SKS",
+      "weapon": "SKS",
+      "magazine": "",
+      "attachments": [
+        ""
+      ],
+      "optic": "PUScopeOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_Saiga",
+      "weapon": "Saiga",
+      "magazine": "Mag_Saiga_Drum20Rnd",
+      "attachments": [
+        "Saiga_Bttstck"
+      ],
+      "optic": "KobraOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_VSS",
+      "weapon": "VSS",
+      "magazine": "Mag_VSS_10Rnd",
+      "attachments": [
+        ""
+      ],
+      "optic": "PSO11Optic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_GLOCK19",
+      "weapon": "Glock19",
+      "magazine": "Mag_Glock_15Rnd",
+      "attachments": [
+        "TLRLight",
+        "PistolSuppressor"
+      ],
+      "optic": "FNP45_MRDSOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_CZ75",
+      "weapon": "CZ75",
+      "magazine": "Mag_CZ75_15Rnd",
+      "attachments": [
+        "TLRLight",
+        "PistolSuppressor"
+      ],
+      "optic": "FNP45_MRDSOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_Deagle",
+      "weapon": "Deagle_Gold",
+      "magazine": "Mag_Deagle_9rnd",
+      "attachments": [
+        ""
+      ],
+      "optic": "PistolOptic",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_MAGNUM",
+      "weapon": "Magnum",
+      "magazine": "",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_FNX45",
+      "weapon": "FNX45",
+      "magazine": "Mag_FNX45_15Rnd",
+      "attachments": [
+        "PistolSuppressor"
+      ],
+      "optic": "FNP45_MRDSOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_FAL",
+      "weapon": "FAL",
+      "magazine": "Mag_FAL_20Rnd",
+      "attachments": [
+        "Fal_OeBttstck"
+      ],
+      "optic": "ACOGOptic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_MP5",
+      "weapon": "MP5K",
+      "magazine": "Mag_MP5_30Rnd",
+      "attachments": [
+        "MP5k_StockBttstck",
+        "MP5_PlasticHndgrd",
+        "PistolSuppressor"
+      ],
+      "optic": "M68Optic",
+      "opticbattery": 1
+    },
+    {
+      "defname": "LC_predefined_GCGN_MP7",
+      "weapon": "GCGN_MP7",
+      "magazine": "GCGN_MP7_40Rnd",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_AA12_Gun",
+      "weapon": "AA12_Gun",
+      "magazine": "AA12_Mag",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_HK416_Gun",
+      "weapon": "HK416_Gun",
+      "magazine": "GCGN_HK416_Mag",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_Tec9_Gun",
+      "weapon": "Tec9_Gun",
+      "magazine": "Tec9_Mag",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    },
+    {
+      "defname": "LC_predefined_SNAFU_PDW_9mm",
+      "weapon": "SNAFU_PDW_9mm",
+      "magazine": "SNAFU_PDW_9mm_Mag",
+      "attachments": [
+        ""
+      ],
+      "optic": "",
+      "opticbattery": 0
+    }
+  ],
+  "LootCategories": [
+    {
+      "name": "LC_Table_Trainyard2",
+      "Loot": [
+        "BandageDressing",
+        "CJ_FieldBandage_Small",
+        "CJ_SamSplint",
+        "MC_SodaCan_FullFood",
+        "MFP_SkittlesB",
+        "MFP_ReesesPieces",
+        "MFP_ReesesCups",
+        "MFP_MilkyWay",
+        "MFP_Doritos",
+        "MFP_CheezIt",
+        "MFP_BagelBites",
+        "MC_SodaCan_KuperBock",
+        "MC_SodaCan_Energetico",
+        "MC_BakedBeansCan_Combat",
+        "MFP_Jerky_Original",
+        "Battery9V",
+        "SewingKit",
+        "Epinephrine",
+        "AntiChemInjector",
+        "Morphine",
+        "TetracyclineAntibiotics",
+        "CharcoalTablets",
+        "VitaminBottle"
+      ]
+    },
+    {
+      "name": "LC_Table_ToxBase_MainMedicalLoot",
+      "Loot": [
+        "AntiChemInjector",
+        "Propital",
+        "CJ_FieldBandage_Small",
+        "CharcoalTablets",
+        "CJ_SamSplint"
+      ]
+    },
+    {
+      "name": "LC_Table_ToxBase_MainHardwareLoot",
+      "Loot": [
+        "Zen_ArtillerySmokeGrenadeChem",
+        "Grenade_ChemGas",
+        "Ammo_40mm_ChemGas"
+      ]
+    },
+    {
+      "name": "LC_Table_Trainyard",
+      "Loot": [
+        "CP_JointSkunk",
+        "Propital",
+        "Ibuprofen"
+      ]
+    },
+    {
+      "name": "LC_Table_TisyBunkerLab",
+      "Loot": [
+        "NY_plamya",
+        "NY_myaso",
+        "NY_ribka"
+      ]
+    },
+    {
+      "name": "LC_Table_TisyLab",
+      "Loot": [
+        "PunchedCard",
+        "PunchedCard",
+        "FS_Document_1",
+        "FS_Document_1"
+      ]
+    },
+    {
+      "name": "LC_Table_Suit",
+      "Loot": [
+        "dzn_lehs"
+      ]
+    },
+    {
+      "name": "LC_Table_SuitGear",
+      "Loot": [
+        "dzn_athena3_exp1",
+        "dzn_athena_action1",
+        "dzn_athena_planning",
+        "dzn_athena_planning",
+        "dzn_lehs_battery",
+        "dzn_lehs_helmet",
+        "dzn_lehs_o2tank",
+        "dzn_lehs_helmet_visor"
+      ]
+    },
+    {
+      "name": "LC_Table_Weapons_Police",
+      "Loot": [
+        "LC_predefined_Tec9_Gun",
+        "LC_predefined_SNAFU_PDW_9mm",
+        "LC_predefined_SNAFUMagnum500",
+        "LC_predefined_SNAFU_Fort12_GUN",
+        "LC_predefined_SNAFUAPS",
+        "LC_predefined_SNAFU_MP9_GUN",
+        "LC_predefined_GLOCK19",
+        "LC_predefined_CZ75",
+        "LC_predefined_Deagle",
+        "LC_predefined_MAGNUM",
+        "LC_predefined_FNX45",
+        "LC_predefined_UMP",
+        "LC_predefined_CZ61",
+        "LC_predefined_AKS74U",
+        "LC_predefined_MP5"
+      ]
+    },
+    {
+      "name": "LC_Table_Weapons_Tisy_Heli_Crash",
+      "Loot": [
+        "LC_predefined_AA12_Gun",
+        "LC_predefined_GCGN_MP7",
+        "LC_predefined_HK416_Gun",
+        "LC_predefined_SNAFUMagnum500",
+        "LC_predefined_SNAFU_M14",
+        "LC_predefined_SNAFU_MPX_GUN",
+        "LC_predefined_SNAFUTAR21_Black",
+        "LC_predefined_SNAFURPD",
+        "LC_predefined_Snafu_ScarH_Black_GUN"
+      ]
+    },
+    {
+      "name": "LC_Table_Magazines_Tisy_Heli_Crash",
+      "Loot": [
+        "SNAFUM1A_20rdMag",
+        "GCGN_MP7_40Rnd",
+        "AA12_Mag",
+        "GCGN_HK416_Mag",
+        "SNAFU_Fort12_12rnd_Mag",
+        "SNAFUAPS_20rdMag",
+        "SNAFUUzi_32rdMag",
+        "SNAFUUzi_72rdMag",
+        "SNAFU_MP9_30rnd_Mag",
+        "Mag_CZ75_15Rnd",
+        "Mag_FNX45_15Rnd",
+        "Mag_Saiga_8Rnd",
+        "Mag_Saiga_Drum20Rnd",
+        "Mag_AK74_30Rnd",
+        "Mag_AK74_30Rnd_black",
+        "Mag_AK74_30Rnd_green",
+        "Mag_CZ527_5rnd",
+        "Mag_Glock_15Rnd",
+        "Mag_MP5_30Rnd",
+        "Mag_STANAG_30Rnd",
+        "Mag_STANAGCoupled_30Rnd",
+        "Mag_FAL_20Rnd",
+        "Mag_SVD_10Rnd",
+        "mag_vss_10rnd",
+        "Mag_AK101_30Rnd",
+        "Mag_AK101_30Rnd_black",
+        "Mag_AK101_30Rnd_green",
+        "Mag_AKM_Palm30Rnd_Green",
+        "Mag_AKM_Palm30Rnd_Black",
+        "Mag_AKM_Palm30Rnd",
+        "Mag_AKM_30Rnd",
+        "Mag_AKM_Drum75Rnd_Black",
+        "Mag_AKM_Drum75Rnd_Green"
+      ]
+    },
+    {
+      "name": "LC_Table_Weapons_Army",
+      "Loot": [
+        "LC_predefined_GLOCK19",
+        "LC_predefined_CZ75",
+        "LC_predefined_Deagle",
+        "LC_predefined_MAGNUM",
+        "LC_predefined_FNX45",
+        "LC_predefined_UMP",
+        "LC_predefined_CZ61",
+        "LC_predefined_MP5",
+        "LC_predefined_FAL",
+        "LC_predefined_VSS",
+        "LC_predefined_Saiga",
+        "LC_predefined_SKS",
+        "LC_predefined_MOSIN",
+        "LC_predefined_SVD",
+        "LC_predefined_WINCHESTER70",
+        "LC_predefined_M4A1_BLACK",
+        "LC_predefined_M4A1_GREEN",
+        "LC_predefined_CZ527",
+        "LC_predefined_AKS74U",
+        "LC_predefined_AKM",
+        "LC_predefined_AK74",
+        "LC_predefined_AK101"
+      ]
+    },
+    {
+      "name": "LC_Table_Ammo_Police",
+      "Loot": [
+        "SNAFU_Ammo_500_SW",
+        "AmmoBox_380_35rnd",
+        "AmmoBox_380_35rnd",
+        "AmmoBox_9x19_25rnd",
+        "AmmoBox_9x19_25rnd",
+        "AmmoBox_45ACP_25rnd",
+        "AmmoBox_45ACP_25rnd",
+        "AmmoBox_357_20Rnd",
+        "AmmoBox_357_20Rnd",
+        "AmmoBox_00buck_10rnd",
+        "AmmoBox_00buck_10rnd",
+        "AmmoBox_12gaSlug_10Rnd",
+        "AmmoBox_12gaSlug_10Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "RDG2SmokeGrenade_White",
+        "M18SmokeGrenade_White",
+        "FlashGrenade"
+      ]
+    },
+    {
+      "name": "LC_Table_Ammo_Army",
+      "Loot": [
+        "AmmoBox_9x19_25rnd",
+        "AmmoBox_9x19_25rnd",
+        "AmmoBox_45ACP_25rnd",
+        "AmmoBox_45ACP_25rnd",
+        "AmmoBox_00buck_10rnd",
+        "AmmoBox_00buck_10rnd",
+        "AmmoBox_12gaSlug_10Rnd",
+        "AmmoBox_12gaSlug_10Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_556x45Tracer_20Rnd",
+        "AmmoBox_545x39_20Rnd",
+        "AmmoBox_545x39Tracer_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x39Tracer_20Rnd",
+        "AmmoBox_762x54_20Rnd",
+        "AmmoBox_762x54Tracer_20Rnd",
+        "AmmoBox_9x39_20Rnd",
+        "AmmoBox_9x39AP_20Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_308WinTracer_20Rnd",
+        "M18SmokeGrenade_Red",
+        "M18SmokeGrenade_Green",
+        "M18SmokeGrenade_Yellow",
+        "RGD5Grenade",
+        "M67Grenade"
+      ]
+    },
+    {
+      "name": "LC_Table_Magazines_Police",
+      "Loot": [
+        "Mag_CZ75_15Rnd",
+        "SNAFU_PDW_9mm_Mag",
+        "Tec9_Mag",
+        "SNAFUM1A_20rdMag",
+        "SNAFU_Fort12_12rnd_Mag",
+        "SNAFUAPS_20rdMag",
+        "SNAFU_MP9_30rnd_Mag",
+        "Mag_Glock_15Rnd",
+        "Mag_FNX45_15Rnd",
+        "Mag_MKII_10Rnd",
+        "Mag_Ruger1022_10Rnd",
+        "Mag_Ruger1022_15Rnd",
+        "Mag_Ruger1022_30Rnd",
+        "Mag_CZ61_20Rnd",
+        "Mag_Saiga_5Rnd",
+        "Mag_Saiga_8Rnd",
+        "Mag_AK74_30Rnd",
+        "Mag_AK74_30Rnd_black",
+        "Mag_AK74_30Rnd_green",
+        "Mag_CZ527_5rnd",
+        "Mag_Glock_15Rnd",
+        "Mag_Deagle_9rnd",
+        "Mag_UMP_25Rnd",
+        "Mag_MP5_15Rnd",
+        "Mag_MP5_30Rnd",
+        "Mag_STANAG_30Rnd"
+      ]
+    },
+    {
+      "name": "LC_Table_Magazines_Army",
+      "Loot": [
+        "Mag_CZ75_15Rnd",
+        "Mag_FNX45_15Rnd",
+        "Mag_Saiga_8Rnd",
+        "Mag_Saiga_Drum20Rnd",
+        "Mag_AK74_30Rnd",
+        "Mag_AK74_30Rnd_black",
+        "Mag_AK74_30Rnd_green",
+        "Mag_CZ527_5rnd",
+        "Mag_Glock_15Rnd",
+        "Mag_MP5_30Rnd",
+        "Mag_STANAG_30Rnd",
+        "Mag_STANAGCoupled_30Rnd",
+        "Mag_FAL_20Rnd",
+        "Mag_SVD_10Rnd",
+        "mag_vss_10rnd",
+        "Mag_AK101_30Rnd",
+        "Mag_AK101_30Rnd_black",
+        "Mag_AK101_30Rnd_green",
+        "Mag_AKM_Palm30Rnd_Green",
+        "Mag_AKM_Palm30Rnd_Black",
+        "Mag_AKM_Palm30Rnd",
+        "Mag_AKM_30Rnd",
+        "Mag_AKM_Drum75Rnd_Black",
+        "Mag_AKM_Drum75Rnd_Green"
+      ]
+    },
+    {
+      "name": "LC_Table_Attachments_Police",
+      "Loot": [
+        "MP5_PlasticHndgrd",
+        "MP5_RailHndgrd",
+        "M4_PlasticHndgrd_Black",
+        "M4_MPHndgrd_Black",
+        "M4_RISHndgrd_Black",
+        "Saiga_Bttstck",
+        "AK_PlasticBttstck_Black",
+        "AK_Steel_Buttstock",
+        "AK_FoldingBttstck_Black",
+        "MP5k_StockBttstck",
+        "M4_CQBBttstck_Black",
+        "M4_OEBttstck_Black",
+        "M4_MPBttstck_Black",
+        "M4_CarryHandleOptic",
+        "BUISOptic",
+        "FNP45_MRDSOptic",
+        "ReflexOptic",
+        "MP5_Compensator",
+        "PistolSuppressor",
+        "TLRLight",
+        "Universallight"
+      ]
+    },
+    {
+      "name": "LC_Table_Attachments_Army",
+      "Loot": [
+        "M4_RIS_Cover_Black",
+        "M4_RIS_Cover_Green",
+        "AK74_Hndgrd",
+        "AK_WoodHndgrd",
+        "AK_RailHndgrd_Black",
+        "AK_RailHndgrd_Green",
+        "M4_PlasticHndgrd_Black",
+        "M4_PlasticHndgrd_Green",
+        "M4_PlasticHndgrd_Tan",
+        "M4_PlasticHndgrd_White",
+        "M4_MPHndgrd_Black",
+        "M4_MPHndgrd_Green",
+        "M4_RISHndgrd_Black",
+        "M4_RISHndgrd_Green",
+        "Saiga_Bttstck",
+        "AK_PlasticBttstck_Black",
+        "AK_PlasticBttstck_Green",
+        "AK_WoodBttstck",
+        "AK74_WoodBttstck",
+        "AK_Steel_Buttstock",
+        "AK_FoldingBttstck_Black",
+        "AK_FoldingBttstck_Green",
+        "Fal_OeBttstck",
+        "Fal_FoldingBttstck",
+        "M4_CQBBttstck_Black",
+        "M4_CQBBttstck_Green",
+        "M4_OEBttstck_Black",
+        "M4_OEBttstck_Green",
+        "M4_MPBttstck_Black",
+        "M4_MPBttstck_Green",
+        "M68Optic",
+        "ReflexOptic",
+        "M4_T3NRDSOptic",
+        "KobraOptic",
+        "PUScopeOptic",
+        "HuntingOptic",
+        "PSO1Optic",
+        "PSO11Optic",
+        "KashtanOptic",
+        "ACOGOptic",
+        "Mosin_Compensator",
+        "MP5_Compensator",
+        "PistolSuppressor",
+        "AK_Suppressor",
+        "M4_Suppressor",
+        "Universallight"
+      ]
+    },
+    {
+      "name": "LC_Table_Gear_Police",
+      "Loot": [
+        "Battery9V",
+        "BandageDressing",
+        "PersonalRadio",
+        "BallisticHelmet_Black",
+        "UKAssVest_Black",
+        "PoliceCap",
+        "PoliceJacket",
+        "PoliceJacketOrel",
+        "PoliceVest",
+        "PolicePants",
+        "PolicePantsOrel",
+        "PressVest_LightBlue",
+        "PressVest_Blue"
+      ]
+    },
+    {
+      "name": "LC_Table_Gear_Army",
+      "Loot": [
+        "Battery9V",
+        "BandageDressing",
+        "Rangefinder",
+        "WeaponCleaningKit",
+        "BarbedWire",
+        "Canteen",
+        "AmmoBox",
+        "LandMineTrap",
+        "TTsKOJacket_Camo",
+        "BDUJacket",
+        "GorkaEJacket_Autumn",
+        "GorkaEJacket_Summer",
+        "USMCJacket_Desert",
+        "USMCJacket_Woodland",
+        "TTSKOPants",
+        "BDUPants",
+        "USMCPants_Desert",
+        "USMCPants_Woodland",
+        "GorkaPants_Autumn",
+        "GorkaPants_Summer",
+        "NVGHeadstrap",
+        "AirborneMask",
+        "BallisticHelmet_Black",
+        "BallisticHelmet_Green",
+        "Mich2001Helmet",
+        "HighCapacityVest_Black",
+        "HighCapacityVest_Olive",
+        "StarlightOptic",
+        "KazuarOptic"
+      ]
+    },
+    {
+      "name": "LC_Table_Extra",
+      "Loot": [
+        "MFP_SkittlesB",
+        "MFP_ReesesPieces",
+        "MFP_ReesesCups",
+        "MFP_MilkyWay",
+        "MFP_Doritos",
+        "MFP_CheezIt",
+        "MFP_BagelBites",
+        "MC_SodaCan_KuperBock",
+        "MC_SodaCan_FullFood",
+        "MC_SodaCan_Energetico",
+        "MC_BakedBeansCan_Combat",
+        "MFP_Jerky_Original"
+      ]
+    }
+  ]
+}
