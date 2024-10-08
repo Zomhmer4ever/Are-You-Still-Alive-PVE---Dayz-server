@@ -5,7 +5,11 @@ For a time, per battlemetrics, it was:
 + In the top 400 of all dayz servers
 + The number one 20 slot server for dayz
 
-This includes everything from airborne spawns, destroyed bases, russian robo troops, cultists with bats and knives, a multipart event driven quest to another dimension, that other dimension, multiple POI areas, 2 other seperate quest chains (cult and survivor), custom traders. blood storms, forest mutants, scary af nights, bunkers, teired loot chests, ai factions (robos, cult), mutants everywhere, special mutant spawn locations, gas station survivor thumping parties, boss mutants, killer zombie ai, random hordes, balanced loot spawn, snafu, ggg, arma weapons, arma helis, red falcon helis, much stuff pack, kill rewards, bio zones, black market traders, smugglers dock traders, survivor camp traders, heli trader and much much more. It gets deep, happy diving in!
+This includes everything from airborne spawns, destroyed bases, russian robo troops, cultists with bats and knives, a multipart event driven quest to another dimension, that other dimension, multiple POI areas with custom events, 2 other seperate quest chains (cult and survivor), custom traders. blood storms, forest mutants, scary af nights, bunkers, teired loot chests, ai factions (robos, cult), mutants everywhere, special mutant spawn locations, gas station survivor thumping parties, boss mutants, killer zombie ai, random hordes, balanced loot spawn, snafu, ggg, arma weapons, arma helis, red falcon helis, FOG, much stuff pack, kill rewards, bio and gas zones, black market traders, smugglers dock traders, survivor camp traders, heli trader, customized pvz spawn system, exstensive and balanced pvz customisable zombies profile, custom territory files and events for multiple mutants, job board quests at survivor camp(not same as the quest line), climbing zombies, server supporter(only) trader, quest to authorize server supporters, many custom mappings, and much much more. It gets deep, happy diving in!
+
+## Special Notes
++ The majority of the mapping is loaded as a "set" in vpp object builder, this includes the various trader camps. Find the files in the vpp profiles folder
++ 
 
 ### Server mod list
 @SkalistyBridge;@BridgePrison;@BiathlonArena;@MTTKMapping Arena V2;@SpawnerBubaku;@FixVehiclePositions;@Survivor Missions;@DayZ-Armband-Factions-AI-Addon;@DayZ-Dynamic-AI-Addon;@Highlander;@GameLabs;
