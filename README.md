@@ -10,7 +10,7 @@ This includes everything from airborne spawns, destroyed bases, russian robo tro
 ## Special Notes
 + The majority of the mapping is loaded as a "set" in vpp object builder, this includes the various trader camps. Find the files in the vpp profiles folder
 + The server mod pack is on the steam workshop; AreYouStillAlive_PVE_p1. Feel free to download and open to find ammo stack configs for all the weapon mods used
-+ The lore is included in this repository. The server story events start at "paging Dr. Lvovich" and ends with "the other side is hungry"
++ The lore is included in this repository. The server story events go in a particular order and each provides an item for the next.  "paging Dr. Lvovich" --> the office --> the mutant hunters --> needle in the fangs --> and ends with "the other side is hungry". These are not quest driven but rather proximity driven events (mainly spawnerbubanku)
 
 ### Server mod list
 @SkalistyBridge;@BridgePrison;@BiathlonArena;@MTTKMapping Arena V2;@SpawnerBubaku;@FixVehiclePositions;@Survivor Missions;@DayZ-Armband-Factions-AI-Addon;@DayZ-Dynamic-AI-Addon;@Highlander;@GameLabs;
