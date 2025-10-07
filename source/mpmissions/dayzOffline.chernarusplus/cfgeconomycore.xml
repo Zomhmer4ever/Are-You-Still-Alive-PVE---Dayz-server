@@ -39,10 +39,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="expansion_events.xml" type="events" />
 	</ce>
-	<ce folder="artifacts_ce">
-		<file name="artifacts_types.xml" type="types" />
-	</ce>
-	<ce folder="rusforma_ce">
+		<ce folder="rusforma_ce">
 		<file name="rusforma_types.xml" type="types" />
 	</ce>
 	<ce folder="arma2Helis_ce">
@@ -54,34 +51,8 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="fog_ce">
 		<file name="fog_types.xml" type="types" />
 	</ce>
-	<ce folder="mc_ce">
-		<file name="mc_types.xml" type="types" />
-	</ce>
-	<ce folder="mfp_ce">
-		<file name="mfp_types.xml" type="types" />
-	</ce>
-	<ce folder="msp_ce">
-		<file name="msp_types.xml" type="types" />
-	</ce>
-	<ce folder="mutants_ce">
-		<file name="mutants_types.xml" type="types" />
-	</ce>
-	<ce folder="mvs_ce">
-		<file name="mvs_types.xml" type="types" />
-	</ce>
+	
 	<ce folder="snafu_ce">
 		<file name="snafu_types.xml" type="types" />
-	</ce>
-  <ce folder="dna_ce">
-		<file name="dna_types.xml" type="types" />
-	</ce> 
-  <ce folder="avp_ce">
-		<file name="avp_types.xml" type="types" />
-	</ce>
-   <ce folder="g3_ce">
-		<file name="g3_types.xml" type="types" />
-	</ce>
-  <ce folder="huffy_ce">
-		<file name="huffy_types.xml" type="types" />
 	</ce>
 </economycore>
